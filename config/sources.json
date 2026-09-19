@@ -1,0 +1,30 @@
+{
+  "_说明": "热榜源配置。enabled=false 可临时关掉某个平台；name 是万象里显示的来源名。改动后 Actions 会自动重跑。",
+  "_字段": {
+    "platform": "DailyHotApi 的平台名（对应 https://github.com/imsyy/DailyHotApi 的 src/routes/*.ts）",
+    "name": "在万象信息流里显示的名字",
+    "enabled": "是否抓取"
+  },
+  "feeds": [
+    { "platform": "zhihu",    "name": "知乎热榜",        "enabled": true },
+    { "platform": "weibo",    "name": "微博热搜",        "enabled": true },
+    { "platform": "bilibili", "name": "哔哩哔哩热榜",     "enabled": true },
+    { "platform": "toutiao",  "name": "今日头条热榜",     "enabled": true },
+    { "platform": "douyin",   "name": "抖音热榜",        "enabled": true },
+    { "platform": "juejin",   "name": "掘金热榜",        "enabled": true },
+    { "platform": "github",   "name": "GitHub Trending", "enabled": true },
+    { "platform": "sspai",    "name": "少数派热门",       "enabled": true },
+    { "platform": "36kr",     "name": "36氪热榜",        "enabled": true },
+    { "platform": "ithome",   "name": "IT之家热榜",       "enabled": true },
+    { "platform": "thepaper", "name": "澎湃热榜",        "enabled": true },
+    { "platform": "hackernews", "name": "Hacker News",   "enabled": false },
+    { "platform": "v2ex",     "name": "V2EX 热门",       "enabled": false },
+    { "platform": "hostloc",  "name": "Hostloc 热门",    "enabled": false },
+    { "platform": "linuxdo",  "name": "LinuxDo 热门",    "enabled": false },
+    { "platform": "nodeseek", "name": "NodeSeek 热门",   "enabled": false },
+    { "platform": "csdn",     "name": "CSDN 热榜",       "enabled": false },
+    { "platform": "jianshu",  "name": "简书热榜",        "enabled": false },
+    { "platform": "guokr",    "name": "果壳热门",        "enabled": false },
+    { "platform": "weread",   "name": "微信读书热榜",     "enabled": false }
+  ]
+}
