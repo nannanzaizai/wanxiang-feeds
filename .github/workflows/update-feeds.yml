@@ -1,38 +1,34 @@
 name: 更新万象信息源
 
-# 为什么用 GitHub Actions：
-#   - 不用自建服务器、不用家里机器常开（用户明确要求）
-#   - 公开仓库的 Actions 免费且时长无限制
-#   - 产物（feeds/*.json）直接提交回仓库，App 通过 CDN 拉取
+# 架构：GitHub Actions 负责抓（免费无限额度）→ 产物提交回本仓库 → 万象 App 读取
+#   App 取数走两条通道（万象的实例轮换会自动降级）：
+#     ① Gitee 镜像（国内直连 ~0.1s，需仓库公开；见 README「Gitee 通道」）
+#     ② ghproxy.net 转发 GitHub raw（实测 5/5 成功，0.5~0.7s）
 #
-# 时效性说明：GitHub 免费版的 schedule 不保证准时，高峰期可能延迟 5~30 分钟、极端情况下跳过。
-# 热榜场景完全够用；如果你要"分钟级最新"，那就只能自建（本次已排除）。
+# 时效性：GitHub 免费版 schedule 不保证准时，高峰期延迟 5~30 分钟，热榜场景够用。
 
 on:
   schedule:
-    # 每 30 分钟跑一次（错开整点，降低排队概率）
-    - cron: '7,37 * * * *'
-  workflow_dispatch:        # 支持在网页上手动点击运行
+    - cron: '7,37 * * * *'      # 每 30 分钟（错开整点，降低排队）
+  workflow_dispatch:
   push:
     branches: [main]
-    paths:                  # 改了脚本或配置就立刻重跑一次
+    paths:
       - 'scripts/**'
       - 'config/**'
       - '.github/workflows/**'
 
 permissions:
-  contents: write           # 需要写权限把 feeds/ 提交回仓库
+  contents: write
 
 concurrency:
   group: update-feeds
-  cancel-in-progress: false # 前一次没跑完就排队，避免两个任务同时提交
+  cancel-in-progress: false
 
 jobs:
-  # ─────────────────────────────────────────────────────────
-  # Job 1：热榜聚合（DailyHotApi）—— 无需任何账号/密钥，开箱即用
-  # ─────────────────────────────────────────────────────────
+  # ── 热榜聚合（DailyHotApi）── 无需任何账号，开箱即用
   hotlist:
-    name: 热榜聚合（DailyHotApi）
+    name: 热榜聚合
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
@@ -41,7 +37,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
 
       - uses: actions/setup-python@v5
         with:
@@ -52,59 +47,59 @@ jobs:
           set -e
           git clone --depth 1 https://github.com/imsyy/DailyHotApi.git /tmp/dha
           cd /tmp/dha
-          npm ci --no-audit --no-fund --loglevel=error || npm install --no-audit --no-fund
+          npm ci --no-audit --no-fund --loglevel=error 2>/dev/null || npm install --no-audit --no-fund
           npm run build
-          # ⚠️ 必须带 NODE_ENV=development，否则 dist/index.js 里的 serve() 分支不会执行
-          #    （源码：if (NODE_ENV === 'development' || NODE_ENV === 'docker') serveHotApi()）
+          # ⚠️ 必须带 NODE_ENV=development —— dist/index.js 里只有 development/docker 才会 serve()
           NODE_ENV=development RSS_MODE=true PORT=6688 USE_LOG_FILE=false \
             nohup node dist/index.js > /tmp/dha.log 2>&1 &
           for i in $(seq 1 30); do
-            if curl -sf http://127.0.0.1:6688/ >/dev/null 2>&1; then echo "✅ 服务就绪（第 ${i} 次探测）"; break; fi
+            curl -sf http://127.0.0.1:6688/ >/dev/null 2>&1 && { echo "✅ 服务就绪"; break; }
             sleep 2
           done
-          curl -sf http://127.0.0.1:6688/ >/dev/null 2>&1 || { echo "❌ 服务未起来"; tail -30 /tmp/dha.log; exit 1; }
+          curl -sf http://127.0.0.1:6688/ >/dev/null 2>&1 || { echo "❌ 启动失败"; tail -30 /tmp/dha.log; exit 1; }
 
       - name: 转换为万象可读的 JSON Feed
         run: |
           python3 scripts/rss_to_jsonfeed.py \
-            --base http://127.0.0.1:6688 \
-            --out feeds \
-            --config config/sources.json
+            --base http://127.0.0.1:6688 --out feeds --config config/sources.json
 
-      - name: 提交产物
+      - name: 提交到本仓库
         run: |
           git config user.name  "wanxiang-bot"
           git config user.email "wanxiang-bot@users.noreply.github.com"
           git add feeds/
-          if git diff --staged --quiet; then
-            echo "本次无变化"
-          else
-            git commit -m "feeds: 热榜更新 $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
-          fi
+          git diff --staged --quiet || git commit -m "feeds: 热榜更新 $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push || true
 
-  # ─────────────────────────────────────────────────────────
-  # Job 2：微信公众号（wewe-rss）—— 需要一次性登录，见 README「公众号接入」
-  #   默认关闭；在仓库 Settings → Variables 里设 ENABLE_WEWE=true 才启用
-  # ─────────────────────────────────────────────────────────
+      - name: 同步到 Gitee（国内直连通道，未配置则跳过）
+        continue-on-error: true
+        env:
+          GITEE_USER: ${{ secrets.GITEE_USER }}
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+        run: |
+          if [ -z "${GITEE_TOKEN:-}" ]; then
+            echo "未配置 GITEE_TOKEN，跳过（App 将走 ghproxy 通道）"; exit 0
+          fi
+          REPO="${{ vars.GITEE_REPO }}"; REPO="${REPO:-wanxiang-feeds}"
+          git remote remove gitee 2>/dev/null || true
+          git remote add gitee "https://${GITEE_USER}:${GITEE_TOKEN}@gitee.com/${GITEE_USER}/${REPO}.git"
+          git push gitee HEAD:master --force
+
+  # ── 微信公众号（wewe-rss）── 需一次性登录，见 README；默认关闭
   wechat:
-    name: 公众号订阅（wewe-rss）
+    name: 公众号订阅
     runs-on: ubuntu-latest
     timeout-minutes: 25
     if: ${{ vars.ENABLE_WEWE == 'true' }}
     steps:
       - uses: actions/checkout@v4
 
-      - name: 检查登录态数据库是否已就位
+      - name: 检查登录态数据库
         run: |
-          if [ ! -f data/wewe-rss.db ]; then
-            echo "❌ 未找到 data/wewe-rss.db（微信读书登录态）"
-            echo "   请先按 README「公众号接入」完成一次性登录，把数据库提交到仓库。"
-            exit 1
-          fi
+          [ -f data/wewe-rss.db ] || { echo "❌ 缺少 data/wewe-rss.db，见 README「公众号接入」"; exit 1; }
           ls -lh data/wewe-rss.db
 
-      - name: 启动 wewe-rss（SQLite 模式，复用仓库里的登录态）
+      - name: 启动 wewe-rss（SQLite 模式，复用登录态）
         run: |
           set -e
           docker run -d --name wewe -p 4000:4000 \
@@ -116,43 +111,46 @@ jobs:
             -v "$PWD/data:/app/data" \
             cooderl/wewe-rss-sqlite:latest
           for i in $(seq 1 60); do
-            if curl -sf http://127.0.0.1:4000/ >/dev/null 2>&1; then echo "✅ wewe-rss 就绪"; break; fi
+            curl -sf http://127.0.0.1:4000/ >/dev/null 2>&1 && { echo "✅ 就绪"; break; }
             sleep 3
           done
-          docker logs --tail 30 wewe
+          docker logs --tail 20 wewe
 
-      - name: 触发更新并导出订阅内容
+      - name: 触发更新并导出
         run: |
           set -e
           mkdir -p feeds
-          AUTH="${{ secrets.WEWE_AUTH_CODE }}"
-          # update=true 触发增量抓取；limit=50 控制每个号取最近 50 篇
-          code=$(curl -s -o feeds/wx-all.json -w "%{http_code}" --max-time 180 \
-                 "http://127.0.0.1:4000/feeds/all.json?update=true&limit=50" \
-                 -H "Authorization: ${AUTH}")
-          echo "HTTP $code"
-          head -c 400 feeds/wx-all.json || true
-          # 校验是 JSON 且有条目
+          curl -s -o feeds/wx-all.json --max-time 180 \
+            "http://127.0.0.1:4000/feeds/all.json?update=true&limit=50" \
+            -H "Authorization: ${{ secrets.WEWE_AUTH_CODE }}"
           python3 - <<'PY'
           import json, sys
           try:
               d = json.load(open('feeds/wx-all.json', encoding='utf-8'))
-              print(f"✅ 公众号条目：{len(d.get('items', []))} 条")
-              if not d.get('items'):
-                  print("⚠️ 条目为空（登录态可能已过期，需要重新登录更新 db）")
+              n = len(d.get('items', []))
+              print(f"✅ 公众号条目 {n} 条")
+              if n == 0:
+                  print("⚠️ 条目为空：登录态可能已过期，需重新登录并更新 data/wewe-rss.db")
           except Exception as e:
-              print(f"❌ 导出内容不是合法 JSON：{e}")
-              sys.exit(1)
+              print(f"❌ 导出内容不是合法 JSON：{e}"); sys.exit(1)
           PY
 
-      - name: 提交产物
+      - name: 提交到本仓库
         run: |
           git config user.name  "wanxiang-bot"
           git config user.email "wanxiang-bot@users.noreply.github.com"
           git add feeds/
-          if git diff --staged --quiet; then
-            echo "本次无变化"
-          else
-            git commit -m "feeds: 公众号更新 $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
-          fi
+          git diff --staged --quiet || git commit -m "feeds: 公众号更新 $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push || true
+
+      - name: 同步到 Gitee
+        continue-on-error: true
+        env:
+          GITEE_USER: ${{ secrets.GITEE_USER }}
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+        run: |
+          if [ -z "${GITEE_TOKEN:-}" ]; then echo "未配置 GITEE_TOKEN，跳过"; exit 0; fi
+          REPO="${{ vars.GITEE_REPO }}"; REPO="${REPO:-wanxiang-feeds}"
+          git remote remove gitee 2>/dev/null || true
+          git remote add gitee "https://${GITEE_USER}:${GITEE_TOKEN}@gitee.com/${GITEE_USER}/${REPO}.git"
+          git push gitee HEAD:master --force
