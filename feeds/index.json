@@ -1,8 +1,8 @@
 {
  "version": "https://jsonfeed.org/version/1.1",
  "title": "万象热榜索引",
- "generated_at": "2026-09-19 21:37:36",
- "total_items": 473,
+ "generated_at": "2026-09-20 02:49:02",
+ "total_items": 502,
  "feeds": [
   {
    "platform": "zhihu",
@@ -10,7 +10,9 @@
    "items": 30,
    "thumbs": 28,
    "file": "zhihu.json",
-   "bytes": 32672
+   "bytes": 42698,
+   "img_fixed": 0,
+   "img_dropped": 0
   },
   {
    "platform": "weibo",
@@ -18,7 +20,9 @@
    "items": 51,
    "thumbs": 0,
    "file": "weibo.json",
-   "bytes": 17293
+   "bytes": 17568,
+   "img_fixed": 0,
+   "img_dropped": 0
   },
   {
    "platform": "bilibili",
@@ -26,7 +30,9 @@
    "items": 100,
    "thumbs": 100,
    "file": "bilibili.json",
-   "bytes": 44067
+   "bytes": 45272,
+   "img_fixed": 0,
+   "img_dropped": 0
   },
   {
    "platform": "toutiao",
@@ -34,7 +40,9 @@
    "items": 50,
    "thumbs": 50,
    "file": "toutiao.json",
-   "bytes": 24406
+   "bytes": 24626,
+   "img_fixed": 0,
+   "img_dropped": 0
   },
   {
    "platform": "douyin",
@@ -42,7 +50,9 @@
    "items": 48,
    "thumbs": 0,
    "file": "douyin.json",
-   "bytes": 11941
+   "bytes": 12069,
+   "img_fixed": 0,
+   "img_dropped": 0
   },
   {
    "platform": "juejin",
@@ -50,7 +60,9 @@
    "items": 50,
    "thumbs": 0,
    "file": "juejin.json",
-   "bytes": 17107
+   "bytes": 17063,
+   "img_fixed": 0,
+   "img_dropped": 0
   },
   {
    "platform": "github",
@@ -58,23 +70,29 @@
    "items": 15,
    "thumbs": 0,
    "file": "github.json",
-   "bytes": 4729
+   "bytes": 4729,
+   "img_fixed": 0,
+   "img_dropped": 0
   },
   {
    "platform": "sspai",
    "name": "少数派热门",
    "items": 40,
-   "thumbs": 40,
+   "thumbs": 0,
    "file": "sspai.json",
-   "bytes": 20535
+   "bytes": 17751,
+   "img_fixed": 0,
+   "img_dropped": 40
   },
   {
    "platform": "36kr",
    "name": "36氪热榜",
-   "items": 21,
-   "thumbs": 21,
+   "items": 50,
+   "thumbs": 50,
    "file": "36kr.json",
-   "bytes": 9777
+   "bytes": 22120,
+   "img_fixed": 0,
+   "img_dropped": 0
   },
   {
    "platform": "ithome",
@@ -82,7 +100,9 @@
    "items": 48,
    "thumbs": 48,
    "file": "ithome.json",
-   "bytes": 19229
+   "bytes": 17650,
+   "img_fixed": 0,
+   "img_dropped": 0
   },
   {
    "platform": "thepaper",
@@ -90,7 +110,9 @@
    "items": 20,
    "thumbs": 20,
    "file": "thepaper.json",
-   "bytes": 7590
+   "bytes": 7630,
+   "img_fixed": 0,
+   "img_dropped": 0
   }
  ]
 }
