@@ -66,6 +66,10 @@ def is_allowed(matched_value: str) -> bool:
         return True
     if v.startswith("<") and v.endswith(">"):
         return True
+    # 代码里的模板变量（如 f"https://x-access-token:{token}@host"、shell 的 ${TOKEN}）
+    # 是占位而不是真凭据 —— 但形如 https://user:realpass@host 的真值仍会被检出
+    if re.search(r"\{[^}]{1,40}\}", v) or re.search(r"\$\{?[A-Za-z_][A-Za-z0-9_]*\}?", v):
+        return True
     low = v.lower()
     return any(a.lower() in low for a in ALLOW_SUBSTR)
 
@@ -110,6 +114,9 @@ def selftest() -> bool:
         ("真凭据混在说明旁（重要）", "Secret 名是 X，真值是: MyRealToken12345", True),
         ("中文标签的真凭据（重要）", "登录密码：MyPass12345678", True),
         ("中文冒号的真凭据（重要）", "接口密钥：sk-abcdef1234567890", True),
+        ("代码里的模板 URL（不应误报）", 'u = f"https://x-access-token:{token}@github.com/o/r.git"', False),
+        ("shell 变量 URL（不应误报）", 'git push "https://x-access-token:${TOKEN}@github.com/o/r.git"', False),
+        ("真实 URL 凭据仍须检出（重要）", 'git push "https://user:realpass999@github.com/o/r.git"', True),
     ]
     ok = True
     for label, text, should_hit in fixtures:
