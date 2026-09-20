@@ -94,10 +94,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: 检查登录态数据库
+      - name: 解密登录态数据库（加密版入库，口令存 GitHub Secret）
+        env:
+          WEWE_DB_PASS: ${{ secrets.WEWE_DB_PASS }}
         run: |
-          [ -f data/wewe-rss.db ] || { echo "❌ 缺少 data/wewe-rss.db，见 README「公众号接入」"; exit 1; }
+          set -e
+          if [ ! -f data/wewe-rss.db.enc ]; then
+            echo "❌ 缺少 data/wewe-rss.db.enc —— 见 README「公众号接入」第三步"; exit 1
+          fi
+          if [ -z "${WEWE_DB_PASS:-}" ]; then
+            echo "❌ 未配置 WEWE_DB_PASS Secret（解密口令）"; exit 1
+          fi
+          mkdir -p data
+          # 登录态库含微信读书 cookie，绝不入库；仓库里只存加密版
+          openssl enc -d -aes-256-cbc -pbkdf2 -iter 100000 \
+            -pass env:WEWE_DB_PASS -in data/wewe-rss.db.enc -out data/wewe-rss.db
           ls -lh data/wewe-rss.db
+          echo "✅ 登录态已解密（明文仅存在于本次运行，不落仓库）"
 
       - name: 启动 wewe-rss（SQLite 模式，复用登录态）
         run: |

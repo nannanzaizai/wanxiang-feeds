@@ -1,3 +1,33 @@
 node_modules/
+dist/
+build/
+
+# ── 日志 ──
 *.log
+
+# ── 凭据与密钥（绝不入库）──
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.cer
+*.p7b
+*.jks
+credentials.json
+
+# ── wewe-rss 登录态数据库 ──
+# 该库内含「微信读书」登录 cookie，属敏感数据，绝不入库。
+# 只允许【加密版】data/wewe-rss.db.enc 提交（见 README「公众号接入」）。
+data/*.db
+data/*.db-wal
+data/*.db-shm
 data/*.db-journal
+data/*.sqlite
+data/*.sqlite3
+
+# ── 编辑器 / 系统 ──
+.DS_Store
+.idea/
+.vscode/
+*.swp

@@ -90,18 +90,53 @@ docker run -d --name wewe-local -p 4000:4000 \
 2. 「公众号管理」里搜索并**添加要订阅的公众号**
 3. 等它抓一轮（或手动点更新）
 
-完成后把登录态推进仓库：
+完成后把登录态推进仓库 —— ⚠️ **该库内含「微信读书」登录 cookie，属敏感数据，绝不直接提交**，必须加密后入库：
 
 ```bash
-cp ~/wewe-rss/data/wewe-rss.db <本仓库>/data/wewe-rss.db
-cd <本仓库> && git add data/ && git commit -m "add: wewe-rss 登录态" && git push
+cd <本仓库>
+mkdir -p data
+# 1) 加密（用项目里现成的脚本，会交互式提示输入口令，口令不落盘）
+bash <(curl -fsSL https://gitee.com/gfcat/wanxiang-feeds/raw/master/scripts/encrypt-db.sh) ~/wewe-rss/data/wewe-rss.db
+#    或手动：openssl enc -aes-256-cbc -pbkdf2 -iter 100000 -salt \
+#             -in ~/wewe-rss/data/wewe-rss.db -out data/wewe-rss.db.enc
+# 2) 只提交加密文件（明文 *.db 已被 .gitignore 挡住）
+git add data/wewe-rss.db.enc
+git commit -m "add: wewe-rss 登录态（加密）"
+git push
 ```
+
+> 口令要求：12 位以上，**建议纯字母数字**（中文输入法下全角符号易导致解密失败）。这个口令同时要配到 GitHub Secret `WEWE_DB_PASS`。
 
 再启用该 Job —— GitHub 仓库 **Settings → Secrets and variables → Actions**：
 - **Variables** 页新增 `ENABLE_WEWE` = `true`
 - **Secrets** 页新增 `WEWE_AUTH_CODE` = 上面设的授权码
+- **Secrets** 页新增 `WEWE_DB_PASS` = 加密登录态时输入的那个口令
 
-**⚠️ 登录态会过期**（数周到数月）。表现：「公众号订阅」Job 日志出现「条目为空」。处理：本地按上面步骤重新扫码，把新的 `data/wewe-rss.db` 覆盖提交。
+**⚠️ 登录态会过期**（数周到数月）。表现：「公众号订阅」Job 日志出现「条目为空」。处理：本地按上面步骤重新扫码，**重新加密**并覆盖提交：
+
+```bash
+openssl enc -aes-256-cbc -pbkdf2 -iter 100000 -salt \
+  -in ~/wewe-rss/data/wewe-rss.db -out data/wewe-rss.db.enc   # 用同一个口令
+git add data/wewe-rss.db.enc && git commit -m "update: 刷新登录态" && git push
+```
+
+> 若换了口令，记得同步更新 GitHub Secret `WEWE_DB_PASS`，否则 Actions 解密失败。
+
+## 三之二、隐私与凭据自检（推送前必做）
+
+仓库公开，推送前跑一遍门禁脚本，确认没有把凭据/个人信息带上去：
+
+```bash
+python3 scripts/scan-secrets.py --selftest                  # 先自检，必须全绿
+python3 scripts/scan-secrets.py . --tracked                 # 只报已被 git 跟踪的命中
+```
+
+命中且被跟踪 → 退出码 1，必须处理。`.gitignore` 已挡住：`.env`、`*.pem/*.key/*.p12`、
+`data/*.db`（明文登录态）、依赖与构建产物。
+
+**本仓库刻意不含**：任何账号口令、API 令牌、cookie、本机绝对路径、邮箱、真实手机号。
+唯一与个人相关的信息是**你的公众号订阅列表**（在 `feeds/wx-all.json` 里，只含公众号名称与文章），
+不含微信账号、阅读记录等任何账号级数据。
 
 ---
 
