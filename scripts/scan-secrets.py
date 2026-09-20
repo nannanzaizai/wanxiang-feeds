@@ -155,14 +155,16 @@ def main():
                 ".ets", ".json5", ".toml", ".cfg", ".ini", ".env", ".gitignore", ""}
 
     hard, soft = [], []
-    scanned = 0
+    scanned, skipped_tracked = 0, []
     for p in sorted(root.rglob("*")):
         if p.is_dir() or any(d in p.parts for d in SKIP_DIRS):
             continue
-        if p.name in SKIP_FILES or p.suffix not in TEXT_EXT:
-            continue
         rel = str(p.relative_to(root))
         if args.tracked and tracked and rel not in tracked:
+            continue
+        if p.name in SKIP_FILES or p.suffix not in TEXT_EXT:
+            if rel in tracked:
+                skipped_tracked.append(rel)
             continue
         try:
             text = p.read_text(encoding="utf-8", errors="ignore")
@@ -173,6 +175,10 @@ def main():
             (hard if rel in tracked else soft).append((rel, name, frag, line))
 
     print(f"扫描 {scanned} 个文本文件" + (f"（其中 git 已跟踪 {len(tracked)} 个）" if tracked else ""))
+    if skipped_tracked:
+        print(f"⚠️ 有 {len(skipped_tracked)} 个『已跟踪』文件按跳过规则未扫描 —— 确认是预期的（如扫描器自身）：")
+        for s in skipped_tracked:
+            print(f"    {s}")
     if hard:
         print(f"\n🔴 危险：命中且已被 git 跟踪（{len(hard)} 处）—— 推送前必须处理")
         for rel, name, frag, line in hard[:40]:
