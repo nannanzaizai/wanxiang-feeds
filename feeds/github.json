@@ -2,112 +2,98 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-09-20 07:39:45）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-09-20 12:59:30）",
  "items": [
   {
    "id": "github-0",
-   "url": "https://github.com/cloudflare/security-audit-skill",
-   "title": "security-audit-skill",
-   "content_html": "<p>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</p>",
-   "date_published": "Sun, 20 Sep 2026 07:39:45 GMT"
+   "url": "https://github.com/affaan-m/ECC",
+   "title": "ECC",
+   "content_html": "<p>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</p>",
+   "date_published": "Sun, 20 Sep 2026 12:59:30 GMT"
   },
   {
    "id": "github-1",
-   "url": "https://github.com/trycua/cua",
-   "title": "cua",
-   "content_html": "<p>Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.</p>",
-   "date_published": "Sun, 20 Sep 2026 07:39:45 GMT"
+   "url": "https://github.com/BuilderIO/agent-native",
+   "title": "agent-native",
+   "content_html": "<p>A framework for building agentic apps</p>",
+   "date_published": "Sun, 20 Sep 2026 12:59:30 GMT"
   },
   {
    "id": "github-2",
-   "url": "https://github.com/addyosmani/agent-skills",
-   "title": "agent-skills",
-   "content_html": "<p>Production-grade engineering skills for AI coding agents.</p>",
-   "date_published": "Sun, 20 Sep 2026 07:39:45 GMT"
+   "url": "https://github.com/cloudflare/security-audit-skill",
+   "title": "security-audit-skill",
+   "content_html": "<p>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</p>",
+   "date_published": "Sun, 20 Sep 2026 12:59:30 GMT"
   },
   {
    "id": "github-3",
-   "url": "https://github.com/coder/coder",
-   "title": "coder",
-   "content_html": "<p>Secure environments for developers and their agents</p>",
-   "date_published": "Sun, 20 Sep 2026 07:39:45 GMT"
+   "url": "https://github.com/trycua/cua",
+   "title": "cua",
+   "content_html": "<p>Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.</p>",
+   "date_published": "Sun, 20 Sep 2026 12:59:30 GMT"
   },
   {
    "id": "github-4",
-   "url": "https://github.com/anthropics/claude-code",
-   "title": "claude-code",
-   "content_html": "<p>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</p>",
-   "date_published": "Sun, 20 Sep 2026 07:39:45 GMT"
+   "url": "https://github.com/anthropics/financial-services",
+   "title": "financial-services",
+   "content_html": "<p>financial-services</p>",
+   "date_published": "Sun, 20 Sep 2026 12:59:30 GMT"
   },
   {
    "id": "github-5",
-   "url": "https://github.com/Open-Dev-Society/OpenStock",
-   "title": "OpenStock",
-   "content_html": "<p>OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.</p>",
-   "date_published": "Sun, 20 Sep 2026 07:39:45 GMT"
+   "url": "https://github.com/paperless-ngx/paperless-ngx",
+   "title": "paperless-ngx",
+   "content_html": "<p>A community-supported supercharged document management system: scan, index and archive all your documents</p>",
+   "date_published": "Sun, 20 Sep 2026 12:59:30 GMT"
   },
   {
    "id": "github-6",
-   "url": "https://github.com/higgsfield-ai/higgsfield",
-   "title": "higgsfield",
-   "content_html": "<p>Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters</p>",
-   "date_published": "Sun, 20 Sep 2026 07:39:45 GMT"
+   "url": "https://github.com/anthropics/claude-code",
+   "title": "claude-code",
+   "content_html": "<p>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</p>",
+   "date_published": "Sun, 20 Sep 2026 12:59:30 GMT"
   },
   {
    "id": "github-7",
-   "url": "https://github.com/docling-project/docling",
-   "title": "docling",
-   "content_html": "<p>Get your documents ready for gen AI</p>",
-   "date_published": "Sun, 20 Sep 2026 07:39:45 GMT"
+   "url": "https://github.com/mihail911/modern-software-dev-assignments",
+   "title": "modern-software-dev-assignments",
+   "content_html": "<p>Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)</p>",
+   "date_published": "Sun, 20 Sep 2026 12:59:30 GMT"
   },
   {
    "id": "github-8",
-   "url": "https://github.com/cloudflare/quiche",
-   "title": "quiche",
-   "content_html": "<p>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</p>",
-   "date_published": "Sun, 20 Sep 2026 07:39:45 GMT"
+   "url": "https://github.com/higgsfield-ai/higgsfield",
+   "title": "higgsfield",
+   "content_html": "<p>Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters</p>",
+   "date_published": "Sun, 20 Sep 2026 12:59:30 GMT"
   },
   {
    "id": "github-9",
-   "url": "https://github.com/asciimoo/hister",
-   "title": "hister",
-   "content_html": "<p>Your own search engine</p>",
-   "date_published": "Sun, 20 Sep 2026 07:39:45 GMT"
+   "url": "https://github.com/Open-Dev-Society/OpenStock",
+   "title": "OpenStock",
+   "content_html": "<p>OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.</p>",
+   "date_published": "Sun, 20 Sep 2026 12:59:30 GMT"
   },
   {
    "id": "github-10",
-   "url": "https://github.com/ruanyf/weekly",
-   "title": "weekly",
-   "content_html": "<p>科技爱好者周刊，每周五发布</p>",
-   "date_published": "Sun, 20 Sep 2026 07:39:45 GMT"
+   "url": "https://github.com/coder/coder",
+   "title": "coder",
+   "content_html": "<p>Secure environments for developers and their agents</p>",
+   "date_published": "Sun, 20 Sep 2026 12:59:30 GMT"
   },
   {
    "id": "github-11",
-   "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
-   "title": "everyone-can-use-english",
-   "content_html": "<p>人人都能用英语</p>",
-   "date_published": "Sun, 20 Sep 2026 07:39:45 GMT"
+   "url": "https://github.com/vercel-labs/json-render",
+   "title": "json-render",
+   "content_html": "<p>The Generative UI framework</p>",
+   "date_published": "Sun, 20 Sep 2026 12:59:30 GMT"
   },
   {
    "id": "github-12",
-   "url": "https://github.com/anthropics/knowledge-work-plugins",
-   "title": "knowledge-work-plugins",
-   "content_html": "<p>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</p>",
-   "date_published": "Sun, 20 Sep 2026 07:39:45 GMT"
-  },
-  {
-   "id": "github-13",
-   "url": "https://github.com/cactus-compute/needle",
-   "title": "needle",
-   "content_html": "<p>Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.</p>",
-   "date_published": "Sun, 20 Sep 2026 07:39:45 GMT"
-  },
-  {
-   "id": "github-14",
-   "url": "https://github.com/yynxxxxx/Codex-X",
-   "title": "Codex-X",
-   "content_html": "<p>OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。</p>",
-   "date_published": "Sun, 20 Sep 2026 07:39:45 GMT"
+   "url": "https://github.com/addyosmani/agent-skills",
+   "title": "agent-skills",
+   "content_html": "<p>Production-grade engineering skills for AI coding agents.</p>",
+   "date_published": "Sun, 20 Sep 2026 12:59:30 GMT"
   }
  ]
 }
