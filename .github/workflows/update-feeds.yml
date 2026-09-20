@@ -6,6 +6,15 @@ name: 更新万象信息源
 #     ② ghproxy.net 转发 GitHub raw（实测 5/5 成功，0.5~0.7s）
 #
 # 时效性：GitHub 免费版 schedule 不保证准时，高峰期延迟 5~30 分钟，热榜场景够用。
+#
+# ── 为什么没有「公众号订阅」Job（2026-09-20 决定放弃）──────────────────
+#   曾实现过 wewe-rss 方案（经微信读书取公众号全文），放弃原因：
+#     1. 必须人工扫码登录，登录态存 SQLite，数周到数月就会过期；
+#     2. 过期后表现为「条目静默变空」，需人工重新扫码 + 重新加密提交，属长期负担；
+#     3. 收益不匹配：公众号内容可由公开 RSS 源或手动阅读覆盖。
+#   若将来要恢复：需 wewe-rss 容器 + 登录态加密入库（data/wewe-rss.db.enc）
+#   + Secret（WEWE_AUTH_CODE / WEWE_DB_PASS），并接受定期重扫码。
+#   切勿把登录态明文提交进仓库（本仓库是公开的）。
 
 on:
   schedule:
@@ -93,90 +102,4 @@ jobs:
           git push gitee HEAD:master --force
           echo "✅ 已同步到 Gitee"
 
-  # ── 微信公众号（wewe-rss）── 需一次性登录，见 README；默认关闭
-  wechat:
-    name: 公众号订阅
-    runs-on: ubuntu-latest
-    timeout-minutes: 25
-    if: ${{ vars.ENABLE_WEWE == 'true' }}
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          # ⚠️ 必须完整克隆：checkout 默认 shallow（fetch-depth: 1），
-          # 而 Gitee 拒绝接收 shallow push（报 "shallow update not allowed"），
-          # 会导致下面的「同步到 Gitee」静默失败。
-          fetch-depth: 0
-
-      - name: 解密登录态数据库（加密版入库，口令存 GitHub Secret）
-        env:
-          WEWE_DB_PASS: ${{ secrets.WEWE_DB_PASS }}
-        run: |
-          set -e
-          if [ ! -f data/wewe-rss.db.enc ]; then
-            echo "❌ 缺少 data/wewe-rss.db.enc —— 见 README「公众号接入」第三步"; exit 1
-          fi
-          if [ -z "${WEWE_DB_PASS:-}" ]; then
-            echo "❌ 未配置 WEWE_DB_PASS Secret（解密口令）"; exit 1
-          fi
-          mkdir -p data
-          # 登录态库含微信读书 cookie，绝不入库；仓库里只存加密版
-          openssl enc -d -aes-256-cbc -pbkdf2 -iter 100000 \
-            -pass env:WEWE_DB_PASS -in data/wewe-rss.db.enc -out data/wewe-rss.db
-          ls -lh data/wewe-rss.db
-          echo "✅ 登录态已解密（明文仅存在于本次运行，不落仓库）"
-
-      - name: 启动 wewe-rss（SQLite 模式，复用登录态）
-        run: |
-          set -e
-          docker run -d --name wewe -p 4000:4000 \
-            -e DATABASE_TYPE=sqlite \
-            -e AUTH_CODE="${{ secrets.WEWE_AUTH_CODE }}" \
-            -e FEED_MODE=fulltext \
-            -e SERVER_ORIGIN_URL=http://localhost:4000 \
-            -e MAX_REQUEST_PER_MINUTE=30 \
-            -v "$PWD/data:/app/data" \
-            cooderl/wewe-rss-sqlite:latest
-          for i in $(seq 1 60); do
-            curl -sf http://127.0.0.1:4000/ >/dev/null 2>&1 && { echo "✅ 就绪"; break; }
-            sleep 3
-          done
-          docker logs --tail 20 wewe
-
-      - name: 触发更新并导出
-        run: |
-          set -e
-          mkdir -p feeds
-          curl -s -o feeds/wx-all.json --max-time 180 \
-            "http://127.0.0.1:4000/feeds/all.json?update=true&limit=50" \
-            -H "Authorization: ${{ secrets.WEWE_AUTH_CODE }}"
-          python3 - <<'PY'
-          import json, sys
-          try:
-              d = json.load(open('feeds/wx-all.json', encoding='utf-8'))
-              n = len(d.get('items', []))
-              print(f"✅ 公众号条目 {n} 条")
-              if n == 0:
-                  print("⚠️ 条目为空：登录态可能已过期，需重新登录并更新 data/wewe-rss.db")
-          except Exception as e:
-              print(f"❌ 导出内容不是合法 JSON：{e}"); sys.exit(1)
-          PY
-
-      - name: 提交到本仓库
-        run: |
-          git config user.name  "wanxiang-bot"
-          git config user.email "wanxiang-bot@users.noreply.github.com"
-          git add feeds/
-          git diff --staged --quiet || git commit -m "feeds: 公众号更新 $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push || true
-
-      - name: 同步到 Gitee
-        continue-on-error: true
-        env:
-          GITEE_USER: ${{ secrets.GITEE_USER }}
-          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
-        run: |
-          if [ -z "${GITEE_TOKEN:-}" ]; then echo "未配置 GITEE_TOKEN，跳过"; exit 0; fi
-          REPO="${{ vars.GITEE_REPO }}"; REPO="${REPO:-wanxiang-feeds}"
-          git remote remove gitee 2>/dev/null || true
-          git remote add gitee "https://${GITEE_USER}:${GITEE_TOKEN}@gitee.com/${GITEE_USER}/${REPO}.git"
-          git push gitee HEAD:master --force
+# （公众号订阅 Job 已移除，原因见文件头注释）
