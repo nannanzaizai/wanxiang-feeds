@@ -31,3 +31,8 @@ data/*.sqlite3
 .idea/
 .vscode/
 *.swp
+
+# ── Python 缓存 ──
+__pycache__/
+*.pyc
+*.pyo
