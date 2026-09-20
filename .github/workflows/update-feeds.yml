@@ -33,6 +33,11 @@ jobs:
     timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
+        with:
+          # ⚠️ 必须完整克隆：checkout 默认 shallow（fetch-depth: 1），
+          # 而 Gitee 拒绝接收 shallow push（报 "shallow update not allowed"），
+          # 会导致下面的「同步到 Gitee」静默失败。
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
@@ -72,18 +77,21 @@ jobs:
           git push || true
 
       - name: 同步到 Gitee（国内直连通道，未配置则跳过）
-        continue-on-error: true
         env:
           GITEE_USER: ${{ secrets.GITEE_USER }}
           GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
         run: |
+          set -e
           if [ -z "${GITEE_TOKEN:-}" ]; then
             echo "未配置 GITEE_TOKEN，跳过（App 将走 ghproxy 通道）"; exit 0
           fi
           REPO="${{ vars.GITEE_REPO }}"; REPO="${REPO:-wanxiang-feeds}"
           git remote remove gitee 2>/dev/null || true
           git remote add gitee "https://${GITEE_USER}:${GITEE_TOKEN}@gitee.com/${GITEE_USER}/${REPO}.git"
+          echo "推送到 Gitee: ${GITEE_USER}/${REPO}"
+          # 不用 continue-on-error 掩盖问题：这里失败要能看见
           git push gitee HEAD:master --force
+          echo "✅ 已同步到 Gitee"
 
   # ── 微信公众号（wewe-rss）── 需一次性登录，见 README；默认关闭
   wechat:
@@ -93,6 +101,11 @@ jobs:
     if: ${{ vars.ENABLE_WEWE == 'true' }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          # ⚠️ 必须完整克隆：checkout 默认 shallow（fetch-depth: 1），
+          # 而 Gitee 拒绝接收 shallow push（报 "shallow update not allowed"），
+          # 会导致下面的「同步到 Gitee」静默失败。
+          fetch-depth: 0
 
       - name: 解密登录态数据库（加密版入库，口令存 GitHub Secret）
         env:
