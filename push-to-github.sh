@@ -13,14 +13,14 @@
 #   bash push-to-github.sh --skip-verify  # 推完就走，不等待 Actions 结果
 #
 # ⚠️ 不再需要传「GitHub 用户名」—— 账号名由 token 自动识别。
-#    旧写法 `bash push-to-github.sh nannanzaizai` 里的用户名请去掉。
+#    旧写法 `bash push-to-github.sh <用户名>` 里的用户名请去掉。
 set -euo pipefail
 cd "$(dirname "$0")"
 
 PY="${PYTHON:-python3}"
 if ! command -v "$PY" >/dev/null 2>&1; then
   echo "❌ 未找到 $PY" >&2
-  echo "   可显式指定：PYTHON=/Users/liying/miniforge3/bin/python3 bash push-to-github.sh" >&2
+  echo "   可显式指定：PYTHON=/usr/bin/python3 bash push-to-github.sh" >&2
   exit 1
 fi
 

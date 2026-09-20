@@ -90,7 +90,16 @@ def api(method: str, path: str, token: str, payload=None, timeout=30):
 
 
 def run(cmd, **kw):
-    return subprocess.run(cmd, capture_output=True, text=True, **kw)
+    """执行外部命令；默认 120s 超时（国内访问 github.com 可能长时间挂起）。"""
+    kw.setdefault("timeout", 120)
+    try:
+        return subprocess.run(cmd, capture_output=True, text=True, **kw)
+    except subprocess.TimeoutExpired:
+        class _R:
+            returncode = -1
+            stdout = ""
+            stderr = f"命令超时（{kw['timeout']}s）：{' '.join(str(c) for c in cmd[:3])}"
+        return _R()
 
 
 # ─────────────────────────── 步骤实现 ───────────────────────────
@@ -208,25 +217,89 @@ def git_commit(root: Path, repo_url_name: str):
     return True
 
 
+def push_via_api(token, owner, repo, root: Path):
+    """git push 不通时的兜底：用 Contents API 逐个上传文件。
+
+    为什么需要：国内网络下 git over HTTPS 经常报 "HTTP2 framing layer" 或
+    "Empty reply from server"（github.com 主站 IP 被滚动封锁），而 api.github.com
+    实测稳定（0.5s）。走 API 就绕开了主站。
+    """
+    import base64
+    files = [p for p in sorted(root.rglob("*"))
+             if p.is_file() and ".git" not in p.parts]
+    ok_n, fails = 0, []
+    total = len(files)
+    for idx, p in enumerate(files, 1):
+        rel = str(p.relative_to(root)).replace("\\", "/")
+        try:
+            content = base64.b64encode(p.read_bytes()).decode()
+        except Exception as e:
+            fails.append((rel, f"读取失败: {e}"))
+            continue
+        sha = None
+        st, body = api("GET", f"/repos/{owner}/{repo}/contents/{rel}", token)
+        if st == 200 and isinstance(body, dict):
+            sha = body.get("sha")
+        payload = {"message": f"upload: {rel}", "content": content, "branch": "main"}
+        if sha:
+            payload["sha"] = sha
+        st, body = api("PUT", f"/repos/{owner}/{repo}/contents/{rel}", token, payload)
+        if st in (200, 201):
+            ok_n += 1
+            print(f"\r  上传 {idx}/{total} …", end="", flush=True)
+        else:
+            msg = body.get("message") if isinstance(body, dict) else str(body)[:80]
+            fails.append((rel, f"HTTP {st} {msg}"))
+    print()
+    return ok_n, fails
+
+
 def push(token, owner, repo, root: Path):
-    """用一次性 URL 推送，token 不写入 .git/config。"""
+    """用一次性 URL 推送（token 不写入 .git/config）；不通则自动回退到 API 上传。"""
     remote = f"https://github.com/{owner}/{repo}.git"
     # 清理可能存在的旧 origin（避免把 token 带进去）
     run(["git", "remote", "remove", "origin"], cwd=str(root))
     run(["git", "remote", "add", "origin", remote], cwd=str(root))
     authed = f"https://x-access-token:{token}@github.com/{owner}/{repo}.git"
-    r = run(["git", "push", "-q", authed, "main:main", "--force"], cwd=str(root))
-    if r.returncode != 0:
-        err(f"推送失败：{r.stderr.strip()[:400]}")
-        if "403" in r.stderr or "denied" in r.stderr.lower():
-            say(f"  {C_DIM}提示：token 需要勾选 repo 权限；若是细粒度 token，需给 Contents: Read and write{C_RST}")
+    # ⚠️ 国内网络下 git 走 HTTP/2 常报 "Error in the HTTP2 framing layer"，强制 HTTP/1.1
+    r = run(["git", "-c", "http.version=HTTP/1.1", "push", "-q", authed, "main:main", "--force"],
+            cwd=str(root))
+    if r.returncode == 0:
+        ok(f"已推送到 {remote}")
+        cfg = root / ".git" / "config"
+        if cfg.exists() and token[:12] in cfg.read_text(errors="ignore"):
+            err("检测到 token 残留在 .git/config，请手动清理")
+            return False
+        return True
+
+    # ⚠️ git 的 stderr 可能回显带令牌的 URL，必须脱敏后再输出
+    safe = (r.stderr or "").replace(token, "***REDACTED***").strip()
+    warn(f"git push 失败（国内网络常见）：{safe[:200]}")
+    # 专门识别「缺 workflow 权限」——GitHub 2023 起 repo 权限不再包含改 .github/workflows/
+    if "workflow" in safe.lower() or ".github/workflows" in safe:
+        say()
+        warn("这不是网络问题，是 token 缺 `workflow` 权限")
+        say("   GitHub 从 2023 年起，repo 权限不再包含创建/修改 .github/workflows/ 文件")
+        say("   修复（1 分钟，token 值不变）：")
+        say("     1) 打开 https://github.com/settings/tokens")
+        say("     2) 点开该 token 的名字（编辑现有的，不要新建）")
+        say("     3) 勾上 `workflow`（在 repo 同组）→ 拉到底 Update token")
+        say()
+    say(f"  {C_DIM}→ 自动改用 GitHub Contents API 上传（走 api.github.com，国内稳定）{C_RST}")
+    n_ok, fails = push_via_api(token, owner, repo, root)
+    if n_ok:
+        ok(f"API 上传完成：{n_ok} 个文件")
+    if fails:
+        err(f"{len(fails)} 个文件上传失败：")
+        for f_, e in fails[:6]:
+            say(f"      {f_}: {e}")
+        if any(".github/workflows" in f_ for f_, _ in fails):
+            say()
+            say(f"  {C_WARN}↑ 只有 workflow 文件失败 = token 缺 `workflow` 权限，不是网络问题{C_RST}")
+            say("     修复：https://github.com/settings/tokens → 点开该 token → 勾 workflow → Update token")
+            say("     （token 值不变，改完重跑本脚本即可补传）")
         return False
-    ok(f"已推送到 {remote}")
-    # 复核：确保 token 没留在本地配置里
-    cfg = root / ".git" / "config"
-    if cfg.exists() and token[:12] in cfg.read_text(errors="ignore"):
-        err("检测到 token 残留在 .git/config，请手动清理")
-        return False
+    ok(f"已通过 API 发布到 {remote}")
     return True
 
 

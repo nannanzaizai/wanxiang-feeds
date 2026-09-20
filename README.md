@@ -113,7 +113,7 @@ docker run -d --name wewe-local -p 4000:4000 \
 cd <本仓库>
 mkdir -p data
 # 1) 加密（用项目里现成的脚本，会交互式提示输入口令，口令不落盘）
-bash <(curl -fsSL https://gitee.com/gfcat/wanxiang-feeds/raw/master/scripts/encrypt-db.sh) ~/wewe-rss/data/wewe-rss.db
+bash <(curl -fsSL https://gitee.com/<你的Gitee用户名>/wanxiang-feeds/raw/master/scripts/encrypt-db.sh) ~/wewe-rss/data/wewe-rss.db
 #    或手动：openssl enc -aes-256-cbc -pbkdf2 -iter 100000 -salt \
 #             -in ~/wewe-rss/data/wewe-rss.db -out data/wewe-rss.db.enc
 # 2) 只提交加密文件（明文 *.db 已被 .gitignore 挡住）
@@ -170,8 +170,8 @@ Gitee :  https://gitee.com/<用户>/wanxiang-feeds/raw/master/feeds/zhihu.json
 ```json
 {
   "instances": [
-    "https://gitee.com/gfcat/wanxiang-feeds/raw/master/feeds",
-    "https://ghproxy.net/https://raw.githubusercontent.com/gfcat/wanxiang-feeds/main/feeds",
+    "https://gitee.com/<你的Gitee用户名>/wanxiang-feeds/raw/master/feeds",
+    "https://ghproxy.net/https://raw.githubusercontent.com/<你的Gitee用户名>/wanxiang-feeds/main/feeds",
     "https://rsshub.ktachibana.party",
     "https://rsshub.woodland.cafe"
   ],

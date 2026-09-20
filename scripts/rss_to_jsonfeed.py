@@ -22,6 +22,7 @@ import re
 import time
 import urllib.request
 from pathlib import Path
+from urllib.parse import urlparse, urljoin
 
 # 默认平台（配置文件缺失时的兜底）
 DEFAULT_SOURCES = {
@@ -62,7 +63,32 @@ def fetch_rss(base: str, platform: str, timeout: int = 20) -> str:
         return r.read().decode("utf-8", "ignore")
 
 
-def rss_to_jsonfeed(xml: str, name: str, platform: str) -> dict:
+def absolutize(raw_url: str, link: str) -> str:
+    """把图片地址补成绝对 URL；补不出来就返回空串。
+
+    为什么需要：少数派（sspai）的 media:content 给的是**相对路径**
+    （如 `2026/6/30/article/xxx.png`），App 拿到后直接 JPEG 解码失败
+    （真机日志：`com.news.reader/codec_image DoJpegDecode failed`）。
+    推断依据是条目自身的 link（如 https://sspai.com/post/123 → base 取 sspai.com）。
+    推断不出来宁可丢弃 —— 少一张缩略图，好过给 App 一个必然失败的 URL。
+    """
+    if not raw_url:
+        return ""
+    if raw_url.startswith(("http://", "https://")):
+        return raw_url
+    if raw_url.startswith("//"):
+        return "https:" + raw_url
+    base = ""
+    if link:
+        p = urlparse(link)
+        if p.scheme and p.netloc:
+            base = f"{p.scheme}://{p.netloc}/"
+    if not base:
+        return ""
+    return urljoin(base, raw_url.lstrip("/"))
+
+
+def rss_to_jsonfeed(xml: str, name: str, platform: str, stats: dict = None) -> dict:
     """RSS 2.0 → JSON Feed 1.1（万象可直接解析）"""
     ch_title = tag(xml, "title") or name
     m = re.search(r"<channel>[\s\S]*?<link>([\s\S]*?)</link>", xml)
@@ -76,7 +102,13 @@ def rss_to_jsonfeed(xml: str, name: str, platform: str) -> dict:
         guid = tag(it, "guid") or link or t
         pub = tag(it, "pubDate")
         mi = re.search(r'<media:(?:content|thumbnail)[^>]*url="([^"]+)"', it)
-        img = mi.group(1) if mi else ""
+        raw_img = mi.group(1) if mi else ""
+        img = absolutize(raw_img, link)
+        if stats is not None:
+            if raw_img and not img:
+                stats["dropped"] = stats.get("dropped", 0) + 1
+            elif raw_img and not raw_img.startswith(("http://", "https://")):
+                stats["fixed"] = stats.get("fixed", 0) + 1
 
         parts = []
         if desc and desc != t:
@@ -142,14 +174,22 @@ def main():
     for platform, name in sources.items():
         try:
             xml = fetch_rss(args.base, platform)
-            feed = rss_to_jsonfeed(xml, name, platform)
+            stats = {}
+            feed = rss_to_jsonfeed(xml, name, platform, stats)
             fp = out / f"{platform}.json"
             fp.write_text(json.dumps(feed, ensure_ascii=False, indent=1), encoding="utf-8")
             thumbs = sum(1 for i in feed["items"] if "<img" in i["content_html"])
+            extra = ""
+            if stats.get("fixed"):
+                extra += f" | 补全相对路径 {stats['fixed']}"
+            if stats.get("dropped"):
+                extra += f" | 丢弃无效图 {stats['dropped']}"
             report.append({"platform": platform, "name": name,
                            "items": len(feed["items"]), "thumbs": thumbs,
-                           "file": f"{platform}.json", "bytes": fp.stat().st_size})
-            print(f"  ✅ {platform:<12} {name:<16} {len(feed['items']):>3} 条 | 带图 {thumbs:>3} | {fp.stat().st_size:>7}B")
+                           "file": f"{platform}.json", "bytes": fp.stat().st_size,
+                           "img_fixed": stats.get("fixed", 0),
+                           "img_dropped": stats.get("dropped", 0)})
+            print(f"  ✅ {platform:<12} {name:<16} {len(feed['items']):>3} 条 | 带图 {thumbs:>3} | {fp.stat().st_size:>7}B{extra}")
         except Exception as e:
             print(f"  ❌ {platform:<12} {name:<16} 失败: {type(e).__name__} {e}")
         time.sleep(0.4)
