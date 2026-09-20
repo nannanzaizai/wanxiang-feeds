@@ -88,7 +88,8 @@ def absolutize(raw_url: str, link: str) -> str:
     return urljoin(base, raw_url.lstrip("/"))
 
 
-def rss_to_jsonfeed(xml: str, name: str, platform: str, stats: dict = None) -> dict:
+def rss_to_jsonfeed(xml: str, name: str, platform: str, stats: dict = None,
+                    drop_images: bool = False) -> dict:
     """RSS 2.0 → JSON Feed 1.1（万象可直接解析）"""
     ch_title = tag(xml, "title") or name
     m = re.search(r"<channel>[\s\S]*?<link>([\s\S]*?)</link>", xml)
@@ -103,7 +104,8 @@ def rss_to_jsonfeed(xml: str, name: str, platform: str, stats: dict = None) -> d
         pub = tag(it, "pubDate")
         mi = re.search(r'<media:(?:content|thumbnail)[^>]*url="([^"]+)"', it)
         raw_img = mi.group(1) if mi else ""
-        img = absolutize(raw_img, link)
+        # drop_images：该平台的图片地址不可靠（补全后实测 404），直接不带图
+        img = "" if drop_images else absolutize(raw_img, link)
         if stats is not None:
             if raw_img and not img:
                 stats["dropped"] = stats.get("dropped", 0) + 1
@@ -134,13 +136,19 @@ def rss_to_jsonfeed(xml: str, name: str, platform: str, stats: dict = None) -> d
 
 
 def load_sources(args) -> dict:
-    """优先级：--sources > --config > 内置默认"""
+    """优先级：--sources > --config > 内置默认
+
+    返回 {platform: {"name": str, "drop_images": bool}}
+    drop_images 用于那些图片地址补不出可靠绝对路径的平台
+    （少数派 media:content 给相对路径，按 link 域名补全后实测 404，
+     与其给 App 一个必然失败的 URL 让它反复重试报错，不如直接不带图）。
+    """
     if args.sources:
         out = {}
         for pair in args.sources.split(","):
             if "=" in pair:
                 k, v = pair.split("=", 1)
-                out[k.strip()] = v.strip()
+                out[k.strip()] = {"name": v.strip(), "drop_images": False}
         return out
     if args.config:
         p = Path(args.config)
@@ -150,12 +158,15 @@ def load_sources(args) -> dict:
             out = {}
             for e in entries:
                 if e.get("enabled", True) and e.get("platform"):
-                    out[e["platform"]] = e.get("name", e["platform"])
+                    out[e["platform"]] = {
+                        "name": e.get("name", e["platform"]),
+                        "drop_images": bool(e.get("drop_images", False)),
+                    }
             if out:
                 print(f"从 {args.config} 读取到 {len(out)} 个启用的平台")
                 return out
         print(f"⚠️ 配置文件 {args.config} 不存在或为空，改用内置默认平台集")
-    return DEFAULT_SOURCES
+    return {k: {"name": v, "drop_images": False} for k, v in DEFAULT_SOURCES.items()}
 
 
 def main():
@@ -171,11 +182,12 @@ def main():
     out.mkdir(parents=True, exist_ok=True)
 
     report = []
-    for platform, name in sources.items():
+    for platform, meta in sources.items():
+        name = meta["name"]
         try:
             xml = fetch_rss(args.base, platform)
             stats = {}
-            feed = rss_to_jsonfeed(xml, name, platform, stats)
+            feed = rss_to_jsonfeed(xml, name, platform, stats, meta["drop_images"])
             fp = out / f"{platform}.json"
             fp.write_text(json.dumps(feed, ensure_ascii=False, indent=1), encoding="utf-8")
             thumbs = sum(1 for i in feed["items"] if "<img" in i["content_html"])
