@@ -1,73 +1,33 @@
 #!/usr/bin/env bash
-# 万象 · 一键推送到 GitHub（自动跑凭据门禁，过不了就不推）
+# 万象 · 一键发布到 GitHub（薄包装）
 #
-# 用法：
-#   bash push-to-github.sh <你的GitHub用户名>
-# 例：
-#   bash push-to-github.sh nannanzaizai
+# 真正的逻辑在同目录的 push-to-github.py —— 它做完整流程：
+#   验证 token → 建仓（API，不用点网页）→ 凭据门禁 → 推送 → 触发 Actions → 验证产物
 #
-# 前提：你已经在 GitHub 建好**公开**仓库 wanxiang-feeds，且三项 Initialize 都没勾。
+# 用法（两种等价）：
+#   python3 push-to-github.py
+#   bash push-to-github.sh
+#
+# 常用参数：
+#   bash push-to-github.sh --dry-run      # 只检查环境/仓库/门禁，不写任何东西
+#   bash push-to-github.sh --skip-verify  # 推完就走，不等待 Actions 结果
+#
+# ⚠️ 不再需要传「GitHub 用户名」—— 账号名由 token 自动识别。
+#    旧写法 `bash push-to-github.sh nannanzaizai` 里的用户名请去掉。
 set -euo pipefail
+cd "$(dirname "$0")"
 
-GH_USER="${1:-}"
-if [ -z "$GH_USER" ]; then
-  echo "用法: bash push-to-github.sh <你的GitHub用户名>" >&2
-  echo "例:   bash push-to-github.sh nannanzaizai" >&2
-  exit 1
-fi
-
-REPO="wanxiang-feeds"
 PY="${PYTHON:-python3}"
-
-echo "══════════════════════════════════════════"
-echo " 万象 · 推送到 GitHub（含凭据门禁）"
-echo " 目标: https://github.com/${GH_USER}/${REPO}"
-echo "══════════════════════════════════════════"
-echo
-
-echo "① 门禁自检（工具本身可信吗）"
-"$PY" scripts/scan-secrets.py --selftest || { echo "❌ 自检失败，中止"; exit 1; }
-echo
-
-echo "② 初始化并暂存"
-[ -d .git ] || git init -q
-git add -A
-echo "   暂存 $(git diff --cached --name-only | wc -l | tr -d ' ') 个文件"
-echo
-
-echo "③ 门禁扫描（先 add 再扫，否则新增文件会被漏掉）"
-if ! "$PY" scripts/scan-secrets.py . --tracked; then
-  echo
-  echo "❌ 门禁未过：上面标 🔴 的内容会被 git 跟踪，必须先处理。"
-  echo "   处理完再跑一次本脚本即可。"
+if ! command -v "$PY" >/dev/null 2>&1; then
+  echo "❌ 未找到 $PY" >&2
+  echo "   可显式指定：PYTHON=/Users/liying/miniforge3/bin/python3 bash push-to-github.sh" >&2
   exit 1
 fi
-echo
 
-echo "④ 提交"
-if git diff --cached --quiet; then
-  echo "   无新变化，跳过提交"
-else
-  git -c user.name="wanxiang-bot" \
-      -c user.email="wanxiang-bot@users.noreply.github.com" \
-      commit -q -m "init: 万象信息源构建（GitHub Actions 定时抓取 → JSON Feed）"
-  echo "   已提交: $(git log --oneline | head -1)"
+# 兼容旧用法：把用户名当第一个位置参数传了进来
+if [ $# -gt 0 ] && [[ "$1" != -* ]]; then
+  echo "⚠️  现在不需要传用户名（由 token 自动识别账号），已忽略参数：$1"
+  shift
 fi
-echo
 
-echo "⑤ 关联远程并推送"
-git branch -M main
-git remote remove origin 2>/dev/null || true
-git remote add origin "https://github.com/${GH_USER}/${REPO}.git"
-echo "   远程: $(git remote get-url origin)"
-echo "   推送中（首次可能要求登录，用 Personal Access Token 当密码）..."
-git push -u origin main
-echo
-echo "══════════════════════════════════════════"
-echo "✅ 推送完成"
-echo
-echo "接下来去仓库跑一次验证："
-echo "  https://github.com/${GH_USER}/${REPO}/actions"
-echo "  左侧选「更新万象信息源」→ 右侧 Run workflow"
-echo "  约 3~6 分钟后 feeds/ 目录会被更新"
-echo "══════════════════════════════════════════"
+exec "$PY" push-to-github.py "$@"

@@ -29,21 +29,38 @@ GitHub Actions（每 30 分钟，公开仓库额度无限）
 
 ---
 
-## 一、部署（5 分钟，无需任何密钥）
+## 一、部署（一条命令，无需先建仓库）
 
-1. **在 GitHub 新建公开仓库**，名字建议 `wanxiang-feeds`（Public —— 私有仓库 Actions 每月只有 2000 分钟，本任务 30 分钟一轮需约 7200 分钟/月，会超）
-2. 推送本目录：
-   ```bash
-   cd github-feeds
-   git init && git add -A && git commit -m "init: 万象信息源构建"
-   git branch -M main
-   git remote add origin https://github.com/<用户名>/wanxiang-feeds.git
-   git push -u origin main
-   ```
-3. 仓库 **Actions** 标签 → 左侧「更新万象信息源」→ **Run workflow** 手动跑一次
-4. 约 3~6 分钟后，仓库出现 `feeds/` 目录（`zhihu.json`、`weibo.json`… 加 `index.json`）
+> 前提：一个 GitHub **Personal Access Token**（只勾 `repo` 权限即可）
+> 生成：https://github.com/settings/tokens → Generate new token (classic) → 勾 `repo`
 
-之后每 30 分钟自动更新。
+```bash
+cd github-feeds
+python3 push-to-github.py          # 会安全提示输入 token（不回显、不落盘）
+```
+
+脚本自动完成全流程：
+
+| 步骤 | 做什么 |
+|---|---|
+| 1 | 检查 git / Python 环境 |
+| 2 | 验证 token，用 API 识别你的账号名 |
+| 3 | 检查仓库，**不存在就用 API 自动创建公开仓库**（不必去点网页 —— GitHub 网页在国内不稳，API 稳定 0.5s） |
+| 4 | 跑**凭据门禁**（工具自检 + 扫描），不过就不推 |
+| 5 | 提交并推送（token 用一次性 URL，**不写入 `.git/config`**） |
+| 6 | 触发 Actions 工作流并轮询结果，最后验证 `feeds/index.json` 是否生成 |
+
+常用变体：
+
+```bash
+GH_TOKEN=ghp_xxx python3 push-to-github.py    # 用环境变量传 token
+python3 push-to-github.py --dry-run           # 只检查环境/仓库/门禁，不写任何东西
+python3 push-to-github.py --skip-verify       # 推完就走，不等待 Actions
+python3 push-to-github.py --repo 别的仓库名    # 换仓库名
+bash push-to-github.sh                        # 等价（薄包装）
+```
+
+跑完后，仓库每 30 分钟自动更新。
 
 ### 增删平台
 改 `config/sources.json`：`enabled: false` 关掉；或从注释行里挑其它平台打开（DailyHotApi 支持 72 个）。推送后 Actions 自动重跑。
