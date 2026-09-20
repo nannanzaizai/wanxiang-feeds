@@ -2,357 +2,357 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "稀土掘金",
  "home_page_url": "https://juejin.cn/hot/articles",
- "description": "掘金热榜（via DailyHotApi · 生成于 2026-09-20 02:06:04）",
+ "description": "掘金热榜（via DailyHotApi · 生成于 2026-09-20 02:41:01）",
  "items": [
   {
    "id": "juejin-7686327615728975922",
    "url": "https://juejin.cn/post/7686327615728975922",
    "title": "一座不够大的城市，装下了我毕业后的成长",
    "content_html": "<p>一座不够大的城市，装下了我毕业后的成长</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7686029820083929097",
-   "url": "https://juejin.cn/post/7686029820083929097",
-   "title": "Codex 最新焚决发布，快！",
-   "content_html": "<p>Codex 最新焚决发布，快！</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7686043275371708450",
-   "url": "https://juejin.cn/post/7686043275371708450",
-   "title": "⚡2026 年了，十万级表格还只会「虚拟滚动」？难怪你的页面照样卡顿",
-   "content_html": "<p>⚡2026 年了，十万级表格还只会「虚拟滚动」？难怪你的页面照样卡顿</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686361321609887790",
    "url": "https://juejin.cn/post/7686361321609887790",
    "title": "电商资料包合规体检实战：用蓝耘元生代把 20 分钟人工核验压成一分半",
    "content_html": "<p>电商资料包合规体检实战：用蓝耘元生代把 20 分钟人工核验压成一分半</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686361321610035246",
    "url": "https://juejin.cn/post/7686361321610035246",
    "title": "一份 KDMS 评估报告，怎样排出迁移先后顺序",
    "content_html": "<p>一份 KDMS 评估报告，怎样排出迁移先后顺序</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686407614478237748",
    "url": "https://juejin.cn/post/7686407614478237748",
    "title": "用了一个月 WorkBuddy，聊聊我的真实感受",
    "content_html": "<p>用了一个月 WorkBuddy，聊聊我的真实感受</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686174631263404073",
    "url": "https://juejin.cn/post/7686174631263404073",
    "title": "JDK27正式发布，人麻了!",
    "content_html": "<p>JDK27正式发布，人麻了!</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7685970177332592655",
-   "url": "https://juejin.cn/post/7685970177332592655",
-   "title": "🤖 AI写代码越跑越快，项目组件却越来越乱？一套工程闭环根治重复造轮子 ⚡",
-   "content_html": "<p>🤖 AI写代码越跑越快，项目组件却越来越乱？一套工程闭环根治重复造轮子 ⚡</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686044352167575604",
    "url": "https://juejin.cn/post/7686044352167575604",
    "title": "民间AI排行榜单新鲜出炉，Fable 5.1仅排第三",
    "content_html": "<p>民间AI排行榜单新鲜出炉，Fable 5.1仅排第三</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686669083098775562",
    "url": "https://juejin.cn/post/7686669083098775562",
    "title": "发布 3 天登顶 HN：不生成一个字的模型 Jev，我把它的源码和黑料都扒了一遍",
    "content_html": "<p>发布 3 天登顶 HN：不生成一个字的模型 Jev，我把它的源码和黑料都扒了一遍</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686054741464694826",
    "url": "https://juejin.cn/post/7686054741464694826",
    "title": "周下载量1.1亿的Tailwind，为什么养不活自己？",
    "content_html": "<p>周下载量1.1亿的Tailwind，为什么养不活自己？</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686327764182745114",
    "url": "https://juejin.cn/post/7686327764182745114",
    "title": "AI 给了我 8 个优化方案，全都是对的，但没有一个有用",
    "content_html": "<p>AI 给了我 8 个优化方案，全都是对的，但没有一个有用</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686534839903535144",
    "url": "https://juejin.cn/post/7686534839903535144",
    "title": "ZCode 把整个 Git 仓库加密上传到了阿里云 OSS：一次客户端逆向的完整复盘",
    "content_html": "<p>ZCode 把整个 Git 仓库加密上传到了阿里云 OSS：一次客户端逆向的完整复盘</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686334821930516489",
    "url": "https://juejin.cn/post/7686334821930516489",
    "title": "杭州，我来了",
    "content_html": "<p>杭州，我来了</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686090678486073395",
    "url": "https://juejin.cn/post/7686090678486073395",
    "title": "从 0 到 1 速通 WorkBuddy",
    "content_html": "<p>从 0 到 1 速通 WorkBuddy</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686452260913053715",
    "url": "https://juejin.cn/post/7686452260913053715",
    "title": "2026年，前端框架开始为 AI 而生了",
    "content_html": "<p>2026年，前端框架开始为 AI 而生了</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686047425312358436",
    "url": "https://juejin.cn/post/7686047425312358436",
    "title": "AI 热点日报（2026-09-17）：谷歌 Gemini 3.8 Live 双模型发布，OpenAI 联手 Anthropic 共商 AI 安全",
    "content_html": "<p>AI 热点日报（2026-09-17）：谷歌 Gemini 3.8 Live 双模型发布，OpenAI 联手 Anthropic 共商 AI 安全</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7686341072615948326",
-   "url": "https://juejin.cn/post/7686341072615948326",
-   "title": "真没想到，AI 圈又杀出来一匹黑马！",
-   "content_html": "<p>真没想到，AI 圈又杀出来一匹黑马！</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7686317828618502144",
-   "url": "https://juejin.cn/post/7686317828618502144",
-   "title": "Swift 6.4 发布：iOS开发者值得关注的新特性",
-   "content_html": "<p>Swift 6.4 发布：iOS开发者值得关注的新特性</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686397150886477851",
    "url": "https://juejin.cn/post/7686397150886477851",
    "title": "为什么越来越多开发者开始用 PostgreSQL？",
    "content_html": "<p>为什么越来越多开发者开始用 PostgreSQL？</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7686462220679594034",
-   "url": "https://juejin.cn/post/7686462220679594034",
-   "title": "把 Agent 框架拆开：PI 开发生产级 Harness",
-   "content_html": "<p>把 Agent 框架拆开：PI 开发生产级 Harness</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686699741968400430",
    "url": "https://juejin.cn/post/7686699741968400430",
    "title": "这个小程序是 AI 帮我写的，可它里面一个 AI 功能都没有",
    "content_html": "<p>这个小程序是 AI 帮我写的，可它里面一个 AI 功能都没有</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686317828618502144",
+   "url": "https://juejin.cn/post/7686317828618502144",
+   "title": "Swift 6.4 发布：iOS开发者值得关注的新特性",
+   "content_html": "<p>Swift 6.4 发布：iOS开发者值得关注的新特性</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686341072615948326",
+   "url": "https://juejin.cn/post/7686341072615948326",
+   "title": "真没想到，AI 圈又杀出来一匹黑马！",
+   "content_html": "<p>真没想到，AI 圈又杀出来一匹黑马！</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686462220679594034",
+   "url": "https://juejin.cn/post/7686462220679594034",
+   "title": "把 Agent 框架拆开：PI 开发生产级 Harness",
+   "content_html": "<p>把 Agent 框架拆开：PI 开发生产级 Harness</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686408837754748978",
    "url": "https://juejin.cn/post/7686408837754748978",
    "title": "AI越来越强了，为什么测试人反而越来越累！（为打工人发声）",
    "content_html": "<p>AI越来越强了，为什么测试人反而越来越累！（为打工人发声）</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686283257302925338",
    "url": "https://juejin.cn/post/7686283257302925338",
    "title": "不用游戏引擎，用 Canvas 2D 做一个《逃离鸭科夫》风格的搜打撤游戏",
    "content_html": "<p>不用游戏引擎，用 Canvas 2D 做一个《逃离鸭科夫》风格的搜打撤游戏</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7686029820083306505",
-   "url": "https://juejin.cn/post/7686029820083306505",
-   "title": "不要在 Data 层随意把 Cold Flow 转换成 Hot Flow",
-   "content_html": "<p>不要在 Data 层随意把 Cold Flow 转换成 Hot Flow</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686693462478127145",
    "url": "https://juejin.cn/post/7686693462478127145",
    "title": "Three.js 与 Cesium 融合实战问题汇总",
    "content_html": "<p>Three.js 与 Cesium 融合实战问题汇总</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686396501736357951",
    "url": "https://juejin.cn/post/7686396501736357951",
    "title": "为什么 AI 写代码时，总喜欢“防御性编程”？",
    "content_html": "<p>为什么 AI 写代码时，总喜欢“防御性编程”？</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686029820083306505",
+   "url": "https://juejin.cn/post/7686029820083306505",
+   "title": "不要在 Data 层随意把 Cold Flow 转换成 Hot Flow",
+   "content_html": "<p>不要在 Data 层随意把 Cold Flow 转换成 Hot Flow</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686223991560601609",
    "url": "https://juejin.cn/post/7686223991560601609",
    "title": "一文吃透 Pi：10w stars 的极简 Agent harness",
    "content_html": "<p>一文吃透 Pi：10w stars 的极简 Agent harness</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7685936943797895222",
-   "url": "https://juejin.cn/post/7685936943797895222",
-   "title": "拒绝重复造轮子：我写了一个生产级的 Kotlin 协程与 Flow 工具库（CoroutineKit）",
-   "content_html": "<p>拒绝重复造轮子：我写了一个生产级的 Kotlin 协程与 Flow 工具库（CoroutineKit）</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686588753230364708",
    "url": "https://juejin.cn/post/7686588753230364708",
    "title": "AI 热点日报（2026-09-18）：华为昇腾960超节点发布，OpenAI 首次公开模型失准报告",
    "content_html": "<p>AI 热点日报（2026-09-18）：华为昇腾960超节点发布，OpenAI 首次公开模型失准报告</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686218976209092614",
    "url": "https://juejin.cn/post/7686218976209092614",
    "title": "彻底搞懂 JavaScript 类型转换：显式转换、隐式转换与 ToPrimitive",
    "content_html": "<p>彻底搞懂 JavaScript 类型转换：显式转换、隐式转换与 ToPrimitive</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686376405304344628",
    "url": "https://juejin.cn/post/7686376405304344628",
    "title": "从零到一跑通苍穹外卖：一个大二学生的暑假项目复盘",
    "content_html": "<p>从零到一跑通苍穹外卖：一个大二学生的暑假项目复盘</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7686347234725068843",
-   "url": "https://juejin.cn/post/7686347234725068843",
-   "title": "如何看待GPT-6在UP主众测中碾压夺冠？它是现在最强大模型吗？",
-   "content_html": "<p>如何看待GPT-6在UP主众测中碾压夺冠？它是现在最强大模型吗？</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686407614478893108",
    "url": "https://juejin.cn/post/7686407614478893108",
    "title": "WorkBuddy 最值得落地的 10 个技能，效率直接翻倍",
    "content_html": "<p>WorkBuddy 最值得落地的 10 个技能，效率直接翻倍</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686347234725068843",
+   "url": "https://juejin.cn/post/7686347234725068843",
+   "title": "如何看待GPT-6在UP主众测中碾压夺冠？它是现在最强大模型吗？",
+   "content_html": "<p>如何看待GPT-6在UP主众测中碾压夺冠？它是现在最强大模型吗？</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686341837753368611",
    "url": "https://juejin.cn/post/7686341837753368611",
    "title": "跨平台开发地图 | 2026年9月",
    "content_html": "<p>跨平台开发地图 | 2026年9月</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686389996108480562",
    "url": "https://juejin.cn/post/7686389996108480562",
    "title": "AI Coding 时代下，我的技术面试实践分享",
    "content_html": "<p>AI Coding 时代下，我的技术面试实践分享</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686396501736931391",
    "url": "https://juejin.cn/post/7686396501736931391",
    "title": "上帝之手Blender丨从入门到榨干",
    "content_html": "<p>上帝之手Blender丨从入门到榨干</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7686361321609904174",
-   "url": "https://juejin.cn/post/7686361321609904174",
-   "title": "页面内存只涨不跌? 一次泄漏排查, 牵出 WeakMap 的诞生",
-   "content_html": "<p>页面内存只涨不跌? 一次泄漏排查, 牵出 WeakMap 的诞生</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7686341072616652838",
-   "url": "https://juejin.cn/post/7686341072616652838",
-   "title": "我让 AI 当面试官面了我一轮：第 3 个追问我就卡住了（附 10 道追问清单）",
-   "content_html": "<p>我让 AI 当面试官面了我一轮：第 3 个追问我就卡住了（附 10 道追问清单）</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7686047891354484770",
-   "url": "https://juejin.cn/post/7686047891354484770",
-   "title": "Android-Fork 机制详解",
-   "content_html": "<p>Android-Fork 机制详解</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7686066928100900879",
-   "url": "https://juejin.cn/post/7686066928100900879",
-   "title": "Flutter iOS UISceneDelegate 迁移指南：理清新的 Scene 生命周期",
-   "content_html": "<p>Flutter iOS UISceneDelegate 迁移指南：理清新的 Scene 生命周期</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7686462220679282738",
-   "url": "https://juejin.cn/post/7686462220679282738",
-   "title": "从终端里长出来的 IDE，oh-my-pi 到底是个什么东西",
-   "content_html": "<p>从终端里长出来的 IDE，oh-my-pi 到底是个什么东西</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686389996108300338",
    "url": "https://juejin.cn/post/7686389996108300338",
    "title": "造一个\"录制回放 + LLM 自主操作手机\"的 Android 自动化测试平台（一）整体架构与录制引擎",
    "content_html": "<p>造一个\"录制回放 + LLM 自主操作手机\"的 Android 自动化测试平台（一）整体架构与录制引擎</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
-   "id": "juejin-7686341837753909283",
-   "url": "https://juejin.cn/post/7686341837753909283",
-   "title": "当zf开始全员推广AI，软件供应商的生计没了",
-   "content_html": "<p>当zf开始全员推广AI，软件供应商的生计没了</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "id": "juejin-7686361321609904174",
+   "url": "https://juejin.cn/post/7686361321609904174",
+   "title": "页面内存只涨不跌? 一次泄漏排查, 牵出 WeakMap 的诞生",
+   "content_html": "<p>页面内存只涨不跌? 一次泄漏排查, 牵出 WeakMap 的诞生</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686341072616652838",
+   "url": "https://juejin.cn/post/7686341072616652838",
+   "title": "我让 AI 当面试官面了我一轮：第 3 个追问我就卡住了（附 10 道追问清单）",
+   "content_html": "<p>我让 AI 当面试官面了我一轮：第 3 个追问我就卡住了（附 10 道追问清单）</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686047891354484770",
+   "url": "https://juejin.cn/post/7686047891354484770",
+   "title": "Android-Fork 机制详解",
+   "content_html": "<p>Android-Fork 机制详解</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686674237757456422",
    "url": "https://juejin.cn/post/7686674237757456422",
    "title": "《潮水漫过十七岁》爸爸最近很忙",
    "content_html": "<p>《潮水漫过十七岁》爸爸最近很忙</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7686025279651692590",
-   "url": "https://juejin.cn/post/7686025279651692590",
-   "title": "第 12 篇｜项目整合与打包发布 —— 从 Demo 到可安装 APK 的完整收官指南",
-   "content_html": "<p>第 12 篇｜项目整合与打包发布 —— 从 Demo 到可安装 APK 的完整收官指南</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7685962011588984841",
-   "url": "https://juejin.cn/post/7685962011588984841",
-   "title": "JavaScript的原型链、类与类的继承",
-   "content_html": "<p>JavaScript的原型链、类与类的继承</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7686361321608855598",
-   "url": "https://juejin.cn/post/7686361321608855598",
-   "title": "🚋 从流水线到地铁网：为什么复杂 AI 都要拆成多 Agent（上）——LangGraph 基础入门",
-   "content_html": "<p>🚋 从流水线到地铁网：为什么复杂 AI 都要拆成多 Agent（上）——LangGraph 基础入门</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
-  },
-  {
-   "id": "juejin-7686459441953046562",
-   "url": "https://juejin.cn/post/7686459441953046562",
-   "title": "AI 开始自己改进自己：智谱在十万卡集群上，让 AI 两周把效率提了 3 倍",
-   "content_html": "<p>AI 开始自己改进自己：智谱在十万卡集群上，让 AI 两周把效率提了 3 倍</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   },
   {
    "id": "juejin-7686588753231560740",
    "url": "https://juejin.cn/post/7686588753231560740",
    "title": "从 0 到 1 搭建你的 AI Agent 平台：当 Agent 有了工厂，人人都能造同事",
    "content_html": "<p>从 0 到 1 搭建你的 AI Agent 平台：当 Agent 有了工厂，人人都能造同事</p>",
-   "date_published": "Sun, 20 Sep 2026 02:06:03 GMT"
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686462220679282738",
+   "url": "https://juejin.cn/post/7686462220679282738",
+   "title": "从终端里长出来的 IDE，oh-my-pi 到底是个什么东西",
+   "content_html": "<p>从终端里长出来的 IDE，oh-my-pi 到底是个什么东西</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686341837753909283",
+   "url": "https://juejin.cn/post/7686341837753909283",
+   "title": "当zf开始全员推广AI，软件供应商的生计没了",
+   "content_html": "<p>当zf开始全员推广AI，软件供应商的生计没了</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686066928100900879",
+   "url": "https://juejin.cn/post/7686066928100900879",
+   "title": "Flutter iOS UISceneDelegate 迁移指南：理清新的 Scene 生命周期",
+   "content_html": "<p>Flutter iOS UISceneDelegate 迁移指南：理清新的 Scene 生命周期</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686025279651692590",
+   "url": "https://juejin.cn/post/7686025279651692590",
+   "title": "第 12 篇｜项目整合与打包发布 —— 从 Demo 到可安装 APK 的完整收官指南",
+   "content_html": "<p>第 12 篇｜项目整合与打包发布 —— 从 Demo 到可安装 APK 的完整收官指南</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686806089748693007",
+   "url": "https://juejin.cn/post/7686806089748693007",
+   "title": "FDE：一个缩写，两种命运",
+   "content_html": "<p>FDE：一个缩写，两种命运</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686459441953046562",
+   "url": "https://juejin.cn/post/7686459441953046562",
+   "title": "AI 开始自己改进自己：智谱在十万卡集群上，让 AI 两周把效率提了 3 倍",
+   "content_html": "<p>AI 开始自己改进自己：智谱在十万卡集群上，让 AI 两周把效率提了 3 倍</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686394441276686382",
+   "url": "https://juejin.cn/post/7686394441276686382",
+   "title": "《潮水漫过十七岁》开学了",
+   "content_html": "<p>《潮水漫过十七岁》开学了</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686361321608855598",
+   "url": "https://juejin.cn/post/7686361321608855598",
+   "title": "🚋 从流水线到地铁网：为什么复杂 AI 都要拆成多 Agent（上）——LangGraph 基础入门",
+   "content_html": "<p>🚋 从流水线到地铁网：为什么复杂 AI 都要拆成多 Agent（上）——LangGraph 基础入门</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686352376153047082",
+   "url": "https://juejin.cn/post/7686352376153047082",
+   "title": "9 月大模型榜单：第一名又换了，但开发者该看的不是它",
+   "content_html": "<p>9 月大模型榜单：第一名又换了，但开发者该看的不是它</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686341837754318883",
+   "url": "https://juejin.cn/post/7686341837754318883",
+   "title": "一天一个开源项目（第220篇）：WeKnora —— 腾讯开源的企业级知识框架，从 RAG 问答到 Wiki 自进化",
+   "content_html": "<p>一天一个开源项目（第220篇）：WeKnora —— 腾讯开源的企业级知识框架，从 RAG 问答到 Wiki 自进化</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
+  },
+  {
+   "id": "juejin-7686218976208961542",
+   "url": "https://juejin.cn/post/7686218976208961542",
+   "title": "让强模型做“总工”，让高性价比模型写代码",
+   "content_html": "<p>让强模型做“总工”，让高性价比模型写代码</p>",
+   "date_published": "Sun, 20 Sep 2026 02:41:01 GMT"
   }
  ]
 }
