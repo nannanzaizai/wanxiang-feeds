@@ -2,63 +2,63 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-09-22 12:48:48）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-09-22 17:36:09）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/anthropics/financial-services",
    "title": "financial-services",
    "content_html": "<p>financial-services</p>",
-   "date_published": "Tue, 22 Sep 2026 12:48:48 GMT"
+   "date_published": "Tue, 22 Sep 2026 17:36:09 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/agent-substrate/substrate",
    "title": "substrate",
    "content_html": "<p>Agent Substrate: the core system</p>",
-   "date_published": "Tue, 22 Sep 2026 12:48:48 GMT"
+   "date_published": "Tue, 22 Sep 2026 17:36:09 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/dream-num/univer",
    "title": "univer",
    "content_html": "<p>The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.</p>",
-   "date_published": "Tue, 22 Sep 2026 12:48:48 GMT"
+   "date_published": "Tue, 22 Sep 2026 17:36:09 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/davila7/claude-code-templates",
    "title": "claude-code-templates",
    "content_html": "<p>CLI tool for configuring and monitoring Claude Code</p>",
-   "date_published": "Tue, 22 Sep 2026 12:48:48 GMT"
+   "date_published": "Tue, 22 Sep 2026 17:36:09 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/google/ax",
    "title": "ax",
    "content_html": "<p>Google's open agentic orchestration runtime</p>",
-   "date_published": "Tue, 22 Sep 2026 12:48:48 GMT"
+   "date_published": "Tue, 22 Sep 2026 17:36:09 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/mvt-project/mvt",
    "title": "mvt",
    "content_html": "<p>MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.</p>",
-   "date_published": "Tue, 22 Sep 2026 12:48:48 GMT"
+   "date_published": "Tue, 22 Sep 2026 17:36:09 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/superdesigndev/treg",
    "title": "treg",
    "content_html": "<p>OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn</p>",
-   "date_published": "Tue, 22 Sep 2026 12:48:48 GMT"
+   "date_published": "Tue, 22 Sep 2026 17:36:09 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/browser-use/video-use",
    "title": "video-use",
    "content_html": "<p>Edit videos with coding agents</p>",
-   "date_published": "Tue, 22 Sep 2026 12:48:48 GMT"
+   "date_published": "Tue, 22 Sep 2026 17:36:09 GMT"
   }
  ]
 }
