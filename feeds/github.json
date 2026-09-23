@@ -2,126 +2,126 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-09-23 21:23:10）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-09-23 23:54:49）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/anthropics/financial-services",
    "title": "financial-services",
    "content_html": "<p>financial-services</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/google/ax",
    "title": "ax",
    "content_html": "<p>Google's open agentic orchestration runtime</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/davila7/claude-code-templates",
    "title": "claude-code-templates",
    "content_html": "<p>CLI tool for configuring and monitoring Claude Code</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/BuilderIO/agent-native",
    "title": "agent-native",
    "content_html": "<p>A framework for building agentic apps</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/obra/superpowers",
    "title": "superpowers",
    "content_html": "<p>An agentic skills framework & software development methodology that works.</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/dream-num/univer",
    "title": "univer",
    "content_html": "<p>The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/Open-Dev-Society/OpenStock",
    "title": "OpenStock",
    "content_html": "<p>OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/agent-substrate/substrate",
    "title": "substrate",
    "content_html": "<p>Agent Substrate: the core system</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/strands-agents/harness-sdk",
    "title": "harness-sdk",
    "content_html": "<p>Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   },
   {
    "id": "github-9",
    "url": "https://github.com/HKUDS/CLI-Anything",
    "title": "CLI-Anything",
    "content_html": "<p>\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   },
   {
    "id": "github-10",
    "url": "https://github.com/superdesigndev/treg",
    "title": "treg",
    "content_html": "<p>OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   },
   {
    "id": "github-11",
    "url": "https://github.com/pbakaus/impeccable",
    "title": "impeccable",
    "content_html": "<p>The design language that makes your AI harness better at design.</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   },
   {
    "id": "github-12",
    "url": "https://github.com/mvt-project/mvt",
    "title": "mvt",
    "content_html": "<p>MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   },
   {
    "id": "github-13",
    "url": "https://github.com/DeusData/codebase-memory-mcp",
    "title": "codebase-memory-mcp",
    "content_html": "<p>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   },
   {
    "id": "github-14",
    "url": "https://github.com/harry7557558/spirula-studio",
    "title": "spirula-studio",
    "content_html": "<p>Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   },
   {
    "id": "github-15",
    "url": "https://github.com/browser-use/video-use",
    "title": "video-use",
    "content_html": "<p>Edit videos with coding agents</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   },
   {
    "id": "github-16",
    "url": "https://github.com/TNT-Likely/PanWatch",
    "title": "PanWatch",
    "content_html": "<p>盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送</p>",
-   "date_published": "Wed, 23 Sep 2026 21:23:10 GMT"
+   "date_published": "Wed, 23 Sep 2026 23:54:49 GMT"
   }
  ]
 }
