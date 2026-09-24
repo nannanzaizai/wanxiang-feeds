@@ -2,105 +2,105 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-09-24 14:21:47）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-09-24 18:37:25）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "title": "ai-engineering-from-scratch",
    "content_html": "<p>Learn it. Build it. Ship it for others.</p>",
-   "date_published": "Thu, 24 Sep 2026 14:21:47 GMT"
+   "date_published": "Thu, 24 Sep 2026 18:37:25 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/vectorize-io/hindsight",
    "title": "hindsight",
    "content_html": "<p>Hindsight: Agent Memory That Learns</p>",
-   "date_published": "Thu, 24 Sep 2026 14:21:47 GMT"
+   "date_published": "Thu, 24 Sep 2026 18:37:25 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/dream-num/univer",
    "title": "univer",
    "content_html": "<p>The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.</p>",
-   "date_published": "Thu, 24 Sep 2026 14:21:47 GMT"
+   "date_published": "Thu, 24 Sep 2026 18:37:25 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/google/ax",
    "title": "ax",
    "content_html": "<p>Google's open agentic orchestration runtime</p>",
-   "date_published": "Thu, 24 Sep 2026 14:21:47 GMT"
+   "date_published": "Thu, 24 Sep 2026 18:37:25 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/NVIDIA/Model-Optimizer",
    "title": "Model-Optimizer",
    "content_html": "<p>A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.</p>",
-   "date_published": "Thu, 24 Sep 2026 14:21:47 GMT"
+   "date_published": "Thu, 24 Sep 2026 18:37:25 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/FxEmbed/FxEmbed",
    "title": "FxEmbed",
    "content_html": "<p>Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others</p>",
-   "date_published": "Thu, 24 Sep 2026 14:21:47 GMT"
+   "date_published": "Thu, 24 Sep 2026 18:37:25 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/anthropics/financial-services",
    "title": "financial-services",
    "content_html": "<p>financial-services</p>",
-   "date_published": "Thu, 24 Sep 2026 14:21:47 GMT"
+   "date_published": "Thu, 24 Sep 2026 18:37:25 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/HKUDS/CLI-Anything",
    "title": "CLI-Anything",
    "content_html": "<p>\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/</p>",
-   "date_published": "Thu, 24 Sep 2026 14:21:47 GMT"
+   "date_published": "Thu, 24 Sep 2026 18:37:25 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/mvt-project/mvt",
    "title": "mvt",
    "content_html": "<p>MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.</p>",
-   "date_published": "Thu, 24 Sep 2026 14:21:47 GMT"
+   "date_published": "Thu, 24 Sep 2026 18:37:25 GMT"
   },
   {
    "id": "github-9",
    "url": "https://github.com/obra/superpowers",
    "title": "superpowers",
    "content_html": "<p>An agentic skills framework & software development methodology that works.</p>",
-   "date_published": "Thu, 24 Sep 2026 14:21:47 GMT"
+   "date_published": "Thu, 24 Sep 2026 18:37:25 GMT"
   },
   {
    "id": "github-10",
    "url": "https://github.com/strands-agents/harness-sdk",
    "title": "harness-sdk",
    "content_html": "<p>Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.</p>",
-   "date_published": "Thu, 24 Sep 2026 14:21:47 GMT"
+   "date_published": "Thu, 24 Sep 2026 18:37:25 GMT"
   },
   {
    "id": "github-11",
    "url": "https://github.com/julyx10/lap",
    "title": "lap",
    "content_html": "<p>An offline-first photo manager for large local libraries</p>",
-   "date_published": "Thu, 24 Sep 2026 14:21:47 GMT"
+   "date_published": "Thu, 24 Sep 2026 18:37:25 GMT"
   },
   {
    "id": "github-12",
    "url": "https://github.com/superdesigndev/treg",
    "title": "treg",
    "content_html": "<p>OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn</p>",
-   "date_published": "Thu, 24 Sep 2026 14:21:47 GMT"
+   "date_published": "Thu, 24 Sep 2026 18:37:25 GMT"
   },
   {
    "id": "github-13",
    "url": "https://github.com/leejet/stable-diffusion.cpp",
    "title": "stable-diffusion.cpp",
    "content_html": "<p>Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++</p>",
-   "date_published": "Thu, 24 Sep 2026 14:21:47 GMT"
+   "date_published": "Thu, 24 Sep 2026 18:37:25 GMT"
   }
  ]
 }
