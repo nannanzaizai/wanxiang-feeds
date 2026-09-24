@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-09-23 23:54:58）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-09-24 04:19:37）",
  "items": [
+  {
+   "id": "thepaper-34138758",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34138758",
+   "title": "习近平抵达华盛顿对美国进行国事访问",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790208558939_WmCMZB_1790208559121.png\" />",
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
+  },
   {
    "id": "thepaper-34133139",
    "url": "https://www.thepaper.cn/newsDetail_forward_34133139",
    "title": "习近平离京对美国进行国事访问",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/client/focusNewsWwwBig.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
   },
   {
    "id": "thepaper-33809349",
    "url": "https://www.thepaper.cn/newsDetail_forward_33809349",
    "title": "5年增长125%！中国学者在三大顶刊发文数激增背后的中国科研之变",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790140635000_pnCBDt_1790144178444.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
   },
   {
    "id": "thepaper-34134763",
    "url": "https://www.thepaper.cn/newsDetail_forward_34134763",
    "title": "涉案金额超60亿，公安机关打掉一跨国民族资产解冻类诈骗团伙",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790166660731_c2STps_1790166660918.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
-  },
-  {
-   "id": "thepaper-34134080",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34134080",
-   "title": "马上评｜舆论场中的“防御式道歉”为何越来越多了",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790163739817_C24Dp5_1790163740064.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
   },
   {
    "id": "thepaper-34134538",
    "url": "https://www.thepaper.cn/newsDetail_forward_34134538",
    "title": "临近中秋，月饼卖得怎么样？记者线下实探",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790166173151_fNnwbB_1790166173404.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
   },
   {
-   "id": "thepaper-34126980",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34126980",
-   "title": "白酒“双节”动销旺季不旺：飞天茅台终端价格坚挺，有经销商称多款白酒已是“地板价”",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790121197250_hwMdK2_1790121197611.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
+   "id": "thepaper-34134080",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34134080",
+   "title": "马上评｜舆论场中的“防御式道歉”为何越来越多了",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790163739817_C24Dp5_1790163740064.png\" />",
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
   },
   {
    "id": "thepaper-34131951",
    "url": "https://www.thepaper.cn/newsDetail_forward_34131951",
    "title": "苹果限制“摇一摇”跳转广告？最新iOS测试版允许用户限制App读取相关信息",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790144696639_XtCkHE_1790144696924.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
-  },
-  {
-   "id": "thepaper-34117730",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34117730",
-   "title": "单项冠军县，何以扛打｜全国过半猴头菇产量，为何出自黑龙江海林",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790069592000_W1aPpN_1790070007762.jpg\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
-  },
-  {
-   "id": "thepaper-34125321",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34125321",
-   "title": "男子购买重疾险10年后确诊结肠癌被拒赔，泰康人寿称系“遗传性疾病”",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790073129483_6CfBTh_1790073129554.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
-  },
-  {
-   "id": "thepaper-34130539",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34130539",
-   "title": "AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790126840610_xyt17Q_1790126874101.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
-  },
-  {
-   "id": "thepaper-34131142",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34131142",
-   "title": "马上评｜月饼卖不动了？其实是回归理性了",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790133993180_21XT4C_1790133993381.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
-  },
-  {
-   "id": "thepaper-34130853",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34130853",
-   "title": "被指涉色情引流，闲鱼公布调查结果",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790130800050_bA56Ap_1790130800214.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
   },
   {
    "id": "thepaper-34137674",
    "url": "https://www.thepaper.cn/newsDetail_forward_34137674",
    "title": "特朗普总统抵达机场，迎接习近平主席到访",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790199134436_W5MZ7p_1790199134685.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
+  },
+  {
+   "id": "thepaper-34139437",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34139437",
+   "title": "送别“济公”！表演艺术家游本昌今晨去世",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790218664251_MYJSQh_1790218664494.png\" />",
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
+  },
+  {
+   "id": "thepaper-34138752",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34138752",
+   "title": "大外交·现场｜1962年后首次：美国总统亲赴机场迎接释放何种讯息？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790209879890_aJG5kt_1790209880007.png\" />",
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
+  },
+  {
+   "id": "thepaper-34132966",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34132966",
+   "title": "“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790155977468_c8Qw5M_1790155977732.png\" />",
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
   },
   {
    "id": "thepaper-34133131",
    "url": "https://www.thepaper.cn/newsDetail_forward_34133131",
    "title": "国足主帅邵佳一：需要严肃对待马尔代夫，不能给对手任何机会",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790153586038_txrNK1_1790153586252.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
-  },
-  {
-   "id": "thepaper-34130870",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34130870",
-   "title": "多年前登记遗体捐献去世后被拒收？湖北省、黄石市红十字会：接收池已满，意愿登记无法律效力",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790130965188_Whiain_1790130965393.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
-  },
-  {
-   "id": "thepaper-34126828",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34126828",
-   "title": "特朗普在联合国总部“阴阳”CNN：“说好联合抵制我，怎么又来采访”",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790087452331_F2Wp2M_1790087452517.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
-  },
-  {
-   "id": "thepaper-34126822",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34126822",
-   "title": "专访｜吴心伯：中美元首再会晤“承上启下”，推动两国关系稳中有进",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790086868257_tWARNW_1790086868418.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
   },
   {
    "id": "thepaper-34124822",
    "url": "https://www.thepaper.cn/newsDetail_forward_34124822",
    "title": "财晓得｜中秋的生意只能做一个月？月饼可能比你想象中更能打",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790163264225_fNNfJe_1790163293417.jpg\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
   },
   {
    "id": "thepaper-34096922",
    "url": "https://www.thepaper.cn/newsDetail_forward_34096922",
    "title": "82岁知名画家夏葆元辞世，陈逸飞曾说“我们所有人都学他”",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1789721864145_Teiiya_1789721864145.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
   },
   {
-   "id": "thepaper-34130867",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34130867",
-   "title": "李乐成任安徽省委书记，周祖翼任河南省委书记，赵龙任福建省委书记",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790131214264_bXPwwe_1790131214390.png\" />",
-   "date_published": "Wed, 23 Sep 2026 23:54:58 GMT"
+   "id": "thepaper-34134635",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34134635",
+   "title": "不止观赛！世界技能博览会，让普通人亲手触摸技能的力量",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790217276578_dRMH6F_1790217276925.png\" />",
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
+  },
+  {
+   "id": "thepaper-34135181",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34135181",
+   "title": "澎湃AI晚新闻丨2026年9月23日",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790170644391_iwsRrA_1790170651311.png\" />",
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
+  },
+  {
+   "id": "thepaper-34132980",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34132980",
+   "title": "“十五五”期间将如何提升儿童福利保障水平？民政部答澎湃",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790155227379_P2DbmA_1790155227573.png\" />",
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
+  },
+  {
+   "id": "thepaper-34132998",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34132998",
+   "title": "【社论】全国推行，让校外实践成为成长沃土",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790153250724_m7QXtG_1790153250868.png\" />",
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
+  },
+  {
+   "id": "thepaper-34133142",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34133142",
+   "title": "中央纪委国家监委公开通报六起违反中央八项规定精神典型问题",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790154210422_QHRAZF_1790154210743.png\" />",
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
+  },
+  {
+   "id": "thepaper-34131468",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34131468",
+   "title": "湖北省高院对黄大发等涉黑案件二审公开宣判：驳回上诉，维持原判",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790137089986_xMY2AE_1790137090197.png\" />",
+   "date_published": "Thu, 24 Sep 2026 04:19:37 GMT"
   }
  ]
 }
