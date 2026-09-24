@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-09-24 09:28:06）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-09-24 14:21:53）",
  "items": [
   {
-   "id": "thepaper-34138791",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34138791",
-   "title": "视频丨习近平抵达华盛顿对美国进行国事访问",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790208395229_h4k46a_1790208395407.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
-  },
-  {
-   "id": "thepaper-33809349",
-   "url": "https://www.thepaper.cn/newsDetail_forward_33809349",
-   "title": "5年增长125%！中国学者在三大顶刊发文数激增背后的中国科研之变",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790140635000_pnCBDt_1790144178444.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
-  },
-  {
-   "id": "thepaper-34137674",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34137674",
-   "title": "特朗普总统抵达机场，迎接习近平主席到访",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790199134436_W5MZ7p_1790199134685.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
-  },
-  {
-   "id": "thepaper-34134763",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34134763",
-   "title": "涉案金额超60亿，公安机关打掉一跨国民族资产解冻类诈骗团伙",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790166660731_c2STps_1790166660918.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
-  },
-  {
-   "id": "thepaper-34134538",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34134538",
-   "title": "临近中秋，月饼卖得怎么样？记者线下实探",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790166173151_fNnwbB_1790166173404.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
-  },
-  {
-   "id": "thepaper-34134080",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34134080",
-   "title": "马上评｜舆论场中的“防御式道歉”为何越来越多了",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790163739817_C24Dp5_1790163740064.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
+   "id": "thepaper-34141792",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34141792",
+   "title": "习近平主席抵达华盛顿，80秒看美方高规格迎接",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790241003646_Z2FK3z_1790241017951.jpg\" />",
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
   },
   {
    "id": "thepaper-34138752",
    "url": "https://www.thepaper.cn/newsDetail_forward_34138752",
    "title": "大外交·现场｜1962年后首次：美国总统亲赴机场迎接释放何种讯息？",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790209879890_aJG5kt_1790209880007.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
+  },
+  {
+   "id": "thepaper-34137674",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34137674",
+   "title": "特朗普总统抵达机场，迎接习近平主席到访",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790199134436_W5MZ7p_1790199134685.png\" />",
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
+  },
+  {
+   "id": "thepaper-34134538",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34134538",
+   "title": "临近中秋，月饼卖得怎么样？记者线下实探",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790166173151_fNnwbB_1790166173404.png\" />",
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
   },
   {
    "id": "thepaper-34139437",
    "url": "https://www.thepaper.cn/newsDetail_forward_34139437",
    "title": "送别“济公”！表演艺术家游本昌今晨去世",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790218664251_MYJSQh_1790218664494.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
   },
   {
    "id": "thepaper-34132966",
    "url": "https://www.thepaper.cn/newsDetail_forward_34132966",
    "title": "“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790155977468_c8Qw5M_1790155977732.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
-  },
-  {
-   "id": "thepaper-34133131",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34133131",
-   "title": "国足主帅邵佳一：需要严肃对待马尔代夫，不能给对手任何机会",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790153586038_txrNK1_1790153586252.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
   },
   {
    "id": "thepaper-34139540",
    "url": "https://www.thepaper.cn/newsDetail_forward_34139540",
    "title": "纪念｜游本昌去世，他的济公留在了人间",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790219138149_ACXWhx_1790219138345.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
   },
   {
    "id": "thepaper-34139709",
    "url": "https://www.thepaper.cn/newsDetail_forward_34139709",
    "title": "马上评｜保障艾滋病感染者配偶知情权，生命高于片面隐私",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790222133926_fBPwAf_1790222134038.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
+  },
+  {
+   "id": "thepaper-34142641",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34142641",
+   "title": "澎湃回声｜泰康人寿已向患结肠癌男子理赔付款，此前称系“遗传性疾病”拒赔付",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790248206533_5jxch5_1790248206722.png\" />",
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
+  },
+  {
+   "id": "thepaper-34140481",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34140481",
+   "title": "国乒男团不敌东道主日本队，无缘亚运乒乓首金",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790246527076_SY6SZT_1790246527260.png\" />",
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
   },
   {
    "id": "thepaper-34139663",
    "url": "https://www.thepaper.cn/newsDetail_forward_34139663",
    "title": "特朗普：将举行晚宴欢迎习主席到访，人人都想来，唯一遗憾是座位有限",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790219686261_dJzmbn_1790219686446.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
-  },
-  {
-   "id": "thepaper-34124822",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34124822",
-   "title": "财晓得｜中秋的生意只能做一个月？月饼可能比你想象中更能打",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790163264225_fNNfJe_1790163293417.jpg\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
-  },
-  {
-   "id": "thepaper-34096922",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34096922",
-   "title": "82岁知名画家夏葆元辞世，陈逸飞曾说“我们所有人都学他”",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1789721864145_Teiiya_1789721864145.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
-  },
-  {
-   "id": "thepaper-34134635",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34134635",
-   "title": "不止观赛！世界技能博览会，让普通人亲手触摸技能的力量",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790217276578_dRMH6F_1790217276925.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
-  },
-  {
-   "id": "thepaper-34135181",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34135181",
-   "title": "澎湃AI晚新闻丨2026年9月23日",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790170644391_iwsRrA_1790170651311.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
-  },
-  {
-   "id": "thepaper-34132998",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34132998",
-   "title": "【社论】全国推行，让校外实践成为成长沃土",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790153250724_m7QXtG_1790153250868.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
   },
   {
    "id": "thepaper-34139563",
    "url": "https://www.thepaper.cn/newsDetail_forward_34139563",
    "title": "中国国家话剧院表演艺术家、“济公”的扮演者游本昌去世",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790218851647_zf1mxr_1790218851977.png\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
   },
   {
    "id": "thepaper-34132924",
    "url": "https://www.thepaper.cn/newsDetail_forward_34132924",
    "title": "澎湃读报｜人民日报整版刊文：上海历史性解决“拎马桶”问题的调查与思考",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790152419339_twEKTp_1790152601376.jpg\" />",
-   "date_published": "Thu, 24 Sep 2026 09:28:06 GMT"
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
+  },
+  {
+   "id": "thepaper-34141091",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34141091",
+   "title": "商务部：中美第八轮经贸磋商达成多项共识",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790236537812_w2HdDc_1790236537970.png\" />",
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
+  },
+  {
+   "id": "thepaper-34139046",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34139046",
+   "title": "OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790213652376_Nh8KDH_1790213652484.png\" />",
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
+  },
+  {
+   "id": "thepaper-34139945",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34139945",
+   "title": "特朗普挥手目送习主席专车驶离：这是伟大时刻",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790222613179_exWYRb_1790222613512.png\" />",
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
+  },
+  {
+   "id": "thepaper-34139897",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34139897",
+   "title": "王陆进任河南省代省长",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790221977850_kfxTwY_1790221978071.png\" />",
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
+  },
+  {
+   "id": "thepaper-34139935",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34139935",
+   "title": "“十五五”时期将落实哪些举措推动旅游业发展？文旅部答澎湃",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790222186867_PGKBAf_1790222186973.png\" />",
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
+  },
+  {
+   "id": "thepaper-34141651",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34141651",
+   "title": "北京：商品房预售需封顶，优先选择现房销售",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790239947480_FYiyDG_1790239947609.png\" />",
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
+  },
+  {
+   "id": "thepaper-34138758",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34138758",
+   "title": "习近平抵达华盛顿对美国进行国事访问",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790208558939_WmCMZB_1790208559121.png\" />",
+   "date_published": "Thu, 24 Sep 2026 14:21:53 GMT"
   }
  ]
 }
