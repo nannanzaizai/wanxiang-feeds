@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-09-24 21:45:39）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-09-25 00:24:36）",
  "items": [
   {
    "id": "thepaper-34144356",
    "url": "https://www.thepaper.cn/newsDetail_forward_34144356",
    "title": "习近平在白宫欢迎仪式上的致辞（全文）",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790264733982_3pArrS_1790264734202.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
   },
   {
    "id": "thepaper-34141792",
    "url": "https://www.thepaper.cn/newsDetail_forward_34141792",
    "title": "习近平主席抵达华盛顿，80秒看美方高规格迎接",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790241003646_Z2FK3z_1790241017951.jpg\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
-  },
-  {
-   "id": "thepaper-34137674",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34137674",
-   "title": "特朗普总统抵达机场，迎接习近平主席到访",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790199134436_W5MZ7p_1790199134685.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
   },
   {
    "id": "thepaper-34138752",
    "url": "https://www.thepaper.cn/newsDetail_forward_34138752",
    "title": "大外交·现场｜1962年后首次：美国总统亲赴机场迎接释放何种讯息？",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790209879890_aJG5kt_1790209880007.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
+  },
+  {
+   "id": "thepaper-34144718",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34144718",
+   "title": "战机飞越白宫，向中美两国元首夫妇致敬",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790279092519_37sTJj_1790279092718.png\" />",
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
   },
   {
    "id": "thepaper-34139437",
    "url": "https://www.thepaper.cn/newsDetail_forward_34139437",
    "title": "送别“济公”！表演艺术家游本昌今晨去世",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790218664251_MYJSQh_1790218664494.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
   },
   {
    "id": "thepaper-34132966",
    "url": "https://www.thepaper.cn/newsDetail_forward_34132966",
    "title": "“AI教父”辛顿答澎湃：在让AI学会关怀人类之前，不应开发超级智能",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790155977468_c8Qw5M_1790155977732.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
   },
   {
    "id": "thepaper-34139540",
    "url": "https://www.thepaper.cn/newsDetail_forward_34139540",
    "title": "纪念｜游本昌去世，他的济公留在了人间",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790219138149_ACXWhx_1790219138345.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
   },
   {
    "id": "thepaper-34139709",
    "url": "https://www.thepaper.cn/newsDetail_forward_34139709",
    "title": "马上评｜保障艾滋病感染者配偶知情权，生命高于片面隐私",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790222133926_fBPwAf_1790222134038.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
-  },
-  {
-   "id": "thepaper-34142942",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34142942",
-   "title": "决赛田忌赛马？王楚钦：运动员只是执行者，不要揣测教练意图",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790249930526_ynsRPi_1790249930726.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
   },
   {
    "id": "thepaper-34142641",
    "url": "https://www.thepaper.cn/newsDetail_forward_34142641",
    "title": "澎湃回声｜泰康人寿已向患结肠癌男子理赔付款，此前称系“遗传性疾病”拒赔付",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790248206533_5jxch5_1790248206722.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
   },
   {
-   "id": "thepaper-34141770",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34141770",
-   "title": "谭案说法｜“非亲生”案中，受骗的抚养者被侵何权？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790241069330_GA7s8M_1790241069624.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
+   "id": "thepaper-34142942",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34142942",
+   "title": "决赛田忌赛马？王楚钦：运动员只是执行者，不要揣测教练意图",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790249930526_ynsRPi_1790249930726.png\" />",
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
   },
   {
    "id": "thepaper-34143631",
    "url": "https://www.thepaper.cn/newsDetail_forward_34143631",
    "title": "云南高院指令再审“家暴离婚被驳回”案：再审审查期间丈夫持刀重伤岳父母，足以证明感情已破裂",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790255349997_6swMys_1790255350202.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
+  },
+  {
+   "id": "thepaper-34141770",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34141770",
+   "title": "谭案说法｜“非亲生”案中，受骗的抚养者被侵何权？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790241069330_GA7s8M_1790241069624.png\" />",
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
   },
   {
    "id": "thepaper-34140550",
    "url": "https://www.thepaper.cn/newsDetail_forward_34140550",
    "title": "中国队战胜日本队，实现亚运女团六连冠",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790255765991_wXSwxA_1790255766197.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
+  },
+  {
+   "id": "thepaper-34144357",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34144357",
+   "title": "王皓回应丢冠：男乒正处于新老交替，要给年轻队员试错空间",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790261865040_6fZkfH_1790261865220.png\" />",
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
   },
   {
    "id": "thepaper-34140481",
    "url": "https://www.thepaper.cn/newsDetail_forward_34140481",
    "title": "国乒男团不敌东道主日本队，无缘亚运乒乓首金",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790246527076_SY6SZT_1790246527260.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
+  },
+  {
+   "id": "thepaper-34142415",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34142415",
+   "title": "上海迪士尼致歉，明确使用盲杖入园无须报备",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790245041938_aaCDhi_1790245054101.jpg\" />",
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
+  },
+  {
+   "id": "thepaper-34143252",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34143252",
+   "title": "张本智和：松岛辉空逼着我前进",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790252372773_7DeGPh_1790252372908.png\" />",
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
+  },
+  {
+   "id": "thepaper-34146030",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34146030",
+   "title": "图讯｜习近平同美国总统特朗普小范围交流",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790271162018_CQ7EBw_1790271162254.png\" />",
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
   },
   {
    "id": "thepaper-34139563",
    "url": "https://www.thepaper.cn/newsDetail_forward_34139563",
    "title": "中国国家话剧院表演艺术家、“济公”的扮演者游本昌去世",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790218851647_zf1mxr_1790218851977.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
-  },
-  {
-   "id": "thepaper-34132924",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34132924",
-   "title": "澎湃读报｜人民日报整版刊文：上海历史性解决“拎马桶”问题的调查与思考",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790152419339_twEKTp_1790152601376.jpg\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
-  },
-  {
-   "id": "thepaper-34141091",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34141091",
-   "title": "商务部：中美第八轮经贸磋商达成多项共识",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790236537812_w2HdDc_1790236537970.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
   },
   {
    "id": "thepaper-34142908",
    "url": "https://www.thepaper.cn/newsDetail_forward_34142908",
    "title": "油价调控再出手！国家半年四次压缩成品油涨幅，本轮涨幅砍半",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790250127461_Ktry56_1790250127806.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
-  },
-  {
-   "id": "thepaper-34139046",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34139046",
-   "title": "OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790213652376_Nh8KDH_1790213652484.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
-  },
-  {
-   "id": "thepaper-34139897",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34139897",
-   "title": "王陆进任河南省代省长",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790221977850_kfxTwY_1790221978071.png\" />",
-   "date_published": "Thu, 24 Sep 2026 21:45:39 GMT"
+   "date_published": "Fri, 25 Sep 2026 00:24:36 GMT"
   }
  ]
 }
