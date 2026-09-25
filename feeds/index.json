@@ -1,8 +1,8 @@
 {
  "version": "https://jsonfeed.org/version/1.1",
  "title": "万象热榜索引",
- "generated_at": "2026-09-25 10:28:29",
- "total_items": 500,
+ "generated_at": "2026-09-25 15:28:37",
+ "total_items": 474,
  "feeds": [
   {
    "platform": "zhihu",
@@ -10,17 +10,17 @@
    "items": 30,
    "thumbs": 30,
    "file": "zhihu.json",
-   "bytes": 28102,
+   "bytes": 32620,
    "img_fixed": 0,
    "img_dropped": 0
   },
   {
    "platform": "weibo",
    "name": "微博热搜",
-   "items": 51,
+   "items": 52,
    "thumbs": 0,
    "file": "weibo.json",
-   "bytes": 17830,
+   "bytes": 17719,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -30,7 +30,7 @@
    "items": 100,
    "thumbs": 100,
    "file": "bilibili.json",
-   "bytes": 47153,
+   "bytes": 46977,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -40,17 +40,17 @@
    "items": 50,
    "thumbs": 50,
    "file": "toutiao.json",
-   "bytes": 24361,
+   "bytes": 24457,
    "img_fixed": 0,
    "img_dropped": 0
   },
   {
    "platform": "douyin",
    "name": "抖音热榜",
-   "items": 47,
+   "items": 46,
    "thumbs": 0,
    "file": "douyin.json",
-   "bytes": 11378,
+   "bytes": 11303,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -60,17 +60,17 @@
    "items": 50,
    "thumbs": 0,
    "file": "juejin.json",
-   "bytes": 17357,
+   "bytes": 17229,
    "img_fixed": 0,
    "img_dropped": 0
   },
   {
    "platform": "github",
    "name": "GitHub Trending",
-   "items": 14,
+   "items": 16,
    "thumbs": 0,
    "file": "github.json",
-   "bytes": 4248,
+   "bytes": 4801,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -87,10 +87,10 @@
   {
    "platform": "36kr",
    "name": "36氪热榜",
-   "items": 50,
-   "thumbs": 50,
+   "items": 22,
+   "thumbs": 22,
    "file": "36kr.json",
-   "bytes": 21559,
+   "bytes": 9751,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -100,7 +100,7 @@
    "items": 48,
    "thumbs": 48,
    "file": "ithome.json",
-   "bytes": 17630,
+   "bytes": 17383,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -110,7 +110,7 @@
    "items": 20,
    "thumbs": 20,
    "file": "thepaper.json",
-   "bytes": 7516,
+   "bytes": 7678,
    "img_fixed": 0,
    "img_dropped": 0
   }
