@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-09-26 06:32:59）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-09-26 11:43:08）",
  "items": [
   {
-   "id": "thepaper-34147373",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34147373",
-   "title": "习近平同美国总统特朗普会谈",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790288099248_jPwK82_1790288099477.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
+   "id": "thepaper-34151574",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34151574",
+   "title": "详讯丨习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790355532310_hwWs5J_1790355532459.png\" />",
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
   },
   {
-   "id": "thepaper-34146662",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34146662",
-   "title": "“平平”“福双”将赴美，助力深化新一轮大熊猫保护国际合作",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790278853589_n6iMRy_1790278853802.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
+   "id": "thepaper-34151551",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34151551",
+   "title": "中美同意共同构建“基于尊重、公平、对等的建设性战略稳定关系”",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/client/focusNewsWwwBig.png\" />",
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
   },
   {
    "id": "thepaper-34154106",
    "url": "https://www.thepaper.cn/newsDetail_forward_34154106",
    "title": "知名音乐人刘欢病逝，享年63岁",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790388978519_h6zMsH_1790388978725.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
   },
   {
    "id": "thepaper-34150727",
    "url": "https://www.thepaper.cn/newsDetail_forward_34150727",
    "title": "18岁之前打破亚运会纪录夺金，陈妤颉：这是最好的成年礼",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790344964008_AFey6a_1790344964249.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
   },
   {
-   "id": "thepaper-34149665",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34149665",
-   "title": "菲方在中方节日期间采取挑衅行径并煽宣炒作，中国海警局回应",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790324529666_rkGYT3_1790324529781.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
-  },
-  {
-   "id": "thepaper-34149617",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34149617",
-   "title": "言短意长｜招聘信息禁用“高薪”“面议”：少点模糊，多些真诚",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790323995802_ip8HSy_1790323996008.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
-  },
-  {
-   "id": "thepaper-34149922",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34149922",
-   "title": "县级医院招博士研究生是不是浪费？浙江永嘉回应：有现实必要性",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790328944200_CyBeys_1790328944374.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
-  },
-  {
-   "id": "thepaper-34149093",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34149093",
-   "title": "广东明确：电动自行车违规停放充电起火，可能被拘留",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790328764139_DYPjf6_1790328764341.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
+   "id": "thepaper-34155814",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34155814",
+   "title": "中美达成八点成果共识",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790409318686_Be8Bke_1790409318925.png\" />",
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
   },
   {
    "id": "thepaper-34150971",
    "url": "https://www.thepaper.cn/newsDetail_forward_34150971",
    "title": "言短意长｜被网暴的符文迪、韩雅平，把“恶意”甩在了身后",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790375770169_h8ba5b_1790375775973.jpg\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
-  },
-  {
-   "id": "thepaper-34149789",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34149789",
-   "title": "球迷“输球思振东”，媒体：不能用“年轻”二字把所有问题轻轻带过",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790327385979_xJN2GS_1790327386215.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
-  },
-  {
-   "id": "thepaper-34149676",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34149676",
-   "title": "中国女篮半决赛不敌韩国，本届亚运会中国篮球各项均无缘决赛",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790325481892_c2wENj_1790325482057.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
-  },
-  {
-   "id": "thepaper-34150400",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34150400",
-   "title": "以色列要做什么？内塔尼亚胡演讲多国代表离席，以色列专人巡视记录",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790338378053_wW5aS1_1790338378235.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
-  },
-  {
-   "id": "thepaper-34154261",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34154261",
-   "title": "直播丨刘欢63岁人生谢幕：大河向东流，歌魂永不朽",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790390327836_eRfSaZ_1790390328047.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
   },
   {
    "id": "thepaper-34154729",
    "url": "https://www.thepaper.cn/newsDetail_forward_34154729",
    "title": "纪念｜刘欢走了，“我和你”都会记得",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790395711360_Rnz5F4_1790395711549.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
   },
   {
-   "id": "thepaper-34149928",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34149928",
-   "title": "以色列在联大拿出星链挑衅，遭伊朗代表团人员无视",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790329116985_KW7We4_1790329117330.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
+   "id": "thepaper-34155396",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34155396",
+   "title": "本世纪首次打进四强！中国U23男足战胜泰国队，晋级半决赛",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790407610560_pjpm3c_1790407610775.png\" />",
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
+  },
+  {
+   "id": "thepaper-34150400",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34150400",
+   "title": "以色列要做什么？内塔尼亚胡演讲多国代表离席，以色列专人巡视记录",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790338378053_wW5aS1_1790338378235.png\" />",
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
+  },
+  {
+   "id": "thepaper-34155815",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34155815",
+   "title": "言短意长｜领导公开手机号只是起点，民意连通不能止步于此",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790409192000_p54Cb7_1790409213709.jpeg\" />",
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
+  },
+  {
+   "id": "thepaper-34154261",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34154261",
+   "title": "直播丨刘欢63岁人生谢幕：大河向东流，歌魂永不朽",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790390327836_eRfSaZ_1790390328047.png\" />",
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
+  },
+  {
+   "id": "thepaper-34155380",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34155380",
+   "title": "他是音乐顽童，一个千古难遇的人｜《甄嬛传》编曲孟可忆刘欢",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790404257000_CeTmr1_1790404274902.png\" />",
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
   },
   {
    "id": "thepaper-34116351",
    "url": "https://www.thepaper.cn/newsDetail_forward_34116351",
    "title": "七嘴八舌｜文化出海需要更多“周深式开口”",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790350517234_m5jGes_1790350517478.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
-  },
-  {
-   "id": "thepaper-34149921",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34149921",
-   "title": "宫鲁鸣回应三分球颗粒无收：时间长了什么情况都可能遇到",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790330449806_43xYPN_1790330449961.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
   },
   {
    "id": "thepaper-34150652",
    "url": "https://www.thepaper.cn/newsDetail_forward_34150652",
    "title": "一张赛车票，打开不一样的上海中秋假期",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790342511202_sJ6NFc_1790342511451.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
   },
   {
-   "id": "thepaper-34143275",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34143275",
-   "title": "观察｜以战略稳定应对外部不确定性，中美关系“重中之重”的背后",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790253225560_TSKTnN_1790253225743.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
+   "id": "thepaper-34151570",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34151570",
+   "title": "特朗普：这次访问富有成效",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790355065687_BYERh8_1790355065884.png\" />",
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
   },
   {
-   "id": "thepaper-34151574",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34151574",
-   "title": "详讯丨习近平和彭丽媛同美国总统特朗普夫妇茶叙",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790355532310_hwWs5J_1790355532459.png\" />",
-   "date_published": "Sat, 26 Sep 2026 06:32:59 GMT"
+   "id": "thepaper-34150964",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34150964",
+   "title": "秋晚《时光回信》牛犇陈丽君刘昊然等共诉家国情怀",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790346787905_Y5Dbt5_1790346788124.png\" />",
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
+  },
+  {
+   "id": "thepaper-34151752",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34151752",
+   "title": "新闻1+1丨一对大熊猫即将赴美，意味着什么？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790356385708_HDxedN_1790356385889.png\" />",
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
+  },
+  {
+   "id": "thepaper-34153875",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34153875",
+   "title": "斩获亚运7金，张展硕游出“小孩哥”，游向“大魔王”",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790386590977_KMyYrY_1790386591191.png\" />",
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
+  },
+  {
+   "id": "thepaper-34154543",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34154543",
+   "title": "比尔·盖茨呼吁立法监管AI工具：“足够强大可能导致十亿人死亡”",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790392278469_kHJyEX_1790392278781.png\" />",
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
+  },
+  {
+   "id": "thepaper-34153886",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34153886",
+   "title": "陈芋汐/卢为夺得亚运会女子双人10米跳台金牌",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790386858983_jG4tam_1790386859194.png\" />",
+   "date_published": "Sat, 26 Sep 2026 11:43:08 GMT"
   }
  ]
 }
