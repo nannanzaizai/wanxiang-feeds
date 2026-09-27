@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-09-27 17:13:02）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-09-27 20:21:26）",
  "items": [
   {
    "id": "thepaper-34149469",
    "url": "https://www.thepaper.cn/newsDetail_forward_34149469",
    "title": "山西一景区3000万元招NPC，是话题营销还是突围之计？澎湃记者实地调查",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790321845263_e6csij_1790321845561.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
   },
   {
    "id": "thepaper-34157509",
    "url": "https://www.thepaper.cn/newsDetail_forward_34157509",
    "title": "世赛完赛时刻：一群二十出头青年的笑和泪",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790433849752_rYFD47_1790433850047.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
-  },
-  {
-   "id": "thepaper-34159489",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34159489",
-   "title": "雷佳悼念刘欢：对一位音乐人最好的怀念，就是他的歌还会被一代代人唱起",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790477353486_Qp2GBX_1790477353649.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
-  },
-  {
-   "id": "thepaper-34159796",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34159796",
-   "title": "马上评丨4岁男童坠楼致残，临时照看的朋友该担何责",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790482415006_NZJnEB_1790482415167.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
   },
   {
    "id": "thepaper-34161501",
    "url": "https://www.thepaper.cn/newsDetail_forward_34161501",
    "title": "王曼昱夺得亚运乒乓球女单金牌，孙颖莎银牌",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790513039448_kJXCbM_1790513039600.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
-  },
-  {
-   "id": "thepaper-34158849",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34158849",
-   "title": "大熊猫“平平”“福双”已启程赴美",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790465036591_2BeGsH_1790465036759.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
   },
   {
    "id": "thepaper-34161493",
    "url": "https://www.thepaper.cn/newsDetail_forward_34161493",
    "title": "吴艳妮：三年前没有成绩，三年后站上领奖台，你就是最棒的",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790511801643_rnPzkQ_1790511801843.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
+  },
+  {
+   "id": "thepaper-34159489",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34159489",
+   "title": "雷佳悼念刘欢：对一位音乐人最好的怀念，就是他的歌还会被一代代人唱起",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790477353486_Qp2GBX_1790477353649.png\" />",
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
+  },
+  {
+   "id": "thepaper-34159796",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34159796",
+   "title": "马上评丨4岁男童坠楼致残，临时照看的朋友该担何责",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790482415006_NZJnEB_1790482415167.png\" />",
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
+  },
+  {
+   "id": "thepaper-34158849",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34158849",
+   "title": "大熊猫“平平”“福双”已启程赴美",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790465036591_2BeGsH_1790465036759.png\" />",
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
   },
   {
    "id": "thepaper-34160576",
    "url": "https://www.thepaper.cn/newsDetail_forward_34160576",
    "title": "言短意长｜隧道通车承诺两次落空，“徙木立信”值得重提",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790498511481_rDP6eT_1790498511669.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
   },
   {
    "id": "thepaper-34160078",
    "url": "https://www.thepaper.cn/newsDetail_forward_34160078",
    "title": "媒体评“3分钟内申请退票被扣费75%”：按“规定”，也要看是否公平",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790489528366_HANjBs_1790489528608.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
   },
   {
    "id": "thepaper-34161008",
    "url": "https://www.thepaper.cn/newsDetail_forward_34161008",
    "title": "小将当家！林诗栋/黄友政为中国队夺得亚运男双金牌",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790505368814_ap4Ric_1790505369025.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
   },
   {
    "id": "thepaper-34143765",
    "url": "https://www.thepaper.cn/newsDetail_forward_34143765",
    "title": "曾因虐猫被拘留的博主“杰克辣条”在家门口遭持刀伤害？物业称有个人恩怨，警方表示如有需要会发布案情",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790257575418_r2GrRT_1790257575665.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
-  },
-  {
-   "id": "thepaper-34157014",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34157014",
-   "title": "多名学生反映吃华科大定制月饼拉肚子，“皇冠幸福里”承认制作，校医院回应暂未接诊病例",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790424933390_t8smwN_1790424933630.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
   },
   {
    "id": "thepaper-34161277",
    "url": "https://www.thepaper.cn/newsDetail_forward_34161277",
    "title": "陈妤颉：100米金牌是成年礼，200米银牌是教训",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790508201817_jJ8GfE_1790508201995.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
+  },
+  {
+   "id": "thepaper-34157014",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34157014",
+   "title": "多名学生反映吃华科大定制月饼拉肚子，“皇冠幸福里”承认制作，校医院回应暂未接诊病例",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790424933390_t8smwN_1790424933630.png\" />",
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
   },
   {
    "id": "thepaper-34159923",
    "url": "https://www.thepaper.cn/newsDetail_forward_34159923",
    "title": "陈冲：母亲离世是人生的转折，感谢金宇澄鼓励我写作",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790485347477_3W37KY_1790485347675.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
   },
   {
    "id": "thepaper-34149474",
    "url": "https://www.thepaper.cn/newsDetail_forward_34149474",
    "title": "景区负责人回应“花3000万寻找NPC”：已有7000人报名，拿天价招NPC “这是最笨的办法”",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790320926738_6EFQEA_1790320927070.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
   },
   {
    "id": "thepaper-34161020",
    "url": "https://www.thepaper.cn/newsDetail_forward_34161020",
    "title": "言短意长丨“48小时”不能成为放弃抢救的倒计时",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790505633043_5PNwRb_1790505633233.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
   },
   {
    "id": "thepaper-34155702",
    "url": "https://www.thepaper.cn/newsDetail_forward_34155702",
    "title": "直播丨第48届世界技能大赛闭幕式",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790520981928_ed2HbW_1790520982188.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
   },
   {
    "id": "thepaper-34161119",
    "url": "https://www.thepaper.cn/newsDetail_forward_34161119",
    "title": "大熊猫“平平”“福双”抵达美国",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790506725685_Kw1XmA_1790506725876.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
+  },
+  {
+   "id": "thepaper-34161486",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34161486",
+   "title": "菲防长发表涉华消极言论，中使馆：罔顾事实、颠倒黑白",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790511857039_FmHBaR_1790511857165.png\" />",
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
   },
   {
    "id": "thepaper-34160296",
    "url": "https://www.thepaper.cn/newsDetail_forward_34160296",
    "title": "视频丨中国人民解放军南部战区位黄岩岛周边海空域组织海空联合演训",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790506560940_5Nktsz_1790506561201.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
-  },
-  {
-   "id": "thepaper-34126108",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34126108",
-   "title": "考虑重新采购F-16战机，美空军为何想吃“回头草”？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790081264266_4S6iQt_1790081264460.png\" />",
-   "date_published": "Sun, 27 Sep 2026 17:13:02 GMT"
+   "date_published": "Sun, 27 Sep 2026 20:21:26 GMT"
   }
  ]
 }
