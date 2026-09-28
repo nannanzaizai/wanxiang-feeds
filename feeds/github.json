@@ -2,70 +2,70 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-09-27 23:20:08）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-09-28 01:56:10）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/paperclipai/paperclip",
    "title": "paperclip",
    "content_html": "<p>The open-source app everyone uses to manage agents at work</p>",
-   "date_published": "Sun, 27 Sep 2026 23:20:08 GMT"
+   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/vectorize-io/hindsight",
    "title": "hindsight",
    "content_html": "<p>Hindsight: Agent Memory That Learns</p>",
-   "date_published": "Sun, 27 Sep 2026 23:20:08 GMT"
+   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/debpalash/VoiceStudio",
    "title": "VoiceStudio",
    "content_html": "<p>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.</p>",
-   "date_published": "Sun, 27 Sep 2026 23:20:08 GMT"
+   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "title": "ai-engineering-from-scratch",
    "content_html": "<p>Learn it. Build it. Ship it for others.</p>",
-   "date_published": "Sun, 27 Sep 2026 23:20:08 GMT"
+   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/InfinityLoop1308/PipePipe",
    "title": "PipePipe",
    "content_html": "<p>An open-source Android app to let you browse YouTube and other services freely.</p>",
-   "date_published": "Sun, 27 Sep 2026 23:20:08 GMT"
+   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/vercel-labs/scriptc",
    "title": "scriptc",
    "content_html": "<p>TypeScript-to-Native Compiler</p>",
-   "date_published": "Sun, 27 Sep 2026 23:20:08 GMT"
+   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/mvschwarz/openrig",
    "title": "openrig",
    "content_html": "<p>Multi-agent harness that runs Claude Code and Codex together as one system</p>",
-   "date_published": "Sun, 27 Sep 2026 23:20:08 GMT"
+   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/dream-num/univer",
    "title": "univer",
    "content_html": "<p>The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.</p>",
-   "date_published": "Sun, 27 Sep 2026 23:20:08 GMT"
+   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/willfaust/Madeira",
    "title": "Madeira",
    "content_html": "<p>Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT</p>",
-   "date_published": "Sun, 27 Sep 2026 23:20:08 GMT"
+   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
   }
  ]
 }
