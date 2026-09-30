@@ -61,11 +61,31 @@ jobs:
           set -e
           git clone --depth 1 https://github.com/imsyy/DailyHotApi.git /tmp/dha
           cd /tmp/dha
-          npm ci --no-audit --no-fund --loglevel=error 2>/dev/null || npm install --no-audit --no-fund
-          npm run build
+
+          # ⚠️ 上游只提供 pnpm-lock.yaml，没有 package-lock.json
+          #    → `npm ci` 必然失败，只能 `npm install`（按 package.json 的浮动范围解析，
+          #      例如 hono ^4.8.9 实装 4.13.x、typescript ^5.8.3 实装 5.9.x）。
+          npm install --no-audit --no-fund
+
+          # ⚠️ 上游 tsconfig 没有 skipLibCheck，而新版 hono 的 .d.ts 会让 tsc 报
+          #    TS2310: Type 'IntrinsicElements' recursively references itself as a base type
+          #    → `npm run build` 直接失败、整条流水线挂掉。
+          #    （2026-09-28 08:31 起连续失败 9 次、GitHub 天天发失败邮件的真凶。
+          #      上游 master 自 2026-03-11 未变动，纯粹是浮动依赖变新所致。）
+          #    skipLibCheck 只跳过 node_modules 内 .d.ts 的类型检查，不影响本项目源码。
+          node -e "const fs=require('fs');const p='tsconfig.json';const t=JSON.parse(fs.readFileSync(p,'utf8'));t.compilerOptions.skipLibCheck=true;fs.writeFileSync(p,JSON.stringify(t,null,2));"
+
+          # 双保险：万一 tsc 仍然失败，退到 tsx 直跑（不做类型检查，与上游 dev 模式同款）
+          if npm run build; then
+            RUNTIME="node dist/index.js"
+          else
+            echo "⚠️ tsc 构建失败，改用 tsx 直跑（跳过类型检查）"
+            RUNTIME="npx --yes tsx src/index.ts"
+          fi
+
           # ⚠️ 必须带 NODE_ENV=development —— dist/index.js 里只有 development/docker 才会 serve()
           NODE_ENV=development RSS_MODE=true PORT=6688 USE_LOG_FILE=false \
-            nohup node dist/index.js > /tmp/dha.log 2>&1 &
+            nohup $RUNTIME > /tmp/dha.log 2>&1 &
           for i in $(seq 1 30); do
             curl -sf http://127.0.0.1:6688/ >/dev/null 2>&1 && { echo "✅ 服务就绪"; break; }
             sleep 2
