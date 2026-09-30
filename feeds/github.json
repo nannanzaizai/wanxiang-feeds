@@ -2,70 +2,105 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-09-28 01:56:10）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-09-30 03:28:09）",
  "items": [
   {
    "id": "github-0",
-   "url": "https://github.com/paperclipai/paperclip",
-   "title": "paperclip",
-   "content_html": "<p>The open-source app everyone uses to manage agents at work</p>",
-   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
-  },
-  {
-   "id": "github-1",
-   "url": "https://github.com/vectorize-io/hindsight",
-   "title": "hindsight",
-   "content_html": "<p>Hindsight: Agent Memory That Learns</p>",
-   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
-  },
-  {
-   "id": "github-2",
    "url": "https://github.com/debpalash/VoiceStudio",
    "title": "VoiceStudio",
    "content_html": "<p>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.</p>",
-   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
+   "date_published": "Wed, 30 Sep 2026 03:28:09 GMT"
+  },
+  {
+   "id": "github-1",
+   "url": "https://github.com/NVIDIA/OpenShell",
+   "title": "OpenShell",
+   "content_html": "<p>OpenShell is the safe, private runtime for autonomous AI agents.</p>",
+   "date_published": "Wed, 30 Sep 2026 03:28:09 GMT"
+  },
+  {
+   "id": "github-2",
+   "url": "https://github.com/vectorize-io/hindsight",
+   "title": "hindsight",
+   "content_html": "<p>Hindsight: Agent Memory That Learns</p>",
+   "date_published": "Wed, 30 Sep 2026 03:28:09 GMT"
   },
   {
    "id": "github-3",
-   "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-   "title": "ai-engineering-from-scratch",
-   "content_html": "<p>Learn it. Build it. Ship it for others.</p>",
-   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
+   "url": "https://github.com/paperclipai/paperclip",
+   "title": "paperclip",
+   "content_html": "<p>The open-source app everyone uses to manage agents at work</p>",
+   "date_published": "Wed, 30 Sep 2026 03:28:09 GMT"
   },
   {
    "id": "github-4",
-   "url": "https://github.com/InfinityLoop1308/PipePipe",
-   "title": "PipePipe",
-   "content_html": "<p>An open-source Android app to let you browse YouTube and other services freely.</p>",
-   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
+   "url": "https://github.com/t8y2/dbx",
+   "title": "dbx",
+   "content_html": "<p>25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。</p>",
+   "date_published": "Wed, 30 Sep 2026 03:28:09 GMT"
   },
   {
    "id": "github-5",
-   "url": "https://github.com/vercel-labs/scriptc",
-   "title": "scriptc",
-   "content_html": "<p>TypeScript-to-Native Compiler</p>",
-   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
-  },
-  {
-   "id": "github-6",
    "url": "https://github.com/mvschwarz/openrig",
    "title": "openrig",
    "content_html": "<p>Multi-agent harness that runs Claude Code and Codex together as one system</p>",
-   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
+   "date_published": "Wed, 30 Sep 2026 03:28:09 GMT"
+  },
+  {
+   "id": "github-6",
+   "url": "https://github.com/oblien/openship",
+   "title": "openship",
+   "content_html": "<p>Self-hosted deployment platform</p>",
+   "date_published": "Wed, 30 Sep 2026 03:28:09 GMT"
   },
   {
    "id": "github-7",
-   "url": "https://github.com/dream-num/univer",
-   "title": "univer",
-   "content_html": "<p>The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.</p>",
-   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
+   "url": "https://github.com/averygan/reclip",
+   "title": "reclip",
+   "content_html": "<p>Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.</p>",
+   "date_published": "Wed, 30 Sep 2026 03:28:09 GMT"
   },
   {
    "id": "github-8",
+   "url": "https://github.com/cs341-illinois/coursebook",
+   "title": "coursebook",
+   "content_html": "<p>Open Source Introductory Systems Programming Textbook for the University of Illinois</p>",
+   "date_published": "Wed, 30 Sep 2026 03:28:09 GMT"
+  },
+  {
+   "id": "github-9",
+   "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+   "title": "ai-engineering-from-scratch",
+   "content_html": "<p>Learn it. Build it. Ship it for others.</p>",
+   "date_published": "Wed, 30 Sep 2026 03:28:09 GMT"
+  },
+  {
+   "id": "github-10",
+   "url": "https://github.com/VectifyAI/PageIndex",
+   "title": "PageIndex",
+   "content_html": "<p>📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG</p>",
+   "date_published": "Wed, 30 Sep 2026 03:28:09 GMT"
+  },
+  {
+   "id": "github-11",
    "url": "https://github.com/willfaust/Madeira",
    "title": "Madeira",
    "content_html": "<p>Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT</p>",
-   "date_published": "Mon, 28 Sep 2026 01:56:10 GMT"
+   "date_published": "Wed, 30 Sep 2026 03:28:09 GMT"
+  },
+  {
+   "id": "github-12",
+   "url": "https://github.com/dream-num/univer",
+   "title": "univer",
+   "content_html": "<p>The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.</p>",
+   "date_published": "Wed, 30 Sep 2026 03:28:09 GMT"
+  },
+  {
+   "id": "github-13",
+   "url": "https://github.com/rakyll/hey",
+   "title": "hey",
+   "content_html": "<p>HTTP load generator, ApacheBench (ab) replacement</p>",
+   "date_published": "Wed, 30 Sep 2026 03:28:09 GMT"
   }
  ]
 }
