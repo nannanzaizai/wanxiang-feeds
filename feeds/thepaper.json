@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-10-01 07:05:42）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-10-01 14:25:12）",
  "items": [
-  {
-   "id": "thepaper-34184563",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34184563",
-   "title": "读报丨央媒集中刊发社论，热烈庆祝中华人民共和国成立77周年",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790812077724_kz7dsH_1790812077919.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
-  },
-  {
-   "id": "thepaper-34180453",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34180453",
-   "title": "邓亚萍点评国乒输球被网暴，媒体：我们究竟能不能好好谈论失利",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790765526577_xAFmpa_1790765526809.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
-  },
-  {
-   "id": "thepaper-34180405",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34180405",
-   "title": "成都大学通报一学院党委书记15万字著作涉嫌抄袭：构成学术不端，已免职",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790763482601_itpaEA_1790763482750.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
-  },
-  {
-   "id": "thepaper-34181002",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34181002",
-   "title": "人民日报社论：在新的伟大征程上接续奋斗再创辉煌——热烈庆祝中华人民共和国成立七十七周年",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790772415929_YGMpWz_1790772416076.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
-  },
-  {
-   "id": "thepaper-34179291",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34179291",
-   "title": "东航通报“空姐下跪”事件",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790755945593_fJXSeH_1790755945782.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
-  },
   {
    "id": "thepaper-34181521",
    "url": "https://www.thepaper.cn/newsDetail_forward_34181521",
    "title": "现场｜空中惊魂：副机长刺伤机长飞机失控俯冲，机舱一片血污乘客惊声尖叫",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790777280903_tripH1_1790777281206.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
-  },
-  {
-   "id": "thepaper-34180993",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34180993",
-   "title": "深圳大鹏新区出台政策允许对违法登山者进行救援追偿，10月12日起施行",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790771251331_FEwRpi_1790771251526.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
-  },
-  {
-   "id": "thepaper-34180780",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34180780",
-   "title": "亚运会状况百出，日本名古屋市长向运动员和相关人员公开致歉",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790769165160_EFp1Yp_1790769165356.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
-  },
-  {
-   "id": "thepaper-34178764",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34178764",
-   "title": "奔赴“县”场｜天南地北的孩子们，都回来了",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790752175837_5CjDEn_1790752176043.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
   },
   {
    "id": "thepaper-34180765",
    "url": "https://www.thepaper.cn/newsDetail_forward_34180765",
    "title": "京沪穗落地住房销售改革细则：三地有哪些不同，对楼市有何影响？",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790769289210_GPsssH_1790769289489.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
-  },
-  {
-   "id": "thepaper-34178532",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34178532",
-   "title": "众声丨组织“自愿捐款”却实名接龙，家委会权责边界需厘清",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790749964736_wz4GPC_1790749964830.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
-  },
-  {
-   "id": "thepaper-34178172",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34178172",
-   "title": "告别无休止滑屏约会：新加坡试点官方算法配对，婚介机构在日本重获青睐",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790742875770_GkMyEY_1790742876259.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
   },
   {
    "id": "thepaper-34179255",
    "url": "https://www.thepaper.cn/newsDetail_forward_34179255",
    "title": "奔赴“县”场｜安徽黟县：如何从“到此一游”到“留此成邻”",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790759775877_cskKCk_1790759776123.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
-  },
-  {
-   "id": "thepaper-34178998",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34178998",
-   "title": "40年首球！中国U23男足不敌韩国，无缘决赛",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790753436463_ZBmZHN_1790753436664.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
-  },
-  {
-   "id": "thepaper-34180763",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34180763",
-   "title": "释新闻｜劫机代码、战机出动、机长被刺，迪拜航空客机内发生了什么？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790768389822_8DWHTF_1790768390019.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
-  },
-  {
-   "id": "thepaper-34179882",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34179882",
-   "title": "马上评｜用心做好服务和维护员工尊严并不矛盾",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790759660874_WJPMF5_1790759661061.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
-  },
-  {
-   "id": "thepaper-34178550",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34178550",
-   "title": "东方甄选：直播间购买“溜溜凳”的用户，全面退款不退货，退款金额为货价二倍",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790749446225_BNZy6W_1790749446342.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
   },
   {
    "id": "thepaper-34185639",
    "url": "https://www.thepaper.cn/newsDetail_forward_34185639",
    "title": "沪昆高速怀化段发生交通事故6死4伤，半挂车司机涉疲劳驾驶被控制",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790827125954_2idJ47_1790827126092.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
   },
   {
-   "id": "thepaper-34180043",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34180043",
-   "title": "裁判为什么不看VAR？张玉宁：我们可以在亚洲与强队抗衡",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790760443409_6ccrxJ_1790760443605.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
+   "id": "thepaper-34186523",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34186523",
+   "title": "中华文促会文旅创新工作委员会发文澄清“阿丘”相关传言",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790844116616_d5P14f_1790844116832.png\" />",
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
   },
   {
-   "id": "thepaper-34181386",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34181386",
-   "title": "109岁老红军、广东省原副省长范希贤逝世",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790775937475_ks7MN5_1790775937652.png\" />",
-   "date_published": "Thu, 01 Oct 2026 07:05:42 GMT"
+   "id": "thepaper-34185841",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34185841",
+   "title": "当水管工拉起操纵杆：中东上空的“空中浩劫”是怎样被扭转的",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790834082299_DxxKrB_1790834267544.jpg\" />",
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
+  },
+  {
+   "id": "thepaper-34184787",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34184787",
+   "title": "现场｜亚运国足：进一寸，有进一寸的欢喜",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790814605171_GP62YX_1790814605938.png\" />",
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
+  },
+  {
+   "id": "thepaper-34186076",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34186076",
+   "title": "华为Mate 90系列发布：全系搭载韬芯片，麒麟9050 Pro亮相",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790836144573_wSKp8z_1790836144764.png\" />",
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
+  },
+  {
+   "id": "thepaper-34185317",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34185317",
+   "title": "百金落定，一支从未让亚运金牌旁落的队伍，是什么样？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790821475869_DpZ1HF_1790821476399.png\" />",
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
+  },
+  {
+   "id": "thepaper-34187134",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34187134",
+   "title": "中东密集外交互动谈了什么？释放哪些信号？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790852716492_yC5PTm_1790852716685.png\" />",
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
+  },
+  {
+   "id": "thepaper-34186075",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34186075",
+   "title": "迪拜航空客机上唯一医护乘客披露救治细节：印度籍机长“手部几乎被切断”",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790836068310_aSf8HA_1790836068554.png\" />",
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
+  },
+  {
+   "id": "thepaper-34185339",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34185339",
+   "title": "美媒：鲁比奥要求伊朗代表团立即离美",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790822673848_HxTRJD_1790822674029.png\" />",
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
+  },
+  {
+   "id": "thepaper-34185315",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34185315",
+   "title": "乘客称凭借电视节目知识万米高空救机，特朗普直呼“不可思议”",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790823215267_yRtaW2_1790823215420.png\" />",
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
+  },
+  {
+   "id": "thepaper-34186218",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34186218",
+   "title": "反转又反转！美国女死囚被注射两剂致死药物后仍活着还打鼾，紧急送医治疗",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790838468269_wnXi7S_1790838468497.png\" />",
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
+  },
+  {
+   "id": "thepaper-34181584",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34181584",
+   "title": "银基动物王国实测：热门项目预约难，付费通道分流引争议",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790778315768_bZrYjt_1790778316059.png\" />",
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
+  },
+  {
+   "id": "thepaper-34185714",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34185714",
+   "title": "《中国梦·家国情——2026国庆特别节目》节目单发布",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790828674685_H4CrQk_1790828674907.png\" />",
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
+  },
+  {
+   "id": "thepaper-34186258",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34186258",
+   "title": "于和伟谈《伟大的长征》：我扮演了特别崇敬的人物",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790840562465_SnBeTS_1790840562647.png\" />",
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
+  },
+  {
+   "id": "thepaper-34186345",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34186345",
+   "title": "前三季度人民币对美元即期汇率升值超4%，后续如何走",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790842817892_NTyJKd_1790842817982.png\" />",
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
+  },
+  {
+   "id": "thepaper-34184563",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34184563",
+   "title": "读报丨央媒集中刊发社论，热烈庆祝中华人民共和国成立77周年",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790812077724_kz7dsH_1790812077919.png\" />",
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
+  },
+  {
+   "id": "thepaper-34186017",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34186017",
+   "title": "人气爆棚！409级台阶拾级而上，提前解锁“中国扇”",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790835164749_SdsMi5_1790835165174.png\" />",
+   "date_published": "Thu, 01 Oct 2026 14:25:12 GMT"
   }
  ]
 }
