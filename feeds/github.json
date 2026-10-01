@@ -2,126 +2,126 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-09-30 21:21:26）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-01 00:47:27）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/NVIDIA/OpenShell",
    "title": "OpenShell",
    "content_html": "<p>OpenShell is the safe, private runtime for autonomous AI agents.</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/debpalash/VoiceStudio",
    "title": "VoiceStudio",
    "content_html": "<p>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/mvschwarz/openrig",
    "title": "openrig",
    "content_html": "<p>Multi-agent harness that runs Claude Code and Codex together as one system</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/mksglu/context-mode",
    "title": "context-mode",
    "content_html": "<p>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/DietrichGebert/ponytail",
    "title": "ponytail",
    "content_html": "<p>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
    "title": "MoneyPrinterTurbo",
    "content_html": "<p>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/openclaw/openclaw",
    "title": "openclaw",
    "content_html": "<p>The AI that really does things. Any OS. Any Platform. The lobster way. 🦞</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
    "title": "awesome-claude-skills",
    "content_html": "<p>A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/mattpocock/skills",
    "title": "skills",
    "content_html": "<p>Skills for Real Engineers. Straight from my .agents directory.</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   },
   {
    "id": "github-9",
    "url": "https://github.com/heygen-com/hyperframes",
    "title": "hyperframes",
    "content_html": "<p>Write HTML. Render video. Built for agents.</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   },
   {
    "id": "github-10",
    "url": "https://github.com/firebase/firebase-ios-sdk",
    "title": "firebase-ios-sdk",
    "content_html": "<p>Firebase SDK for Apple App Development</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   },
   {
    "id": "github-11",
    "url": "https://github.com/modelcontextprotocol/servers",
    "title": "servers",
    "content_html": "<p>Model Context Protocol Servers</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   },
   {
    "id": "github-12",
    "url": "https://github.com/byoungd/up",
    "title": "up",
    "content_html": "<p>An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   },
   {
    "id": "github-13",
    "url": "https://github.com/colbymchenry/codegraph",
    "title": "codegraph",
    "content_html": "<p>Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   },
   {
    "id": "github-14",
    "url": "https://github.com/t8y2/dbx",
    "title": "dbx",
    "content_html": "<p>25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   },
   {
    "id": "github-15",
    "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
    "title": "PLFM_RADAR",
    "content_html": "<p>Open-source, low-cost 10.5 GHz PLFM phased array RADAR system</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   },
   {
    "id": "github-16",
    "url": "https://github.com/VectifyAI/PageIndex",
    "title": "PageIndex",
    "content_html": "<p>📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG</p>",
-   "date_published": "Wed, 30 Sep 2026 21:21:26 GMT"
+   "date_published": "Thu, 01 Oct 2026 00:47:27 GMT"
   }
  ]
 }
