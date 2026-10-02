@@ -2,112 +2,112 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-01 23:50:11）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-02 05:12:02）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/DietrichGebert/ponytail",
    "title": "ponytail",
    "content_html": "<p>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</p>",
-   "date_published": "Thu, 01 Oct 2026 23:50:11 GMT"
+   "date_published": "Fri, 02 Oct 2026 05:12:02 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/mattpocock/skills",
    "title": "skills",
    "content_html": "<p>Skills for Real Engineers. Straight from my .agents directory.</p>",
-   "date_published": "Thu, 01 Oct 2026 23:50:11 GMT"
+   "date_published": "Fri, 02 Oct 2026 05:12:02 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/NVIDIA/OpenShell",
    "title": "OpenShell",
    "content_html": "<p>OpenShell is the safe, private runtime for autonomous AI agents.</p>",
-   "date_published": "Thu, 01 Oct 2026 23:50:11 GMT"
+   "date_published": "Fri, 02 Oct 2026 05:12:02 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/firebase/firebase-ios-sdk",
    "title": "firebase-ios-sdk",
    "content_html": "<p>Firebase SDK for Apple App Development</p>",
-   "date_published": "Thu, 01 Oct 2026 23:50:11 GMT"
+   "date_published": "Fri, 02 Oct 2026 05:12:02 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/mvschwarz/openrig",
    "title": "openrig",
    "content_html": "<p>Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.</p>",
-   "date_published": "Thu, 01 Oct 2026 23:50:11 GMT"
+   "date_published": "Fri, 02 Oct 2026 05:12:02 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/cursor/plugins",
    "title": "plugins",
    "content_html": "<p>Cursor plugin specification and official plugins</p>",
-   "date_published": "Thu, 01 Oct 2026 23:50:11 GMT"
+   "date_published": "Fri, 02 Oct 2026 05:12:02 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/obra/superpowers",
    "title": "superpowers",
    "content_html": "<p>An agentic skills framework & software development methodology that works.</p>",
-   "date_published": "Thu, 01 Oct 2026 23:50:11 GMT"
+   "date_published": "Fri, 02 Oct 2026 05:12:02 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/mksglu/context-mode",
    "title": "context-mode",
    "content_html": "<p>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</p>",
-   "date_published": "Thu, 01 Oct 2026 23:50:11 GMT"
+   "date_published": "Fri, 02 Oct 2026 05:12:02 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/heygen-com/hyperframes",
    "title": "hyperframes",
    "content_html": "<p>Write HTML. Render video. Built for agents.</p>",
-   "date_published": "Thu, 01 Oct 2026 23:50:11 GMT"
+   "date_published": "Fri, 02 Oct 2026 05:12:02 GMT"
   },
   {
    "id": "github-9",
    "url": "https://github.com/earendil-works/pi",
    "title": "pi",
    "content_html": "<p>AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI</p>",
-   "date_published": "Thu, 01 Oct 2026 23:50:11 GMT"
+   "date_published": "Fri, 02 Oct 2026 05:12:02 GMT"
   },
   {
    "id": "github-10",
    "url": "https://github.com/tile-ai/tilelang",
    "title": "tilelang",
    "content_html": "<p>Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels</p>",
-   "date_published": "Thu, 01 Oct 2026 23:50:11 GMT"
+   "date_published": "Fri, 02 Oct 2026 05:12:02 GMT"
   },
   {
    "id": "github-11",
    "url": "https://github.com/pablostanley/yoinks",
    "title": "yoinks",
    "content_html": "<p>yoink any video from your terminal. no shady ads.</p>",
-   "date_published": "Thu, 01 Oct 2026 23:50:11 GMT"
+   "date_published": "Fri, 02 Oct 2026 05:12:02 GMT"
   },
   {
    "id": "github-12",
    "url": "https://github.com/HunxByts/GhostTrack",
    "title": "GhostTrack",
    "content_html": "<p>Useful tool to track location or mobile number</p>",
-   "date_published": "Thu, 01 Oct 2026 23:50:11 GMT"
+   "date_published": "Fri, 02 Oct 2026 05:12:02 GMT"
   },
   {
    "id": "github-13",
    "url": "https://github.com/pbakaus/impeccable",
    "title": "impeccable",
    "content_html": "<p>The design language that makes your AI harness better at design.</p>",
-   "date_published": "Thu, 01 Oct 2026 23:50:11 GMT"
+   "date_published": "Fri, 02 Oct 2026 05:12:02 GMT"
   },
   {
    "id": "github-14",
    "url": "https://github.com/Friedrich-M/UniMate",
    "title": "UniMate",
    "content_html": "<p>[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons</p>",
-   "date_published": "Thu, 01 Oct 2026 23:50:11 GMT"
+   "date_published": "Fri, 02 Oct 2026 05:12:02 GMT"
   }
  ]
 }
