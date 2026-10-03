@@ -2,126 +2,140 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-03 06:18:05）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-03 11:57:01）",
  "items": [
   {
    "id": "github-0",
-   "url": "https://github.com/Panniantong/Agent-Reach",
-   "title": "Agent-Reach",
-   "content_html": "<p>Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
-  },
-  {
-   "id": "github-1",
-   "url": "https://github.com/JuliusBrussee/caveman",
-   "title": "caveman",
-   "content_html": "<p>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
-  },
-  {
-   "id": "github-2",
-   "url": "https://github.com/obra/superpowers",
-   "title": "superpowers",
-   "content_html": "<p>An agentic skills framework & software development methodology that works.</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
-  },
-  {
-   "id": "github-3",
    "url": "https://github.com/DietrichGebert/ponytail",
    "title": "ponytail",
    "content_html": "<p>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
   },
   {
-   "id": "github-4",
+   "id": "github-1",
    "url": "https://github.com/pbakaus/impeccable",
    "title": "impeccable",
    "content_html": "<p>The design language that makes your AI harness better at design.</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
   },
   {
-   "id": "github-5",
-   "url": "https://github.com/mattpocock/skills",
-   "title": "skills",
-   "content_html": "<p>Skills for Real Engineers. Straight from my .agents directory.</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
+   "id": "github-2",
+   "url": "https://github.com/affaan-m/ECC",
+   "title": "ECC",
+   "content_html": "<p>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</p>",
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
   },
   {
-   "id": "github-6",
-   "url": "https://github.com/NVIDIA/OpenShell",
-   "title": "OpenShell",
-   "content_html": "<p>OpenShell is the safe, private runtime for autonomous AI agents.</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
-  },
-  {
-   "id": "github-7",
-   "url": "https://github.com/coreyhaines31/marketingskills",
-   "title": "marketingskills",
-   "content_html": "<p>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
-  },
-  {
-   "id": "github-8",
-   "url": "https://github.com/heygen-com/hyperframes",
-   "title": "hyperframes",
-   "content_html": "<p>Write HTML. Render video. Built for agents.</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
-  },
-  {
-   "id": "github-9",
-   "url": "https://github.com/mksglu/context-mode",
-   "title": "context-mode",
-   "content_html": "<p>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
-  },
-  {
-   "id": "github-10",
-   "url": "https://github.com/google/skills",
-   "title": "skills",
-   "content_html": "<p>Agent Skills for Google products and technologies</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
-  },
-  {
-   "id": "github-11",
-   "url": "https://github.com/getsentry/sentry",
-   "title": "sentry",
-   "content_html": "<p>Developer-first error tracking and performance monitoring</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
-  },
-  {
-   "id": "github-12",
-   "url": "https://github.com/colbymchenry/codegraph",
-   "title": "codegraph",
-   "content_html": "<p>Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
-  },
-  {
-   "id": "github-13",
-   "url": "https://github.com/cursor/plugins",
-   "title": "plugins",
-   "content_html": "<p>Cursor plugin specification and official plugins</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
-  },
-  {
-   "id": "github-14",
-   "url": "https://github.com/mvschwarz/openrig",
-   "title": "openrig",
-   "content_html": "<p>Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
-  },
-  {
-   "id": "github-15",
+   "id": "github-3",
    "url": "https://github.com/Effect-TS/effect",
    "title": "effect",
    "content_html": "<p>Build production-ready applications in TypeScript</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
+  },
+  {
+   "id": "github-4",
+   "url": "https://github.com/JuliusBrussee/caveman",
+   "title": "caveman",
+   "content_html": "<p>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</p>",
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
+  },
+  {
+   "id": "github-5",
+   "url": "https://github.com/Panniantong/Agent-Reach",
+   "title": "Agent-Reach",
+   "content_html": "<p>Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.</p>",
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
+  },
+  {
+   "id": "github-6",
+   "url": "https://github.com/pingdotgg/t3code",
+   "title": "t3code",
+   "content_html": "<p>t3code</p>",
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
+  },
+  {
+   "id": "github-7",
+   "url": "https://github.com/thedotmack/claude-mem",
+   "title": "claude-mem",
+   "content_html": "<p>Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More</p>",
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
+  },
+  {
+   "id": "github-8",
+   "url": "https://github.com/cloudflare/cloudflare-os",
+   "title": "cloudflare-os",
+   "content_html": "<p>Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.</p>",
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
+  },
+  {
+   "id": "github-9",
+   "url": "https://github.com/addyosmani/agent-skills",
+   "title": "agent-skills",
+   "content_html": "<p>Production-grade engineering skills for AI coding agents.</p>",
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
+  },
+  {
+   "id": "github-10",
+   "url": "https://github.com/obra/superpowers",
+   "title": "superpowers",
+   "content_html": "<p>An agentic skills framework & software development methodology that works.</p>",
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
+  },
+  {
+   "id": "github-11",
+   "url": "https://github.com/mattpocock/skills",
+   "title": "skills",
+   "content_html": "<p>Skills for Real Engineers. Straight from my .agents directory.</p>",
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
+  },
+  {
+   "id": "github-12",
+   "url": "https://github.com/mksglu/context-mode",
+   "title": "context-mode",
+   "content_html": "<p>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</p>",
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
+  },
+  {
+   "id": "github-13",
+   "url": "https://github.com/earendil-works/pi",
+   "title": "pi",
+   "content_html": "<p>AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI</p>",
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
+  },
+  {
+   "id": "github-14",
+   "url": "https://github.com/getsentry/sentry",
+   "title": "sentry",
+   "content_html": "<p>Developer-first error tracking and performance monitoring</p>",
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
+  },
+  {
+   "id": "github-15",
+   "url": "https://github.com/anthropics/claude-code",
+   "title": "claude-code",
+   "content_html": "<p>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</p>",
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
   },
   {
    "id": "github-16",
-   "url": "https://github.com/pablostanley/yoinks",
-   "title": "yoinks",
-   "content_html": "<p>yoink any video from your terminal. no shady ads.</p>",
-   "date_published": "Sat, 03 Oct 2026 06:18:05 GMT"
+   "url": "https://github.com/jamwithai/production-agentic-rag-course",
+   "title": "production-agentic-rag-course",
+   "content_html": "<p>production-agentic-rag-course</p>",
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
+  },
+  {
+   "id": "github-17",
+   "url": "https://github.com/meituan-longcat/LongCat-Video",
+   "title": "LongCat-Video",
+   "content_html": "<p>LongCat-Video</p>",
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
+  },
+  {
+   "id": "github-18",
+   "url": "https://github.com/OpenCut-app/OpenCut",
+   "title": "OpenCut",
+   "content_html": "<p>The open-source CapCut alternative</p>",
+   "date_published": "Sat, 03 Oct 2026 11:57:01 GMT"
   }
  ]
 }
