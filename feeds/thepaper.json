@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-10-02 21:15:10）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-10-03 00:40:29）",
  "items": [
   {
    "id": "thepaper-34190175",
    "url": "https://www.thepaper.cn/newsDetail_forward_34190175",
    "title": "中国驻美国大使接受美《新闻周刊》专访：谈习近平对美进行国事访问和中美关系",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790895707521_QYa16Z_1790895707726.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
   },
   {
    "id": "thepaper-34190721",
    "url": "https://www.thepaper.cn/newsDetail_forward_34190721",
    "title": "国际货币基金组织：“非常欢迎”中美经贸团队磋商取得积极共识",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790908595722_cHjAdR_1790908595846.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
   },
   {
    "id": "thepaper-34192194",
    "url": "https://www.thepaper.cn/newsDetail_forward_34192194",
    "title": "被捅数刀的印度籍机长对话莫迪：飞机急速下坠，我不能眼睁睁看着乘客死去",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790936339667_5BQstz_1790936339879.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
   },
   {
    "id": "thepaper-34192197",
    "url": "https://www.thepaper.cn/newsDetail_forward_34192197",
    "title": "1年内在12315平台累计举报1520次，市监部门：具牟利性职业索赔特征",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1701862006574_bJA84K_1790936872621.jpeg\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
-  },
-  {
-   "id": "thepaper-34192201",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34192201",
-   "title": "宁波鲸途海洋乐园“挑逗”鳄鱼表演引关注，辖区文旅局约谈园区负责人",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790937530090_ZeacTK_1790937530285.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
-  },
-  {
-   "id": "thepaper-34191119",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34191119",
-   "title": "女子因儿童未下车而阻挡列车关门，广州南车站回应：提醒教育，儿童已安全接回",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790916206428_dwN2RK_1790916206546.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
-  },
-  {
-   "id": "thepaper-34191567",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34191567",
-   "title": "释新闻｜美国一死囚被注射致命药物后仍存活，失败原因何在？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790925414122_hbajZN_1790925414290.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
-  },
-  {
-   "id": "thepaper-34187632",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34187632",
-   "title": "“闪身步”“狗熊哆嗦毛”出圈，参与录制的北舞教授：系北舞本科必修课教材，源自民间舞",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790857677541_34nKDj_1790857677763.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
-  },
-  {
-   "id": "thepaper-34192808",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34192808",
-   "title": "0比5输球后，邵佳一：这样的失利说实话以前没有经历过",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790952534287_Fb2PNB_1790952534488.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
-  },
-  {
-   "id": "thepaper-34186459",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34186459",
-   "title": "欧洲年轻人把手机锁进“旅馆”：一场关于数字生活边界的实验",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790844839331_2ec4Cs_1790844839640.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
-  },
-  {
-   "id": "thepaper-34191709",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34191709",
-   "title": "澎湃回声｜宁波鲸途海洋乐园：停止“挑逗”鳄鱼行为，改为其他互动形式",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790927520245_kFRrJH_1790927520447.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
-  },
-  {
-   "id": "thepaper-34187921",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34187921",
-   "title": "平遥观察｜许鞍华公开复盘失败作品之后",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790863226907_sThBJP_1790863227405.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
-  },
-  {
-   "id": "thepaper-34192540",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34192540",
-   "title": "60年首败！国足热身赛0比5不敌巴勒斯坦",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790946476666_6Ksaxr_1790946476919.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
-  },
-  {
-   "id": "thepaper-34190543",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34190543",
-   "title": "内塔尼亚胡盛赞“高空救机”平民英雄：开了挂的好莱坞电影都编不出这样的剧情",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790905366085_XnA71K_1790905366295.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
-  },
-  {
-   "id": "thepaper-34191454",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34191454",
-   "title": "“闪身步”、“狗熊哆嗦毛” 意外走红，北舞教授讲述教材录制往事",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790922767851_tiNikQ_1790922768046.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
-  },
-  {
-   "id": "thepaper-34190910",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34190910",
-   "title": "新能源车主反映“充电排队取号像食堂打饭”，枣阳北服务区：排队最久一晚派了100多号",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790911546595_KT3rHT_1790911546719.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
-  },
-  {
-   "id": "thepaper-34191965",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34191965",
-   "title": "回望《伟大的长征》创作历程，总编剧陈晋称是两次学习",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790932472173_dEznDN_1790932472309.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
   },
   {
    "id": "thepaper-34191974",
    "url": "https://www.thepaper.cn/newsDetail_forward_34191974",
    "title": "上海生育医疗费用个人“无自付”新政落地，部分住院分娩孕产妇已获益",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790935393730_RfdrN6_1790935394105.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
   },
   {
-   "id": "thepaper-34180094",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34180094",
-   "title": "加拿大计划采购瑞典预警机，为何没看上美国的竞标方案？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790929173841_2Bhhyk_1790929694552.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
+   "id": "thepaper-34192201",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34192201",
+   "title": "宁波鲸途海洋乐园“挑逗”鳄鱼表演引关注，辖区文旅局约谈园区负责人",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790937530090_ZeacTK_1790937530285.png\" />",
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
+  },
+  {
+   "id": "thepaper-34192808",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34192808",
+   "title": "0比5输球后，邵佳一：这样的失利说实话以前没有经历过",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790952534287_Fb2PNB_1790952534488.png\" />",
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
+  },
+  {
+   "id": "thepaper-34191567",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34191567",
+   "title": "释新闻｜美国一死囚被注射致命药物后仍存活，失败原因何在？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790925414122_hbajZN_1790925414290.png\" />",
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
+  },
+  {
+   "id": "thepaper-34191119",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34191119",
+   "title": "女子因儿童未下车而阻挡列车关门，广州南车站回应：提醒教育，儿童已安全接回",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790916206428_dwN2RK_1790916206546.png\" />",
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
   },
   {
    "id": "thepaper-34191220",
    "url": "https://www.thepaper.cn/newsDetail_forward_34191220",
    "title": "同比增六成！高速公路充电量创节假日单日新高，国家能源局回应",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790917093609_tBb5NT_1790917093898.png\" />",
-   "date_published": "Fri, 02 Oct 2026 21:15:10 GMT"
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
+  },
+  {
+   "id": "thepaper-34191709",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34191709",
+   "title": "澎湃回声｜宁波鲸途海洋乐园：停止“挑逗”鳄鱼行为，改为其他互动形式",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790927520245_kFRrJH_1790927520447.png\" />",
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
+  },
+  {
+   "id": "thepaper-34191992",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34191992",
+   "title": "华人物理学家叶军获“诺奖风向标”沃尔夫物理学奖，系该奖项史上第二位华人得主",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790934466517_MxMsak_1790934466726.png\" />",
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
+  },
+  {
+   "id": "thepaper-34192540",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34192540",
+   "title": "60年首败！国足热身赛0比5不敌巴勒斯坦",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790946476666_6Ksaxr_1790946476919.png\" />",
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
+  },
+  {
+   "id": "thepaper-34190543",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34190543",
+   "title": "内塔尼亚胡盛赞“高空救机”平民英雄：开了挂的好莱坞电影都编不出这样的剧情",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790905366085_XnA71K_1790905366295.png\" />",
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
+  },
+  {
+   "id": "thepaper-34191454",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34191454",
+   "title": "“闪身步”、“狗熊哆嗦毛” 意外走红，北舞教授讲述教材录制往事",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790922767851_tiNikQ_1790922768046.png\" />",
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
+  },
+  {
+   "id": "thepaper-34190910",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34190910",
+   "title": "新能源车主反映“充电排队取号像食堂打饭”，枣阳北服务区：排队最久一晚派了100多号",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790911546595_KT3rHT_1790911546719.png\" />",
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
+  },
+  {
+   "id": "thepaper-34191965",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34191965",
+   "title": "回望《伟大的长征》创作历程，总编剧陈晋称是两次学习",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790932472173_dEznDN_1790932472309.png\" />",
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
+  },
+  {
+   "id": "thepaper-34180094",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34180094",
+   "title": "加拿大计划采购瑞典预警机，为何没看上美国的竞标方案？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790929173841_2Bhhyk_1790929694552.png\" />",
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
+  },
+  {
+   "id": "thepaper-34192666",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34192666",
+   "title": "美国暂停驻巴西大使馆和领事馆服务",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790946977928_Jws5iz_1790946978085.png\" />",
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
+  },
+  {
+   "id": "thepaper-34187235",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34187235",
+   "title": "上海修订征地房屋补偿规定：补偿标准应至少每三年调整或者重新公布一次",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1790855132007_JwMTGT_1790855132197.png\" />",
+   "date_published": "Sat, 03 Oct 2026 00:40:29 GMT"
   }
  ]
 }
