@@ -2,112 +2,112 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-04 18:18:37）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-04 21:50:50）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/tester-army/e2e",
    "title": "e2e",
    "content_html": "<p>Next generation e2e testing framework for web and mobile apps.</p>",
-   "date_published": "Sun, 04 Oct 2026 18:18:37 GMT"
+   "date_published": "Sun, 04 Oct 2026 21:50:50 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/pbakaus/impeccable",
    "title": "impeccable",
    "content_html": "<p>The design language that makes your AI harness better at design.</p>",
-   "date_published": "Sun, 04 Oct 2026 18:18:37 GMT"
+   "date_published": "Sun, 04 Oct 2026 21:50:50 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/coreyhaines31/marketingskills",
    "title": "marketingskills",
    "content_html": "<p>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.</p>",
-   "date_published": "Sun, 04 Oct 2026 18:18:37 GMT"
+   "date_published": "Sun, 04 Oct 2026 21:50:50 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/DietrichGebert/ponytail",
    "title": "ponytail",
    "content_html": "<p>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</p>",
-   "date_published": "Sun, 04 Oct 2026 18:18:37 GMT"
+   "date_published": "Sun, 04 Oct 2026 21:50:50 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/earthtojake/text-to-cad",
    "title": "text-to-cad",
    "content_html": "<p>Give your agent CAD superpowers.</p>",
-   "date_published": "Sun, 04 Oct 2026 18:18:37 GMT"
+   "date_published": "Sun, 04 Oct 2026 21:50:50 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/Panniantong/Agent-Reach",
    "title": "Agent-Reach",
    "content_html": "<p>Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.</p>",
-   "date_published": "Sun, 04 Oct 2026 18:18:37 GMT"
+   "date_published": "Sun, 04 Oct 2026 21:50:50 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/getsentry/sentry",
    "title": "sentry",
    "content_html": "<p>Developer-first error tracking and performance monitoring</p>",
-   "date_published": "Sun, 04 Oct 2026 18:18:37 GMT"
+   "date_published": "Sun, 04 Oct 2026 21:50:50 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/calesthio/OpenMontage",
    "title": "OpenMontage",
    "content_html": "<p>World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.</p>",
-   "date_published": "Sun, 04 Oct 2026 18:18:37 GMT"
+   "date_published": "Sun, 04 Oct 2026 21:50:50 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/pingdotgg/t3code",
    "title": "t3code",
    "content_html": "<p>t3code</p>",
-   "date_published": "Sun, 04 Oct 2026 18:18:37 GMT"
+   "date_published": "Sun, 04 Oct 2026 21:50:50 GMT"
   },
   {
    "id": "github-9",
    "url": "https://github.com/caddyserver/caddy",
    "title": "caddy",
    "content_html": "<p>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</p>",
-   "date_published": "Sun, 04 Oct 2026 18:18:37 GMT"
+   "date_published": "Sun, 04 Oct 2026 21:50:50 GMT"
   },
   {
    "id": "github-10",
    "url": "https://github.com/addyosmani/agent-skills",
    "title": "agent-skills",
    "content_html": "<p>Production-grade engineering skills for AI coding agents.</p>",
-   "date_published": "Sun, 04 Oct 2026 18:18:37 GMT"
+   "date_published": "Sun, 04 Oct 2026 21:50:50 GMT"
   },
   {
    "id": "github-11",
    "url": "https://github.com/thedotmack/claude-mem",
    "title": "claude-mem",
    "content_html": "<p>Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More</p>",
-   "date_published": "Sun, 04 Oct 2026 18:18:37 GMT"
+   "date_published": "Sun, 04 Oct 2026 21:50:50 GMT"
   },
   {
    "id": "github-12",
    "url": "https://github.com/garrytan/gstack",
    "title": "gstack",
    "content_html": "<p>Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA</p>",
-   "date_published": "Sun, 04 Oct 2026 18:18:37 GMT"
+   "date_published": "Sun, 04 Oct 2026 21:50:50 GMT"
   },
   {
    "id": "github-13",
    "url": "https://github.com/OpenCut-app/OpenCut",
    "title": "OpenCut",
    "content_html": "<p>The open-source CapCut alternative</p>",
-   "date_published": "Sun, 04 Oct 2026 18:18:37 GMT"
+   "date_published": "Sun, 04 Oct 2026 21:50:50 GMT"
   },
   {
    "id": "github-14",
    "url": "https://github.com/antirez/ds4",
    "title": "ds4",
    "content_html": "<p>DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm</p>",
-   "date_published": "Sun, 04 Oct 2026 18:18:37 GMT"
+   "date_published": "Sun, 04 Oct 2026 21:50:50 GMT"
   }
  ]
 }
