@@ -2,357 +2,357 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "稀土掘金",
  "home_page_url": "https://juejin.cn/hot/articles",
- "description": "掘金热榜（via DailyHotApi · 生成于 2026-10-04 21:50:48）",
+ "description": "掘金热榜（via DailyHotApi · 生成于 2026-10-05 00:39:43）",
  "items": [
   {
    "id": "juejin-7691227873460125734",
    "url": "https://juejin.cn/post/7691227873460125734",
    "title": "31岁罗福莉，晋升小米最高职级22级",
    "content_html": "<p>31岁罗福莉，晋升小米最高职级22级</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691345821564174363",
    "url": "https://juejin.cn/post/7691345821564174363",
    "title": "Vue3 UIKit 实战：把聊天、会话、主题和移动端适配全部封装好",
    "content_html": "<p>Vue3 UIKit 实战：把聊天、会话、主题和移动端适配全部封装好</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691872111024586752",
    "url": "https://juejin.cn/post/7691872111024586752",
    "title": "KMP 又改了编译流程， Separate Compilation 禁止了 `commonMain` 的依赖穿透",
    "content_html": "<p>KMP 又改了编译流程， Separate Compilation 禁止了 `commonMain` 的依赖穿透</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691530846752538639",
    "url": "https://juejin.cn/post/7691530846752538639",
    "title": "LLM 面试必问的 8 个问题，答不上来直接淘汰",
    "content_html": "<p>LLM 面试必问的 8 个问题，答不上来直接淘汰</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691835382220111872",
    "url": "https://juejin.cn/post/7691835382220111872",
    "title": "MCP 技术分享：从协议握手到 LangGraph 多 Server 调用",
    "content_html": "<p>MCP 技术分享：从协议握手到 LangGraph 多 Server 调用</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7692485970524373026",
    "url": "https://juejin.cn/post/7692485970524373026",
    "title": "Meta 分享怎么用 AI 迁移 Compose 项目不烧心",
    "content_html": "<p>Meta 分享怎么用 AI 迁移 Compose 项目不烧心</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691835382221389824",
    "url": "https://juejin.cn/post/7691835382221389824",
    "title": "前端转全栈笔记：讲框架之前，先把 TypeScript 这关过了",
    "content_html": "<p>前端转全栈笔记：讲框架之前，先把 TypeScript 这关过了</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691717198448148518",
    "url": "https://juejin.cn/post/7691717198448148518",
    "title": "Personal Agent 火了，新酿还是旧酒？",
    "content_html": "<p>Personal Agent 火了，新酿还是旧酒？</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691498553261342760",
    "url": "https://juejin.cn/post/7691498553261342760",
    "title": "pnpm 12 升级实测",
    "content_html": "<p>pnpm 12 升级实测</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691498553260851240",
    "url": "https://juejin.cn/post/7691498553260851240",
    "title": "DuckDB：一个正在改变数据分析方式的数据库",
    "content_html": "<p>DuckDB：一个正在改变数据分析方式的数据库</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691823753387376649",
    "url": "https://juejin.cn/post/7691823753387376649",
    "title": "云端部署阿里 Qwen-Image-2.1 保姆级教程",
    "content_html": "<p>云端部署阿里 Qwen-Image-2.1 保姆级教程</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691774360802246671",
    "url": "https://juejin.cn/post/7691774360802246671",
    "title": "LangSmith：从链路追踪到 RAG 自动化评估",
    "content_html": "<p>LangSmith：从链路追踪到 RAG 自动化评估</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691512357834768430",
    "url": "https://juejin.cn/post/7691512357834768430",
    "title": "从乱码到高精度检索：探矿业务中 TXT、Word、PDF 与网页的 RAG 清洗之道",
    "content_html": "<p>从乱码到高精度检索：探矿业务中 TXT、Word、PDF 与网页的 RAG 清洗之道</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691270105432784931",
    "url": "https://juejin.cn/post/7691270105432784931",
    "title": "「vConsole MCP🛠️」我让 AI 直接看见任何 H5 的日志和请求帮你 debug",
    "content_html": "<p>「vConsole MCP🛠️」我让 AI 直接看见任何 H5 的日志和请求帮你 debug</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
-  },
-  {
-   "id": "juejin-7691450666427547702",
-   "url": "https://juejin.cn/post/7691450666427547702",
-   "title": "iOS Method Swizzling 的工程化实践：如何处理多重交换与第三方冲突",
-   "content_html": "<p>iOS Method Swizzling 的工程化实践：如何处理多重交换与第三方冲突</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
-  },
-  {
-   "id": "juejin-7691399863522918438",
-   "url": "https://juejin.cn/post/7691399863522918438",
-   "title": "GitHub 周榜趋势速报 | 2026-10-02",
-   "content_html": "<p>GitHub 周榜趋势速报 | 2026-10-02</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691876916195016719",
    "url": "https://juejin.cn/post/7691876916195016719",
    "title": "Space-Bunny 匿名模型观察：0.03 倍积分、1M 上下文，以及模型选型的算术题",
    "content_html": "<p>Space-Bunny 匿名模型观察：0.03 倍积分、1M 上下文，以及模型选型的算术题</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
+  },
+  {
+   "id": "juejin-7691450666427547702",
+   "url": "https://juejin.cn/post/7691450666427547702",
+   "title": "iOS Method Swizzling 的工程化实践：如何处理多重交换与第三方冲突",
+   "content_html": "<p>iOS Method Swizzling 的工程化实践：如何处理多重交换与第三方冲突</p>",
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
+  },
+  {
+   "id": "juejin-7691399863522918438",
+   "url": "https://juejin.cn/post/7691399863522918438",
+   "title": "GitHub 周榜趋势速报 | 2026-10-02",
+   "content_html": "<p>GitHub 周榜趋势速报 | 2026-10-02</p>",
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7692387846459654178",
    "url": "https://juejin.cn/post/7692387846459654178",
    "title": "Nuxt 中使用 useHead 优化 SEO 与 GEO",
    "content_html": "<p>Nuxt 中使用 useHead 优化 SEO 与 GEO</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691898006993010698",
    "url": "https://juejin.cn/post/7691898006993010698",
    "title": "Redis 分布式锁：从 2.8 之前到 2.8+，一篇讲透",
    "content_html": "<p>Redis 分布式锁：从 2.8 之前到 2.8+，一篇讲透</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691533849411829779",
    "url": "https://juejin.cn/post/7691533849411829779",
    "title": "对于LangGraph的时间旅行底层机制的理解",
    "content_html": "<p>对于LangGraph的时间旅行底层机制的理解</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
-  },
-  {
-   "id": "juejin-7691498553261391912",
-   "url": "https://juejin.cn/post/7691498553261391912",
-   "title": "Vue3 响应式与编译：依赖收集如何升级为节点级靶向更新",
-   "content_html": "<p>Vue3 响应式与编译：依赖收集如何升级为节点级靶向更新</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
-  },
-  {
-   "id": "juejin-7691231869480288302",
-   "url": "https://juejin.cn/post/7691231869480288302",
-   "title": "GitHub 日榜趋势速报 | 2026-10-02",
-   "content_html": "<p>GitHub 日榜趋势速报 | 2026-10-02</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
-  },
-  {
-   "id": "juejin-7691917465479315519",
-   "url": "https://juejin.cn/post/7691917465479315519",
-   "title": "什么是零拷贝？别被“零”字骗了：一次讲透完整链路",
-   "content_html": "<p>什么是零拷贝？别被“零”字骗了：一次讲透完整链路</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
-  },
-  {
-   "id": "juejin-7692042894160511011",
-   "url": "https://juejin.cn/post/7692042894160511011",
-   "title": "组合式 API（Composition API）",
-   "content_html": "<p>组合式 API（Composition API）</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
-  },
-  {
-   "id": "juejin-7691537889868021795",
-   "url": "https://juejin.cn/post/7691537889868021795",
-   "title": "Personal Agent爆火 - 它到底是个什么",
-   "content_html": "<p>Personal Agent爆火 - 它到底是个什么</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691517675236556854",
    "url": "https://juejin.cn/post/7691517675236556854",
    "title": "ai agent --- mem0 外挂记忆系统",
    "content_html": "<p>ai agent --- mem0 外挂记忆系统</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
-   "id": "juejin-7691498553260884008",
-   "url": "https://juejin.cn/post/7691498553260884008",
-   "title": "Claude Code Mods 是什么：给 Claude 加工具、在终端画界面",
-   "content_html": "<p>Claude Code Mods 是什么：给 Claude 加工具、在终端画界面</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "id": "juejin-7691498553261391912",
+   "url": "https://juejin.cn/post/7691498553261391912",
+   "title": "Vue3 响应式与编译：依赖收集如何升级为节点级靶向更新",
+   "content_html": "<p>Vue3 响应式与编译：依赖收集如何升级为节点级靶向更新</p>",
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
-   "id": "juejin-7691297274821214208",
-   "url": "https://juejin.cn/post/7691297274821214208",
-   "title": "Redis键过期失效？这个坑我踩得明明白白",
-   "content_html": "<p>Redis键过期失效？这个坑我踩得明明白白</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
-  },
-  {
-   "id": "juejin-7691246755552116755",
-   "url": "https://juejin.cn/post/7691246755552116755",
-   "title": "我让AI教学生写前端，三天后课堂变了——Web教育者的集体反思",
-   "content_html": "<p>我让AI教学生写前端，三天后课堂变了——Web教育者的集体反思</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "id": "juejin-7691231869480288302",
+   "url": "https://juejin.cn/post/7691231869480288302",
+   "title": "GitHub 日榜趋势速报 | 2026-10-02",
+   "content_html": "<p>GitHub 日榜趋势速报 | 2026-10-02</p>",
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691231869480566830",
    "url": "https://juejin.cn/post/7691231869480566830",
    "title": "GitHub 今日推荐｜archify：AI 代理自动生成可交互架构图的技能模块",
    "content_html": "<p>GitHub 今日推荐｜archify：AI 代理自动生成可交互架构图的技能模块</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
+  },
+  {
+   "id": "juejin-7692042894160511011",
+   "url": "https://juejin.cn/post/7692042894160511011",
+   "title": "组合式 API（Composition API）",
+   "content_html": "<p>组合式 API（Composition API）</p>",
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
+  },
+  {
+   "id": "juejin-7691917465479315519",
+   "url": "https://juejin.cn/post/7691917465479315519",
+   "title": "什么是零拷贝？别被“零”字骗了：一次讲透完整链路",
+   "content_html": "<p>什么是零拷贝？别被“零”字骗了：一次讲透完整链路</p>",
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
+  },
+  {
+   "id": "juejin-7691537889868021795",
+   "url": "https://juejin.cn/post/7691537889868021795",
+   "title": "Personal Agent爆火 - 它到底是个什么",
+   "content_html": "<p>Personal Agent爆火 - 它到底是个什么</p>",
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
+  },
+  {
+   "id": "juejin-7691498553260884008",
+   "url": "https://juejin.cn/post/7691498553260884008",
+   "title": "Claude Code Mods 是什么：给 Claude 加工具、在终端画界面",
+   "content_html": "<p>Claude Code Mods 是什么：给 Claude 加工具、在终端画界面</p>",
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
+  },
+  {
+   "id": "juejin-7691297274821214208",
+   "url": "https://juejin.cn/post/7691297274821214208",
+   "title": "Redis键过期失效？这个坑我踩得明明白白",
+   "content_html": "<p>Redis键过期失效？这个坑我踩得明明白白</p>",
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
+  },
+  {
+   "id": "juejin-7691246755552116755",
+   "url": "https://juejin.cn/post/7691246755552116755",
+   "title": "我让AI教学生写前端，三天后课堂变了——Web教育者的集体反思",
+   "content_html": "<p>我让AI教学生写前端，三天后课堂变了——Web教育者的集体反思</p>",
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691585964053512238",
    "url": "https://juejin.cn/post/7691585964053512238",
    "title": "百万级数据导出OOM：POI的坑与EasyExcel的流式写入实战（附内存对比）",
    "content_html": "<p>百万级数据导出OOM：POI的坑与EasyExcel的流式写入实战（附内存对比）</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
-  },
-  {
-   "id": "juejin-7692042894160773155",
-   "url": "https://juejin.cn/post/7692042894160773155",
-   "title": "Prompt Engineering 面试怎么考？这 5 个范式你必须会",
-   "content_html": "<p>Prompt Engineering 面试怎么考？这 5 个范式你必须会</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
-  },
-  {
-   "id": "juejin-7692059206256738313",
-   "url": "https://juejin.cn/post/7692059206256738313",
-   "title": "GitHub 今日推荐｜lipflow：无麦克风唇读文字输入工具",
-   "content_html": "<p>GitHub 今日推荐｜lipflow：无麦克风唇读文字输入工具</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
-  },
-  {
-   "id": "juejin-7692059206255951881",
-   "url": "https://juejin.cn/post/7692059206255951881",
-   "title": "AI 编程智能体 04：一文看懂智能体的核心能力与概念辨析",
-   "content_html": "<p>AI 编程智能体 04：一文看懂智能体的核心能力与概念辨析</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7692087017225322530",
    "url": "https://juejin.cn/post/7692087017225322530",
    "title": "【硬核实战】React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It (2026-10-03)",
    "content_html": "<p>【硬核实战】React 19 useFormStatus Returning False? I Built a SubmitButton That Fixes It (2026-10-03)</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
+  },
+  {
+   "id": "juejin-7692059206256738313",
+   "url": "https://juejin.cn/post/7692059206256738313",
+   "title": "GitHub 今日推荐｜lipflow：无麦克风唇读文字输入工具",
+   "content_html": "<p>GitHub 今日推荐｜lipflow：无麦克风唇读文字输入工具</p>",
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
+  },
+  {
+   "id": "juejin-7692059206255951881",
+   "url": "https://juejin.cn/post/7692059206255951881",
+   "title": "AI 编程智能体 04：一文看懂智能体的核心能力与概念辨析",
+   "content_html": "<p>AI 编程智能体 04：一文看懂智能体的核心能力与概念辨析</p>",
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
+  },
+  {
+   "id": "juejin-7692042894160773155",
+   "url": "https://juejin.cn/post/7692042894160773155",
+   "title": "Prompt Engineering 面试怎么考？这 5 个范式你必须会",
+   "content_html": "<p>Prompt Engineering 面试怎么考？这 5 个范式你必须会</p>",
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691962796808732723",
    "url": "https://juejin.cn/post/7691962796808732723",
    "title": "DeepSeek Harness 的 Cordis 插件架构",
    "content_html": "<p>DeepSeek Harness 的 Cordis 插件架构</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691876916195278863",
    "url": "https://juejin.cn/post/7691876916195278863",
    "title": "QML 分隔线：Rectangle、菜单与工具栏分隔线用法",
    "content_html": "<p>QML 分隔线：Rectangle、菜单与工具栏分隔线用法</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691876829276602377",
    "url": "https://juejin.cn/post/7691876829276602377",
    "title": "canvas最大能开多大：先看面积，再看导出格式",
    "content_html": "<p>canvas最大能开多大：先看面积，再看导出格式</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691823753388195849",
    "url": "https://juejin.cn/post/7691823753388195849",
    "title": "Python接入Gemini 3.8 Flash实现票据视觉抽取与规则校验",
    "content_html": "<p>Python接入Gemini 3.8 Flash实现票据视觉抽取与规则校验</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691823753388163081",
    "url": "https://juejin.cn/post/7691823753388163081",
    "title": "Army 的可插拔架构：army-jdbc 与方言模块",
    "content_html": "<p>Army 的可插拔架构：army-jdbc 与方言模块</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691713454688026651",
    "url": "https://juejin.cn/post/7691713454688026651",
    "title": "历史总是在重演，AI 时代的我们应该做些什么",
    "content_html": "<p>历史总是在重演，AI 时代的我们应该做些什么</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691613455456665642",
    "url": "https://juejin.cn/post/7691613455456665642",
    "title": "uptime-kuma 从 docker run 迁移到 compose：数据卷的坑",
    "content_html": "<p>uptime-kuma 从 docker run 迁移到 compose：数据卷的坑</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691585964052938798",
    "url": "https://juejin.cn/post/7691585964052938798",
    "title": "DicomViewer24 修复编译bug(window test 失败)",
    "content_html": "<p>DicomViewer24 修复编译bug(window test 失败)</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691510191482126387",
    "url": "https://juejin.cn/post/7691510191482126387",
    "title": "Agent 的决策与规划：ReAct、Plan-and-Execute、Reflexion 与 Tree of Thoughts",
    "content_html": "<p>Agent 的决策与规划：ReAct、Plan-and-Execute、Reflexion 与 Tree of Thoughts</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691510191481274419",
    "url": "https://juejin.cn/post/7691510191481274419",
    "title": "使用 Cloudflare Tunnel（本地管理隧道）搭配 DigitalPlat 免费域名实现内网穿透",
    "content_html": "<p>使用 Cloudflare Tunnel（本地管理隧道）搭配 DigitalPlat 免费域名实现内网穿透</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691479433083142171",
    "url": "https://juejin.cn/post/7691479433083142171",
    "title": "GitHub 日榜趋势速报 | 2026-10-03",
    "content_html": "<p>GitHub 日榜趋势速报 | 2026-10-03</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
    "id": "juejin-7691399863524180006",
    "url": "https://juejin.cn/post/7691399863524180006",
    "title": "开源的健身教练Skill，让Agent当上了私教",
    "content_html": "<p>开源的健身教练Skill，让Agent当上了私教</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
-   "id": "juejin-7692042894161723427",
-   "url": "https://juejin.cn/post/7692042894161723427",
-   "title": "简历写「QPS 提升 3 倍」，面试官问「怎么压测的」，我卡在并发数怎么定",
-   "content_html": "<p>简历写「QPS 提升 3 倍」，面试官问「怎么压测的」，我卡在并发数怎么定</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "id": "juejin-7692296625806508072",
+   "url": "https://juejin.cn/post/7692296625806508072",
+   "title": "Muse 登顶 App Store 第一，SDK 直接开源：AI Agent 开始进入下一个阶段",
+   "content_html": "<p>Muse 登顶 App Store 第一，SDK 直接开源：AI Agent 开始进入下一个阶段</p>",
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
-   "id": "juejin-7691823753387720713",
-   "url": "https://juejin.cn/post/7691823753387720713",
-   "title": "小项目实战 4：代码审查、重构与提交前检查",
-   "content_html": "<p>小项目实战 4：代码审查、重构与提交前检查</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "id": "juejin-7692229946185498674",
+   "url": "https://juejin.cn/post/7692229946185498674",
+   "title": "Android 16系统 如何修改 eth0 IP ？",
+   "content_html": "<p>Android 16系统 如何修改 eth0 IP ？</p>",
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   },
   {
-   "id": "juejin-7692127219867123750",
-   "url": "https://juejin.cn/post/7692127219867123750",
-   "title": "LangChain4j 新手入门实战教程（Java版）",
-   "content_html": "<p>LangChain4j 新手入门实战教程（Java版）</p>",
-   "date_published": "Sun, 04 Oct 2026 21:50:48 GMT"
+   "id": "juejin-7692143474695569458",
+   "url": "https://juejin.cn/post/7692143474695569458",
+   "title": "2026-09-27-Qwen-Image-2.1-1660Ti本地部署实战",
+   "content_html": "<p>2026-09-27-Qwen-Image-2.1-1660Ti本地部署实战</p>",
+   "date_published": "Mon, 05 Oct 2026 00:39:42 GMT"
   }
  ]
 }
