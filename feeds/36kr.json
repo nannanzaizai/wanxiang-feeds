@@ -2,91 +2,119 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "36氪",
  "home_page_url": "https://m.36kr.com/hot-list-m",
- "description": "36氪热榜（via DailyHotApi · 生成于 2026-10-07 00:58:00）",
+ "description": "36氪热榜（via DailyHotApi · 生成于 2026-10-07 07:04:10）",
  "items": [
-  {
-   "id": "36kr-4013699052588937",
-   "url": "https://www.36kr.com/p/4013699052588937",
-   "title": "刚刚，ChatGPT 推出文字水印，GPT-6 提速 50%",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261006/v2_774ca1e346e2414c8d67fa33280e0662@000000_oswg155169oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
-   "date_published": "Wed, 07 Oct 2026 00:58:00 GMT"
-  },
   {
    "id": "36kr-4013928129122184",
    "url": "https://www.36kr.com/p/4013928129122184",
    "title": "数学要「毕业」了，xAI联创宣判：两千年英雄史彻底落幕",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261006/v2_c6cf2f28184c4de3b0d9a2eadcaf3592@6100851_oswg856060oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
-   "date_published": "Wed, 07 Oct 2026 00:58:00 GMT"
+   "date_published": "Wed, 07 Oct 2026 07:04:10 GMT"
   },
   {
-   "id": "36kr-4013845198507910",
-   "url": "https://www.36kr.com/p/4013845198507910",
-   "title": "比起核电站，美国人为什么更反感数据中心？",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261006/v2_2e3a4d04350e4258a3279881ae5469f7@6100851_oswg1286714oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
-   "date_published": "Wed, 07 Oct 2026 00:58:00 GMT"
-  },
-  {
-   "id": "36kr-4012851107204994",
-   "url": "https://www.36kr.com/p/4012851107204994",
-   "title": "2026年诺奖公布，光遗传学推动大脑革命",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261006/v2_f9a2ceece4294492acc87e5df2d97f0a@6100851_oswg1020745oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
-   "date_published": "Wed, 07 Oct 2026 00:58:00 GMT"
-  },
-  {
-   "id": "36kr-4013053094383745",
-   "url": "https://www.36kr.com/p/4013053094383745",
-   "title": "今年的诺奖得主，有一个和鲁迅相反的特征",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261005/v2_43b0712c527b44d4a47a96a1e715f491@000000@ai_oswg1124058oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Wed, 07 Oct 2026 00:58:00 GMT"
+   "id": "36kr-4015128916676736",
+   "url": "https://www.36kr.com/p/4015128916676736",
+   "title": "数学大爆炸，OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261007/v2_3661b8c7ccb44d4991ef183b7ba86587@000000@ai_oswg755270oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Wed, 07 Oct 2026 07:04:10 GMT"
   },
   {
    "id": "36kr-4014008473671300",
    "url": "https://www.36kr.com/p/4014008473671300",
    "title": "门票之外，景区还在靠什么赚钱？",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261006/v2_f9f06e0a50904d69a94826ba8df9a4d6@6100851@ai_oswg1096237oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Wed, 07 Oct 2026 00:58:00 GMT"
-  },
-  {
-   "id": "36kr-4012967999852425",
-   "url": "https://www.36kr.com/p/4012967999852425",
-   "title": "90后站上C位：姚顺雨、罗福莉、刘大一恒、陈宇森、周畅们接管国产大模型",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261005/v2_83ba9e523e364a83a0e620bd99a1aa0e@000000@ai_oswg758267oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Wed, 07 Oct 2026 00:58:00 GMT"
+   "date_published": "Wed, 07 Oct 2026 07:04:10 GMT"
   },
   {
    "id": "36kr-4013873369829512",
    "url": "https://www.36kr.com/p/4013873369829512",
    "title": "2026的游戏行业，遍地都是埋人的天坑陷阱？",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261006/v2_7d9b0bf87aa94134824a432cf1aaa202@000000@ai_oswg643138oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Wed, 07 Oct 2026 00:58:00 GMT"
+   "date_published": "Wed, 07 Oct 2026 07:04:10 GMT"
   },
   {
-   "id": "36kr-4013794732691328",
-   "url": "https://www.36kr.com/p/4013794732691328",
-   "title": "华为与高通，重新算一笔专利账",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261006/v2_cd8e5296a1bb45e2a07c2ee8e1dcd5f5@000000@ai_oswg996481oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Wed, 07 Oct 2026 00:58:00 GMT"
+   "id": "36kr-4015085008768897",
+   "url": "https://www.36kr.com/p/4015085008768897",
+   "title": "河南老板，让素人当主角，一天3980元",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261007/v2_26ebacd77ba54004ae8c2c735d7c7d6d@000000@ai_oswg762525oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Wed, 07 Oct 2026 07:04:10 GMT"
   },
   {
-   "id": "36kr-4013670982733957",
-   "url": "https://www.36kr.com/p/4013670982733957",
-   "title": "假期最火的景区NPC，让全网看到了自己",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261006/v2_0cb33b8544824818b25eba476018cc7a@6100851_oswg1080691oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
-   "date_published": "Wed, 07 Oct 2026 00:58:00 GMT"
-  },
-  {
-   "id": "36kr-4013644466262144",
-   "url": "https://www.36kr.com/p/4013644466262144",
-   "title": "重塑苹果设计团队核心地位，特努斯瞄准下一个十年竞争",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261006/v2_aa7e765709b7414b9849556c693b4136@000000@ai_oswg648445oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Wed, 07 Oct 2026 00:58:00 GMT"
+   "id": "36kr-4014585839210629",
+   "url": "https://www.36kr.com/p/4014585839210629",
+   "title": "AI几年内或超越所有人类，Claude核心研究员预测",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261007/v2_af8c49032c164b708cbd2105bcf5b127@000000@ai_oswg788490oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Wed, 07 Oct 2026 07:04:10 GMT"
   },
   {
    "id": "36kr-3973004790919430",
    "url": "https://www.36kr.com/p/3973004790919430",
    "title": "别人并没有过得比你幸福",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20260907/v2_e1301f379bd541048a8b5291c2f203bc@5382598_oswg164843oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
-   "date_published": "Wed, 07 Oct 2026 00:58:00 GMT"
+   "date_published": "Wed, 07 Oct 2026 07:04:10 GMT"
+  },
+  {
+   "id": "36kr-4015138143801224",
+   "url": "https://www.36kr.com/p/4015138143801224",
+   "title": "一杯等90分钟，凌晨1点还没散！广东跑出一批“老式爆店”",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261007/v2_682806a0b21f40f2a0e0d4772575f1de@000000@ai_oswg1243515oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Wed, 07 Oct 2026 07:04:10 GMT"
+  },
+  {
+   "id": "36kr-4015114490941575",
+   "url": "https://www.36kr.com/p/4015114490941575",
+   "title": "新一批拿「首付」炒股的人，开始后悔了",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261007/v2_f389e01bf4b84516899d8d94bde9c7e9@000000@ai_oswg815840oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Wed, 07 Oct 2026 07:04:10 GMT"
+  },
+  {
+   "id": "36kr-4014344623198337",
+   "url": "https://www.36kr.com/p/4014344623198337",
+   "title": "AI改不了“DNA”，闪迪还能牛多久？",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261006/v2_8dd2d3dc6a04489ea6665f32c8834ec7@000000@ai_oswg688070oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Wed, 07 Oct 2026 07:04:10 GMT"
+  },
+  {
+   "id": "36kr-4015104146428038",
+   "url": "https://www.36kr.com/p/4015104146428038",
+   "title": "当米哈游仔细研究「过日子」",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261007/v2_8a5b144d048b454183e6969e47ad02cc@000000@ai_oswg1042131oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Wed, 07 Oct 2026 07:04:10 GMT"
+  },
+  {
+   "id": "36kr-4015292387250311",
+   "url": "https://www.36kr.com/p/4015292387250311",
+   "title": "iPhone 18 Pro 体验：首款光圈可变的 iPhone，苹果终于对主摄「动手」了",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261007/v2_aa583537cb004849bb8f71b4d6a12a8d@000000@ai_oswg760284oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Wed, 07 Oct 2026 07:04:10 GMT"
+  },
+  {
+   "id": "36kr-4014488588717954",
+   "url": "https://www.36kr.com/p/4014488588717954",
+   "title": "对话影身智能创始人闵伟：AMD 82亿美元收购李飞飞World Labs背后，4D世界模型的拐点已现",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261006/v2_6cfa9e2c337b4641a1aa2032e5433608@000000_oswg76622oswg900oswg382_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
+   "date_published": "Wed, 07 Oct 2026 07:04:10 GMT"
+  },
+  {
+   "id": "36kr-4014265069883272",
+   "url": "https://www.36kr.com/p/4014265069883272",
+   "title": "刚刚，诺贝尔物理学奖给到中微子天文学，IceCube之父Francis Halzen独享",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261006/v2_b88ec0106d52484daab17853f5b5aa33@000000@ai_oswg865249oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Wed, 07 Oct 2026 07:04:10 GMT"
+  },
+  {
+   "id": "36kr-4015290777981060",
+   "url": "https://www.36kr.com/p/4015290777981060",
+   "title": "为什么 ChatGPT 总爱在标题里塞色情赌博小广告？",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261007/v2_bb4822d6f92b46faa592ea7546d6f4eb@000000@ai_oswg703641oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Wed, 07 Oct 2026 07:04:10 GMT"
+  },
+  {
+   "id": "36kr-4015347171233921",
+   "url": "https://www.36kr.com/p/4015347171233921",
+   "title": "谷歌深夜偷袭OpenAI，白菜价打赢Pro",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261007/v2_1ac314ddab5f491593fa98fc724dbcb9@000000@ai_oswg659155oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Wed, 07 Oct 2026 07:04:10 GMT"
   }
  ]
 }
