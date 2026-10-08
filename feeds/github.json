@@ -2,98 +2,70 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-08 06:32:55）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-08 13:55:17）",
  "items": [
   {
    "id": "github-0",
-   "url": "https://github.com/morluto/rea",
-   "title": "rea",
-   "content_html": "<p>Reverse engineer anything with agents, from app behavior down to native binaries.</p>",
-   "date_published": "Thu, 08 Oct 2026 06:32:55 GMT"
-  },
-  {
-   "id": "github-1",
-   "url": "https://github.com/mattpocock/skills",
-   "title": "skills",
-   "content_html": "<p>Skills for Real Engineers. Straight from my .agents directory.</p>",
-   "date_published": "Thu, 08 Oct 2026 06:32:55 GMT"
-  },
-  {
-   "id": "github-2",
    "url": "https://github.com/boykopovar/AnyPS5",
    "title": "AnyPS5",
    "content_html": "<p>Tool for automatic PS5 executables porting to Linux and Windows</p>",
-   "date_published": "Thu, 08 Oct 2026 06:32:55 GMT"
+   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
   },
   {
-   "id": "github-3",
-   "url": "https://github.com/ayghri/i-have-adhd",
-   "title": "i-have-adhd",
-   "content_html": "<p>A skill to stop your coding agent from burying the answer. ADHD-friendly output.</p>",
-   "date_published": "Thu, 08 Oct 2026 06:32:55 GMT"
-  },
-  {
-   "id": "github-4",
+   "id": "github-1",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "title": "diagram-design",
    "content_html": "<p>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.</p>",
-   "date_published": "Thu, 08 Oct 2026 06:32:55 GMT"
+   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
   },
   {
-   "id": "github-5",
-   "url": "https://github.com/addyosmani/agent-skills",
-   "title": "agent-skills",
-   "content_html": "<p>Production-grade engineering skills for AI coding agents.</p>",
-   "date_published": "Thu, 08 Oct 2026 06:32:55 GMT"
+   "id": "github-2",
+   "url": "https://github.com/morluto/rea",
+   "title": "rea",
+   "content_html": "<p>Reverse engineer anything with agents, from app behavior down to native binaries.</p>",
+   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
   },
   {
-   "id": "github-6",
-   "url": "https://github.com/EpicGames/raddebugger",
-   "title": "raddebugger",
-   "content_html": "<p>A native, user-mode, multi-process, graphical debugger.</p>",
-   "date_published": "Thu, 08 Oct 2026 06:32:55 GMT"
+   "id": "github-3",
+   "url": "https://github.com/mattpocock/skills",
+   "title": "skills",
+   "content_html": "<p>Skills for Real Engineers. Straight from my .agents directory.</p>",
+   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
   },
   {
-   "id": "github-7",
+   "id": "github-4",
    "url": "https://github.com/thedotmack/claude-mem",
    "title": "claude-mem",
    "content_html": "<p>Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More</p>",
-   "date_published": "Thu, 08 Oct 2026 06:32:55 GMT"
+   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
+  },
+  {
+   "id": "github-5",
+   "url": "https://github.com/EpicGames/raddebugger",
+   "title": "raddebugger",
+   "content_html": "<p>A native, user-mode, multi-process, graphical debugger.</p>",
+   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
+  },
+  {
+   "id": "github-6",
+   "url": "https://github.com/anthropics/knowledge-work-plugins",
+   "title": "knowledge-work-plugins",
+   "content_html": "<p>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</p>",
+   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
+  },
+  {
+   "id": "github-7",
+   "url": "https://github.com/storytold/artcraft",
+   "title": "artcraft",
+   "content_html": "<p>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</p>",
+   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
   },
   {
    "id": "github-8",
-   "url": "https://github.com/manaflow-ai/cmux",
-   "title": "cmux",
-   "content_html": "<p>Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.</p>",
-   "date_published": "Thu, 08 Oct 2026 06:32:55 GMT"
-  },
-  {
-   "id": "github-9",
-   "url": "https://github.com/trycua/cua",
-   "title": "cua",
-   "content_html": "<p>Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.</p>",
-   "date_published": "Thu, 08 Oct 2026 06:32:55 GMT"
-  },
-  {
-   "id": "github-10",
-   "url": "https://github.com/cloudflare/security-audit-skill",
-   "title": "security-audit-skill",
-   "content_html": "<p>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</p>",
-   "date_published": "Thu, 08 Oct 2026 06:32:55 GMT"
-  },
-  {
-   "id": "github-11",
-   "url": "https://github.com/tester-army/e2e",
-   "title": "e2e",
-   "content_html": "<p>Next generation e2e testing framework for web and mobile apps.</p>",
-   "date_published": "Thu, 08 Oct 2026 06:32:55 GMT"
-  },
-  {
-   "id": "github-12",
-   "url": "https://github.com/DuarteSantos8/openGym",
-   "title": "openGym",
-   "content_html": "<p>Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.</p>",
-   "date_published": "Thu, 08 Oct 2026 06:32:55 GMT"
+   "url": "https://github.com/liquidslr/system-design-notes",
+   "title": "system-design-notes",
+   "content_html": "<p>Notes of the book System Desgin Interview - An Insider's Guide</p>",
+   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
   }
  ]
 }
