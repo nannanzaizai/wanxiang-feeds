@@ -2,70 +2,70 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-08 13:55:17）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-08 19:46:44）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/boykopovar/AnyPS5",
    "title": "AnyPS5",
    "content_html": "<p>Tool for automatic PS5 executables porting to Linux and Windows</p>",
-   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
+   "date_published": "Thu, 08 Oct 2026 19:46:44 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "title": "diagram-design",
    "content_html": "<p>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.</p>",
-   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
+   "date_published": "Thu, 08 Oct 2026 19:46:44 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/morluto/rea",
    "title": "rea",
    "content_html": "<p>Reverse engineer anything with agents, from app behavior down to native binaries.</p>",
-   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
+   "date_published": "Thu, 08 Oct 2026 19:46:44 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/mattpocock/skills",
    "title": "skills",
    "content_html": "<p>Skills for Real Engineers. Straight from my .agents directory.</p>",
-   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
+   "date_published": "Thu, 08 Oct 2026 19:46:44 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/thedotmack/claude-mem",
    "title": "claude-mem",
    "content_html": "<p>Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More</p>",
-   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
+   "date_published": "Thu, 08 Oct 2026 19:46:44 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/EpicGames/raddebugger",
    "title": "raddebugger",
    "content_html": "<p>A native, user-mode, multi-process, graphical debugger.</p>",
-   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
+   "date_published": "Thu, 08 Oct 2026 19:46:44 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/anthropics/knowledge-work-plugins",
    "title": "knowledge-work-plugins",
    "content_html": "<p>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</p>",
-   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
+   "date_published": "Thu, 08 Oct 2026 19:46:44 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/storytold/artcraft",
    "title": "artcraft",
    "content_html": "<p>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</p>",
-   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
+   "date_published": "Thu, 08 Oct 2026 19:46:44 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/liquidslr/system-design-notes",
    "title": "system-design-notes",
    "content_html": "<p>Notes of the book System Desgin Interview - An Insider's Guide</p>",
-   "date_published": "Thu, 08 Oct 2026 13:55:17 GMT"
+   "date_published": "Thu, 08 Oct 2026 19:46:44 GMT"
   }
  ]
 }
