@@ -2,98 +2,98 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-10 15:49:02）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-10 19:57:09）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/morluto/rea",
    "title": "rea",
    "content_html": "<p>Reverse engineer anything with agents, from app behavior down to native binaries.</p>",
-   "date_published": "Sat, 10 Oct 2026 15:49:02 GMT"
+   "date_published": "Sat, 10 Oct 2026 19:57:09 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/boykopovar/AnyPS5",
    "title": "AnyPS5",
    "content_html": "<p>Tool for automatic PS5 executables porting to Linux and Windows</p>",
-   "date_published": "Sat, 10 Oct 2026 15:49:02 GMT"
+   "date_published": "Sat, 10 Oct 2026 19:57:09 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/storytold/artcraft",
    "title": "artcraft",
    "content_html": "<p>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</p>",
-   "date_published": "Sat, 10 Oct 2026 15:49:02 GMT"
+   "date_published": "Sat, 10 Oct 2026 19:57:09 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "title": "diagram-design",
    "content_html": "<p>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.</p>",
-   "date_published": "Sat, 10 Oct 2026 15:49:02 GMT"
+   "date_published": "Sat, 10 Oct 2026 19:57:09 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/mksglu/context-mode",
    "title": "context-mode",
    "content_html": "<p>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</p>",
-   "date_published": "Sat, 10 Oct 2026 15:49:02 GMT"
+   "date_published": "Sat, 10 Oct 2026 19:57:09 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/mattpocock/skills",
    "title": "skills",
    "content_html": "<p>Skills for Real Engineers. Straight from my .agents directory.</p>",
-   "date_published": "Sat, 10 Oct 2026 15:49:02 GMT"
+   "date_published": "Sat, 10 Oct 2026 19:57:09 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/flutter/flutter",
    "title": "flutter",
    "content_html": "<p>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</p>",
-   "date_published": "Sat, 10 Oct 2026 15:49:02 GMT"
+   "date_published": "Sat, 10 Oct 2026 19:57:09 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/tensorflow/tensorflow",
    "title": "tensorflow",
    "content_html": "<p>An Open Source Machine Learning Framework for Everyone</p>",
-   "date_published": "Sat, 10 Oct 2026 15:49:02 GMT"
+   "date_published": "Sat, 10 Oct 2026 19:57:09 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/hugohe3/ppt-master",
    "title": "ppt-master",
    "content_html": "<p>AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He</p>",
-   "date_published": "Sat, 10 Oct 2026 15:49:02 GMT"
+   "date_published": "Sat, 10 Oct 2026 19:57:09 GMT"
   },
   {
    "id": "github-9",
    "url": "https://github.com/pytorch/pytorch",
    "title": "pytorch",
    "content_html": "<p>Tensors and Dynamic neural networks in Python with strong GPU acceleration</p>",
-   "date_published": "Sat, 10 Oct 2026 15:49:02 GMT"
+   "date_published": "Sat, 10 Oct 2026 19:57:09 GMT"
   },
   {
    "id": "github-10",
    "url": "https://github.com/huggingface/transformers",
    "title": "transformers",
    "content_html": "<p>🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.</p>",
-   "date_published": "Sat, 10 Oct 2026 15:49:02 GMT"
+   "date_published": "Sat, 10 Oct 2026 19:57:09 GMT"
   },
   {
    "id": "github-11",
    "url": "https://github.com/anthropics/knowledge-work-plugins",
    "title": "knowledge-work-plugins",
    "content_html": "<p>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</p>",
-   "date_published": "Sat, 10 Oct 2026 15:49:02 GMT"
+   "date_published": "Sat, 10 Oct 2026 19:57:09 GMT"
   },
   {
    "id": "github-12",
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "title": "andrej-karpathy-skills",
    "content_html": "<p>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.</p>",
-   "date_published": "Sat, 10 Oct 2026 15:49:02 GMT"
+   "date_published": "Sat, 10 Oct 2026 19:57:09 GMT"
   }
  ]
 }
