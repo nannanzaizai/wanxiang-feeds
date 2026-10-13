@@ -2,70 +2,70 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-13 17:06:07）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-13 21:48:06）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/morluto/rea",
    "title": "rea",
    "content_html": "<p>Reverse engineer anything with agents, from app behavior down to native binaries.</p>",
-   "date_published": "Tue, 13 Oct 2026 17:06:07 GMT"
+   "date_published": "Tue, 13 Oct 2026 21:48:06 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/bilawalsidhu/gods-eye-view",
    "title": "gods-eye-view",
    "content_html": "<p>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.</p>",
-   "date_published": "Tue, 13 Oct 2026 17:06:07 GMT"
+   "date_published": "Tue, 13 Oct 2026 21:48:06 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/debpalash/VoiceStudio",
    "title": "VoiceStudio",
    "content_html": "<p>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.</p>",
-   "date_published": "Tue, 13 Oct 2026 17:06:07 GMT"
+   "date_published": "Tue, 13 Oct 2026 21:48:06 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/mksglu/context-mode",
    "title": "context-mode",
    "content_html": "<p>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</p>",
-   "date_published": "Tue, 13 Oct 2026 17:06:07 GMT"
+   "date_published": "Tue, 13 Oct 2026 21:48:06 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "title": "diagram-design",
    "content_html": "<p>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.</p>",
-   "date_published": "Tue, 13 Oct 2026 17:06:07 GMT"
+   "date_published": "Tue, 13 Oct 2026 21:48:06 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/vercel-labs/skills",
    "title": "skills",
    "content_html": "<p>The open agent skills tool - npx skills</p>",
-   "date_published": "Tue, 13 Oct 2026 17:06:07 GMT"
+   "date_published": "Tue, 13 Oct 2026 21:48:06 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/lyogavin/airllm",
    "title": "airllm",
    "content_html": "<p>AirLLM 2.8T LLM inference with single 4GB GPU</p>",
-   "date_published": "Tue, 13 Oct 2026 17:06:07 GMT"
+   "date_published": "Tue, 13 Oct 2026 21:48:06 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/storytold/artcraft",
    "title": "artcraft",
    "content_html": "<p>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</p>",
-   "date_published": "Tue, 13 Oct 2026 17:06:07 GMT"
+   "date_published": "Tue, 13 Oct 2026 21:48:06 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/xtool-org/xtool",
    "title": "xtool",
    "content_html": "<p>Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.</p>",
-   "date_published": "Tue, 13 Oct 2026 17:06:07 GMT"
+   "date_published": "Tue, 13 Oct 2026 21:48:06 GMT"
   }
  ]
 }
