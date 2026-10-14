@@ -2,91 +2,91 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-14 11:35:52）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-14 15:57:24）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/morluto/rea",
    "title": "rea",
    "content_html": "<p>Reverse engineer anything with agents, from app behavior down to native binaries.</p>",
-   "date_published": "Wed, 14 Oct 2026 11:35:52 GMT"
+   "date_published": "Wed, 14 Oct 2026 15:57:24 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/debpalash/VoiceStudio",
    "title": "VoiceStudio",
    "content_html": "<p>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.</p>",
-   "date_published": "Wed, 14 Oct 2026 11:35:52 GMT"
+   "date_published": "Wed, 14 Oct 2026 15:57:24 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/mksglu/context-mode",
    "title": "context-mode",
    "content_html": "<p>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</p>",
-   "date_published": "Wed, 14 Oct 2026 11:35:52 GMT"
+   "date_published": "Wed, 14 Oct 2026 15:57:24 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/nvm-sh/nvm",
    "title": "nvm",
    "content_html": "<p>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.</p>",
-   "date_published": "Wed, 14 Oct 2026 11:35:52 GMT"
+   "date_published": "Wed, 14 Oct 2026 15:57:24 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
    "title": "scientific-agent-skills",
    "content_html": "<p>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.</p>",
-   "date_published": "Wed, 14 Oct 2026 11:35:52 GMT"
+   "date_published": "Wed, 14 Oct 2026 15:57:24 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/HKUDS/CLI-Anything",
    "title": "CLI-Anything",
    "content_html": "<p>\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/</p>",
-   "date_published": "Wed, 14 Oct 2026 11:35:52 GMT"
+   "date_published": "Wed, 14 Oct 2026 15:57:24 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/ifixai-ai/iFixAi",
    "title": "iFixAi",
    "content_html": "<p>Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.</p>",
-   "date_published": "Wed, 14 Oct 2026 11:35:52 GMT"
+   "date_published": "Wed, 14 Oct 2026 15:57:24 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/vxcontrol/pentagi",
    "title": "pentagi",
    "content_html": "<p>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</p>",
-   "date_published": "Wed, 14 Oct 2026 11:35:52 GMT"
+   "date_published": "Wed, 14 Oct 2026 15:57:24 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/rust-lang/rust",
    "title": "rust",
    "content_html": "<p>Empowering everyone to build reliable and efficient software.</p>",
-   "date_published": "Wed, 14 Oct 2026 11:35:52 GMT"
+   "date_published": "Wed, 14 Oct 2026 15:57:24 GMT"
   },
   {
    "id": "github-9",
    "url": "https://github.com/xtool-org/xtool",
    "title": "xtool",
    "content_html": "<p>Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.</p>",
-   "date_published": "Wed, 14 Oct 2026 11:35:52 GMT"
+   "date_published": "Wed, 14 Oct 2026 15:57:24 GMT"
   },
   {
    "id": "github-10",
    "url": "https://github.com/ntdevlabs/tiny11builder",
    "title": "tiny11builder",
    "content_html": "<p>WinUI app for building smaller, customized Windows 11 images.</p>",
-   "date_published": "Wed, 14 Oct 2026 11:35:52 GMT"
+   "date_published": "Wed, 14 Oct 2026 15:57:24 GMT"
   },
   {
    "id": "github-11",
    "url": "https://github.com/NationalSecurityAgency/ghidra",
    "title": "ghidra",
    "content_html": "<p>Ghidra is a software reverse engineering (SRE) framework</p>",
-   "date_published": "Wed, 14 Oct 2026 11:35:52 GMT"
+   "date_published": "Wed, 14 Oct 2026 15:57:24 GMT"
   }
  ]
 }
