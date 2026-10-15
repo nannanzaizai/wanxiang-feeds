@@ -53,6 +53,8 @@ def main():
 
     merged_items = []
     detail = []
+    seen_ids = set()
+    dups = 0
     for platform, name in order:
         fp = feeds_dir / f"{platform}.json"
         if not fp.exists():
@@ -64,9 +66,19 @@ def main():
             print(f"  ⚠️ {platform:<12} 解析失败: {type(e).__name__} {e}")
             continue
         items = feed.get("items", [])
+        kept = 0
         for it in items:
+            # 同 id 去重：实测 IT之家 feed 会把同一条重复 3 次（同 id/同标题/同 URL）。
+            # App 侧 INSERT OR IGNORE 也会去重，但云端先去掉 -> 文件更小、index 的条数才与实际一致。
+            iid = it.get("id", "")
+            if iid and iid in seen_ids:
+                dups += 1
+                continue
+            if iid:
+                seen_ids.add(iid)
+            kept += 1
             merged_items.append({
-                "id": it.get("id", ""),
+                "id": iid,
                 "url": it.get("url", ""),
                 "title": it.get("title", ""),
                 "content_html": it.get("content_html", ""),
@@ -76,8 +88,11 @@ def main():
             })
         thumbs = sum(1 for i in items if "<img" in (i.get("content_html") or ""))
         detail.append({"platform": platform, "name": name,
-                       "items": len(items), "thumbs": thumbs})
-        print(f"  + {platform:<12} {name:<16} 并入 {len(items):>3} 条")
+                       "items": kept, "raw_items": len(items), "thumbs": thumbs})
+        extra = f"（原 {len(items)} 条，去重后 {kept}）" if kept != len(items) else ""
+        print(f"  + {platform:<12} {name:<16} 并入 {kept:>3} 条 {extra}")
+    if dups:
+        print(f"  ℹ️ 同 id 重复条目共去掉 {dups} 条")
 
     if not merged_items:
         raise SystemExit("❌ 没有任何平台可并入，拒绝写出空的 all.json（保留上一版）")
