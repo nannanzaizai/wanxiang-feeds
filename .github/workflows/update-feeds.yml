@@ -126,8 +126,35 @@ jobs:
           git remote remove gitee 2>/dev/null || true
           git remote add gitee "https://${GITEE_USER}:${GITEE_TOKEN}@gitee.com/${GITEE_USER}/${REPO}.git"
           echo "推送到 Gitee: ${GITEE_USER}/${REPO}"
-          # 不用 continue-on-error 掩盖问题：这里失败要能看见
-          git push gitee HEAD:master --force
+          # 不用 continue-on-error 掩盖问题：这里失败要能看见。
+          # ⚠️ 但必须重试：实测 2026-10-15 08:25 GitHub runner → gitee.com 出现
+          #    `Recv failure: Connection reset by peer`（同一内容前一次运行还成功），
+          #    单次失败会让镜像缺文件（App 的 Gitee 通道随即 404），且触发一封失败邮件。
+          ok=0
+          for i in 1 2 3; do
+            if git push gitee HEAD:master --force; then ok=1; break; fi
+            echo "⚠️ 第 $i 次推送失败，10s 后重试"; sleep 10
+          done
+          [ "$ok" = "1" ] || { echo "❌ 连续 3 次推送 Gitee 失败"; exit 1; }
           echo "✅ 已同步到 Gitee"
+
+      - name: 校验 Gitee 镜像确实拿到最新产物
+        run: |
+          set -e
+          REPO="${{ vars.GITEE_REPO }}"; REPO="${REPO:-wanxiang-feeds}"
+          base="https://gitee.com/${{ secrets.GITEE_USER }}/${REPO}/raw/master/feeds"
+          # all.json 是硬门禁：它是 App 唯一的聚合源文件，缺了就是真断（App 的 Gitee 通道会 404）
+          code=$(curl -s -o /tmp/g_all.json -w '%{http_code}' -L "$base/all.json" || echo 000)
+          sz=$(wc -c < /tmp/g_all.json)
+          echo "  Gitee feeds/all.json → HTTP$code ${sz}B（本地 $(wc -c < feeds/all.json)B）"
+          [ "$code" = "200" ] || { echo "❌ Gitee 缺 all.json —— 镜像未落地"; exit 1; }
+          if cmp -s feeds/all.json /tmp/g_all.json; then
+            echo "  ✅ Gitee all.json 与产物逐字节一致"
+          else
+            echo "  ⚠️ Gitee all.json 与本次产物不同字节 —— 可能是 raw CDN 缓存了上一版（正常，下次刷新即转）"
+          fi
+          # index.json 只做提示：Gitee raw 走 CDN，刚推完常取到上一版，不能据此判失败
+          code=$(curl -s -o /tmp/g_index.json -w '%{http_code}' -L "$base/index.json" || echo 000)
+          echo "  Gitee feeds/index.json → HTTP$code $(wc -c < /tmp/g_index.json)B"
 
 # （公众号订阅 Job 已移除，原因见文件头注释）
