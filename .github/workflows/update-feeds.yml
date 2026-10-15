@@ -97,6 +97,14 @@ jobs:
           python3 scripts/rss_to_jsonfeed.py \
             --base http://127.0.0.1:6688 --out feeds --config config/sources.json
 
+      - name: 合并为单一聚合 feed（App 一次请求取回全部热榜）
+        run: |
+          # 为什么合并：产物通道本身抖动（实测 gh-proxy 约半数请求被网络层瞬断、
+          # jsdelivr 全挂、Gitee 对 zhihu/toutiao/sspai 返回 451）。
+          # 11 个源各自降级 ⇒ 撞失败路径的概率随源数线性放大；合并后请求数 11→1。
+          # 各平台单文件照旧生成（便于排查/回退），all.json 只是它们的并集。
+          python3 scripts/merge_feeds.py --feeds-dir feeds --config config/sources.json
+
       - name: 提交到本仓库
         run: |
           git config user.name  "wanxiang-bot"
