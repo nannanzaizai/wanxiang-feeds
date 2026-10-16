@@ -2,91 +2,98 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-15 23:46:59）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-16 04:08:05）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/morluto/rea",
    "title": "rea",
    "content_html": "<p>Reverse engineer anything with agents, from app behavior down to native binaries.</p>",
-   "date_published": "Thu, 15 Oct 2026 23:46:59 GMT"
+   "date_published": "Fri, 16 Oct 2026 04:08:05 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/anthropics/claude-plugins-official",
    "title": "claude-plugins-official",
    "content_html": "<p>Official, Anthropic-managed directory of high quality Claude Code Plugins.</p>",
-   "date_published": "Thu, 15 Oct 2026 23:46:59 GMT"
+   "date_published": "Fri, 16 Oct 2026 04:08:05 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
    "title": "scientific-agent-skills",
    "content_html": "<p>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.</p>",
-   "date_published": "Thu, 15 Oct 2026 23:46:59 GMT"
+   "date_published": "Fri, 16 Oct 2026 04:08:05 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/JuliusBrussee/caveman",
    "title": "caveman",
    "content_html": "<p>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</p>",
-   "date_published": "Thu, 15 Oct 2026 23:46:59 GMT"
+   "date_published": "Fri, 16 Oct 2026 04:08:05 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/debpalash/VoiceStudio",
    "title": "VoiceStudio",
    "content_html": "<p>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.</p>",
-   "date_published": "Thu, 15 Oct 2026 23:46:59 GMT"
+   "date_published": "Fri, 16 Oct 2026 04:08:05 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/obra/superpowers",
    "title": "superpowers",
    "content_html": "<p>An agentic skills framework & software development methodology that works.</p>",
-   "date_published": "Thu, 15 Oct 2026 23:46:59 GMT"
+   "date_published": "Fri, 16 Oct 2026 04:08:05 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/ruvnet/ruflo",
    "title": "ruflo",
    "content_html": "<p>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated</p>",
-   "date_published": "Thu, 15 Oct 2026 23:46:59 GMT"
+   "date_published": "Fri, 16 Oct 2026 04:08:05 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/mksglu/context-mode",
    "title": "context-mode",
    "content_html": "<p>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</p>",
-   "date_published": "Thu, 15 Oct 2026 23:46:59 GMT"
+   "date_published": "Fri, 16 Oct 2026 04:08:05 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/NationalSecurityAgency/ghidra",
    "title": "ghidra",
    "content_html": "<p>Ghidra is a software reverse engineering (SRE) framework</p>",
-   "date_published": "Thu, 15 Oct 2026 23:46:59 GMT"
+   "date_published": "Fri, 16 Oct 2026 04:08:05 GMT"
   },
   {
    "id": "github-9",
    "url": "https://github.com/affaan-m/ECC",
    "title": "ECC",
    "content_html": "<p>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</p>",
-   "date_published": "Thu, 15 Oct 2026 23:46:59 GMT"
+   "date_published": "Fri, 16 Oct 2026 04:08:05 GMT"
   },
   {
    "id": "github-10",
    "url": "https://github.com/lightseekorg/tokenspeed",
    "title": "tokenspeed",
    "content_html": "<p>TokenSpeed is a speed-of-light LLM inference engine.</p>",
-   "date_published": "Thu, 15 Oct 2026 23:46:59 GMT"
+   "date_published": "Fri, 16 Oct 2026 04:08:05 GMT"
   },
   {
    "id": "github-11",
    "url": "https://github.com/xerj-org/xerj",
    "title": "xerj",
    "content_html": "<p>XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.</p>",
-   "date_published": "Thu, 15 Oct 2026 23:46:59 GMT"
+   "date_published": "Fri, 16 Oct 2026 04:08:05 GMT"
+  },
+  {
+   "id": "github-12",
+   "url": "https://github.com/LibreSpark/LibreTV",
+   "title": "LibreTV",
+   "content_html": "<p>一分钟搭建影视站，支持Docker等部署方式</p>",
+   "date_published": "Fri, 16 Oct 2026 04:08:05 GMT"
   }
  ]
 }
