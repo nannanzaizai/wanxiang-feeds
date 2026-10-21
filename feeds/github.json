@@ -2,91 +2,84 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-21 20:51:45）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-21 23:57:20）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "title": "security-audit-skill",
    "content_html": "<p>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</p>",
-   "date_published": "Wed, 21 Oct 2026 20:51:45 GMT"
+   "date_published": "Wed, 21 Oct 2026 23:57:20 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/vllm-project/vllm",
    "title": "vllm",
    "content_html": "<p>A high-throughput and memory-efficient inference and serving engine for LLMs</p>",
-   "date_published": "Wed, 21 Oct 2026 20:51:45 GMT"
+   "date_published": "Wed, 21 Oct 2026 23:57:20 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/stablyai/orca",
    "title": "orca",
    "content_html": "<p>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</p>",
-   "date_published": "Wed, 21 Oct 2026 20:51:45 GMT"
+   "date_published": "Wed, 21 Oct 2026 23:57:20 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/headroomlabs-ai/headroom",
    "title": "headroom",
    "content_html": "<p>Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.</p>",
-   "date_published": "Wed, 21 Oct 2026 20:51:45 GMT"
+   "date_published": "Wed, 21 Oct 2026 23:57:20 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/DietrichGebert/ponytail",
    "title": "ponytail",
    "content_html": "<p>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</p>",
-   "date_published": "Wed, 21 Oct 2026 20:51:45 GMT"
+   "date_published": "Wed, 21 Oct 2026 23:57:20 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/Comfy-Org/ComfyUI",
    "title": "ComfyUI",
    "content_html": "<p>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.</p>",
-   "date_published": "Wed, 21 Oct 2026 20:51:45 GMT"
+   "date_published": "Wed, 21 Oct 2026 23:57:20 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/supabase/supabase",
    "title": "supabase",
    "content_html": "<p>The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.</p>",
-   "date_published": "Wed, 21 Oct 2026 20:51:45 GMT"
+   "date_published": "Wed, 21 Oct 2026 23:57:20 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/twentyhq/twenty",
    "title": "twenty",
    "content_html": "<p>The open alternative to Salesforce, designed for AI.</p>",
-   "date_published": "Wed, 21 Oct 2026 20:51:45 GMT"
+   "date_published": "Wed, 21 Oct 2026 23:57:20 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/shiyu-coder/Kronos",
    "title": "Kronos",
    "content_html": "<p>Kronos: A Foundation Model for the Language of Financial Markets</p>",
-   "date_published": "Wed, 21 Oct 2026 20:51:45 GMT"
+   "date_published": "Wed, 21 Oct 2026 23:57:20 GMT"
   },
   {
    "id": "github-9",
-   "url": "https://github.com/strelov1/freehire",
-   "title": "freehire",
-   "content_html": "<p>freehire — the open-source search engine for job seekers</p>",
-   "date_published": "Wed, 21 Oct 2026 20:51:45 GMT"
-  },
-  {
-   "id": "github-10",
    "url": "https://github.com/akitaonrails/ai-memory",
    "title": "ai-memory",
    "content_html": "<p>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</p>",
-   "date_published": "Wed, 21 Oct 2026 20:51:45 GMT"
+   "date_published": "Wed, 21 Oct 2026 23:57:20 GMT"
   },
   {
-   "id": "github-11",
+   "id": "github-10",
    "url": "https://github.com/Graphify-Labs/graphify",
    "title": "graphify",
    "content_html": "<p>Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.</p>",
-   "date_published": "Wed, 21 Oct 2026 20:51:45 GMT"
+   "date_published": "Wed, 21 Oct 2026 23:57:20 GMT"
   }
  ]
 }
