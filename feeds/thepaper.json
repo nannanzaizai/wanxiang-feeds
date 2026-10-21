@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-10-20 23:05:22）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-10-21 01:28:20）",
  "items": [
-  {
-   "id": "thepaper-34286371",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34286371",
-   "title": "媒体：身披旭日旗中国留学生已被遣返，校方称将尽快公布开除决定",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792444990851_RNcY35_1792444991053.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
-  },
   {
    "id": "thepaper-34291005",
    "url": "https://www.thepaper.cn/newsDetail_forward_34291005",
    "title": "国家数据集团成立，有何标志性意义？",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792493309939_S6fNrm_1792493310168.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
   },
   {
    "id": "thepaper-34290982",
    "url": "https://www.thepaper.cn/newsDetail_forward_34290982",
    "title": "星巴克将推行“消费入座”？店员称本周实施，消费者看法不一",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792493197113_wH3wDk_1792493197292.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
-  },
-  {
-   "id": "thepaper-34280094",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34280094",
-   "title": "读中本贯通的高分生们",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792452520878_N3fNPp_1792452521077.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
-  },
-  {
-   "id": "thepaper-34288055",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34288055",
-   "title": "众声丨AI“苦命男孩小海”收割老人，平台审核不能总是被动响应",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792466022735_hEYZMs_1792466022913.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
-  },
-  {
-   "id": "thepaper-34289607",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34289607",
-   "title": "工信部：坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792483309566_txYXAn_1792483309654.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
-  },
-  {
-   "id": "thepaper-34289409",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34289409",
-   "title": "驻英国使馆提醒我公民注意英方出入境检查，敦促英方停止任意扣留盘查",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792481781129_S8iRBP_1792481781260.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
-  },
-  {
-   "id": "thepaper-34287229",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34287229",
-   "title": "冯远征称“招不到黄胖子”，业内专家：多方因素造成艺考“颜值内卷”",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792458717550_JYT8YK_1792458717744.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
-  },
-  {
-   "id": "thepaper-33483748",
-   "url": "https://www.thepaper.cn/newsDetail_forward_33483748",
-   "title": "纪念中国工农红军长征胜利90周年｜经典绘画中的长征",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792402384083_xaCrb3_1792402384442.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
-  },
-  {
-   "id": "thepaper-34289676",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34289676",
-   "title": "宜春丰城同田乡政府拖欠五千万工程款续：正协调处理，仍无最终结果",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792483712597_4xaBWk_1792483712704.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
-  },
-  {
-   "id": "thepaper-34288084",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34288084",
-   "title": "马上评｜星巴克明确消费入座，有边界感才有体面",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792477386745_S8N2er_1792477386981.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
-  },
-  {
-   "id": "thepaper-34292916",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34292916",
-   "title": "导弹等签字、袭击没预警，泽连斯基指责美国就俄乌战事所做的决定“难以解释”",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792498925053_yD7CT6_1792498925457.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
-  },
-  {
-   "id": "thepaper-34289806",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34289806",
-   "title": "星巴克要求“消费入座”？实探多家门店未有相关告示，星巴克中国回应",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792485178540_Zn1T1p_1792485178747.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
-  },
-  {
-   "id": "thepaper-34281327",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34281327",
-   "title": "男子身中16刀身亡，前妻逃亡26年一审获刑12年，二审检方建议无期徒刑",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792405944878_cQC3As_1792405945154.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
-  },
-  {
-   "id": "thepaper-34283132",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34283132",
-   "title": "女子打砸酒水店后被送医诊断治疗，涉事店主：货架上基本是五粮液，目前定损30多万元",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792420306988_JjQCPp_1792420307190.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
-  },
-  {
-   "id": "thepaper-34281346",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34281346",
-   "title": "邯郸12岁女孩在橡皮泥黑作坊打工致6级伤残：厂方被判担责7成，监护人担责3成",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792401428375_iANY76_1792401428588.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
-  },
-  {
-   "id": "thepaper-34287541",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34287541",
-   "title": "甘肃张掖通报“风电项目影响野生动物栖息”：建设合规，将组织调研",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792461704528_DN7btT_1792461704656.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
-  },
-  {
-   "id": "thepaper-34293540",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34293540",
-   "title": "新央企国家数据集团官网上线，领导班子成员披露",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792505380121_KFbf7Q_1792505380283.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
   },
   {
    "id": "thepaper-34292855",
    "url": "https://www.thepaper.cn/newsDetail_forward_34292855",
    "title": "见微知沪｜从“站站停”到“按需停”，响应式公交更加考验“绣花功夫”",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792498709251_hjrPCm_1792498709453.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
   },
   {
-   "id": "thepaper-34293468",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34293468",
-   "title": "美以窃取商业秘密为由制裁5家中企，商务部：中方对此坚决反对",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792510268444_CmtpYh_1792510268615.png\" />",
-   "date_published": "Tue, 20 Oct 2026 23:05:22 GMT"
+   "id": "thepaper-34293577",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34293577",
+   "title": "海南广电记者采访遭殴打、警方已介入，中国记协：呼吁涉事方正视问题配合调查",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792506251755_NAnKsX_1792506251979.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
+  },
+  {
+   "id": "thepaper-34288055",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34288055",
+   "title": "众声丨AI“苦命男孩小海”收割老人，平台审核不能总是被动响应",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792466022735_hEYZMs_1792466022913.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
+  },
+  {
+   "id": "thepaper-34289607",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34289607",
+   "title": "工信部：坚决防范不合理创新设计和未经充分研发测试验证的汽车产品进入市场",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792483309566_txYXAn_1792483309654.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
+  },
+  {
+   "id": "thepaper-34289409",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34289409",
+   "title": "驻英国使馆提醒我公民注意英方出入境检查，敦促英方停止任意扣留盘查",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792481781129_S8iRBP_1792481781260.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
+  },
+  {
+   "id": "thepaper-34287229",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34287229",
+   "title": "冯远征称“招不到黄胖子”，业内专家：多方因素造成艺考“颜值内卷”",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792458717550_JYT8YK_1792458717744.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
+  },
+  {
+   "id": "thepaper-33483748",
+   "url": "https://www.thepaper.cn/newsDetail_forward_33483748",
+   "title": "纪念中国工农红军长征胜利90周年｜经典绘画中的长征",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792402384083_xaCrb3_1792402384442.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
+  },
+  {
+   "id": "thepaper-34289676",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34289676",
+   "title": "宜春丰城同田乡政府拖欠五千万工程款本息续：正协调处理，仍无最终结果",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792483712597_4xaBWk_1792483712704.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
+  },
+  {
+   "id": "thepaper-34288084",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34288084",
+   "title": "马上评｜星巴克明确消费入座，有边界感才有体面",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792477386745_S8N2er_1792477386981.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
+  },
+  {
+   "id": "thepaper-34292916",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34292916",
+   "title": "导弹等签字、袭击没预警，泽连斯基指责美国就俄乌战事所做的决定“难以解释”",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792498925053_yD7CT6_1792498925457.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
+  },
+  {
+   "id": "thepaper-34289806",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34289806",
+   "title": "星巴克要求“消费入座”？实探多家门店未有相关告示，星巴克中国回应",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792485178540_Zn1T1p_1792485178747.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
+  },
+  {
+   "id": "thepaper-34289837",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34289837",
+   "title": "漫长的窒息：厄尔尼诺点燃印尼，一场本可避免的灾难",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792487538097_c8G427_1792487538285.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
+  },
+  {
+   "id": "thepaper-34283132",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34283132",
+   "title": "女子打砸酒水店后被送医诊断治疗，涉事店主：货架上基本是五粮液，目前定损30多万元",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792420306988_JjQCPp_1792420307190.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
+  },
+  {
+   "id": "thepaper-34293583",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34293583",
+   "title": "在北外滩看全球航运韧性：上海既是参与者，也是答案的一部分",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792519015319_AY1s8z_1792519015529.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
+  },
+  {
+   "id": "thepaper-34288709",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34288709",
+   "title": "澎湃漫评｜为何总有学校和学生上厕所过不去？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792490334283_6Zr1tn_1792490334524.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
+  },
+  {
+   "id": "thepaper-34286985",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34286985",
+   "title": "人民锐评：把“火药”做成“烟花”？警惕“中国AI跑偏论”",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792454989326_i1sr6e_1792454989621.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
+  },
+  {
+   "id": "thepaper-34125100",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34125100",
+   "title": "穿越时空看长征·多维视野｜王芊皓：“贾老婆”与她的铁锅长征",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1791452406442_bNiDQw_1791452406442.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
+  },
+  {
+   "id": "thepaper-34287541",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34287541",
+   "title": "甘肃张掖通报“风电项目影响野生动物栖息”：建设合规，将组织调研",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1792461704528_DN7btT_1792461704656.png\" />",
+   "date_published": "Wed, 21 Oct 2026 01:28:20 GMT"
   }
  ]
 }
