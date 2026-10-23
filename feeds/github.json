@@ -2,63 +2,63 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-23 11:23:32）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-23 15:51:29）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "title": "security-audit-skill",
    "content_html": "<p>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</p>",
-   "date_published": "Fri, 23 Oct 2026 11:23:32 GMT"
+   "date_published": "Fri, 23 Oct 2026 15:51:29 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/php/php-src",
    "title": "php-src",
    "content_html": "<p>The PHP Interpreter</p>",
-   "date_published": "Fri, 23 Oct 2026 11:23:32 GMT"
+   "date_published": "Fri, 23 Oct 2026 15:51:29 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/anthropics/knowledge-work-plugins",
    "title": "knowledge-work-plugins",
    "content_html": "<p>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</p>",
-   "date_published": "Fri, 23 Oct 2026 11:23:32 GMT"
+   "date_published": "Fri, 23 Oct 2026 15:51:29 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/NVIDIA/OpenShell",
    "title": "OpenShell",
    "content_html": "<p>OpenShell is the safe, private runtime for autonomous AI agents.</p>",
-   "date_published": "Fri, 23 Oct 2026 11:23:32 GMT"
+   "date_published": "Fri, 23 Oct 2026 15:51:29 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/Renhuai123/ziwei-doushu",
    "title": "ziwei-doushu",
    "content_html": "<p>紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据</p>",
-   "date_published": "Fri, 23 Oct 2026 11:23:32 GMT"
+   "date_published": "Fri, 23 Oct 2026 15:51:29 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/SnailSploit/Claude-Red",
    "title": "Claude-Red",
    "content_html": "<p>claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.</p>",
-   "date_published": "Fri, 23 Oct 2026 11:23:32 GMT"
+   "date_published": "Fri, 23 Oct 2026 15:51:29 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/OpenBMB/VoxCPM",
    "title": "VoxCPM",
    "content_html": "<p>VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning</p>",
-   "date_published": "Fri, 23 Oct 2026 11:23:32 GMT"
+   "date_published": "Fri, 23 Oct 2026 15:51:29 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/nodejs/node",
    "title": "node",
    "content_html": "<p>Node.js JavaScript runtime ✨🐢🚀✨</p>",
-   "date_published": "Fri, 23 Oct 2026 11:23:32 GMT"
+   "date_published": "Fri, 23 Oct 2026 15:51:29 GMT"
   }
  ]
 }
