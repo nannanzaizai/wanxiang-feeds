@@ -2,84 +2,84 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-25 21:09:26）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-25 23:29:45）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/makecindy/cindy",
    "title": "cindy",
    "content_html": "<p>Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。</p>",
-   "date_published": "Sun, 25 Oct 2026 21:09:26 GMT"
+   "date_published": "Sun, 25 Oct 2026 23:29:45 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/Nutlope/hallmark",
    "title": "hallmark",
    "content_html": "<p>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</p>",
-   "date_published": "Sun, 25 Oct 2026 21:09:26 GMT"
+   "date_published": "Sun, 25 Oct 2026 23:29:45 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/debpalash/VoiceStudio",
    "title": "VoiceStudio",
    "content_html": "<p>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.</p>",
-   "date_published": "Sun, 25 Oct 2026 21:09:26 GMT"
+   "date_published": "Sun, 25 Oct 2026 23:29:45 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/pbakaus/impeccable",
    "title": "impeccable",
    "content_html": "<p>The design language that makes your AI harness better at design.</p>",
-   "date_published": "Sun, 25 Oct 2026 21:09:26 GMT"
+   "date_published": "Sun, 25 Oct 2026 23:29:45 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/pollen-robotics/microduck",
    "title": "microduck",
    "content_html": "<p>A Tiny biped duck robot 🦆</p>",
-   "date_published": "Sun, 25 Oct 2026 21:09:26 GMT"
+   "date_published": "Sun, 25 Oct 2026 23:29:45 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/TauricResearch/TradingAgents",
    "title": "TradingAgents",
    "content_html": "<p>TradingAgents: Multi-Agents LLM Financial Trading Framework</p>",
-   "date_published": "Sun, 25 Oct 2026 21:09:26 GMT"
+   "date_published": "Sun, 25 Oct 2026 23:29:45 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/Renhuai123/ziwei-doushu",
    "title": "ziwei-doushu",
    "content_html": "<p>紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据</p>",
-   "date_published": "Sun, 25 Oct 2026 21:09:26 GMT"
+   "date_published": "Sun, 25 Oct 2026 23:29:45 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/JetBrains/thinkrail",
    "title": "thinkrail",
    "content_html": "<p>Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need</p>",
-   "date_published": "Sun, 25 Oct 2026 21:09:26 GMT"
+   "date_published": "Sun, 25 Oct 2026 23:29:45 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/coollabsio/coolify",
    "title": "coolify",
    "content_html": "<p>An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.</p>",
-   "date_published": "Sun, 25 Oct 2026 21:09:26 GMT"
+   "date_published": "Sun, 25 Oct 2026 23:29:45 GMT"
   },
   {
    "id": "github-9",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "title": "security-audit-skill",
    "content_html": "<p>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</p>",
-   "date_published": "Sun, 25 Oct 2026 21:09:26 GMT"
+   "date_published": "Sun, 25 Oct 2026 23:29:45 GMT"
   },
   {
    "id": "github-10",
    "url": "https://github.com/AgriciDaniel/claude-seo",
    "title": "claude-seo",
    "content_html": "<p>Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.</p>",
-   "date_published": "Sun, 25 Oct 2026 21:09:26 GMT"
+   "date_published": "Sun, 25 Oct 2026 23:29:45 GMT"
   }
  ]
 }
