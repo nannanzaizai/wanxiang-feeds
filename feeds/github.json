@@ -2,77 +2,77 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-24 22:41:49）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-25 00:58:10）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "title": "security-audit-skill",
    "content_html": "<p>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</p>",
-   "date_published": "Sat, 24 Oct 2026 22:41:49 GMT"
+   "date_published": "Sun, 25 Oct 2026 00:58:10 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/NVIDIA/OpenShell",
    "title": "OpenShell",
    "content_html": "<p>OpenShell is the safe, private runtime for autonomous AI agents.</p>",
-   "date_published": "Sat, 24 Oct 2026 22:41:49 GMT"
+   "date_published": "Sun, 25 Oct 2026 00:58:10 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/aws/agent-toolkit-for-aws",
    "title": "agent-toolkit-for-aws",
    "content_html": "<p>Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS</p>",
-   "date_published": "Sat, 24 Oct 2026 22:41:49 GMT"
+   "date_published": "Sun, 25 Oct 2026 00:58:10 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/Nutlope/hallmark",
    "title": "hallmark",
    "content_html": "<p>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</p>",
-   "date_published": "Sat, 24 Oct 2026 22:41:49 GMT"
+   "date_published": "Sun, 25 Oct 2026 00:58:10 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/luongnv89/claude-howto",
    "title": "claude-howto",
    "content_html": "<p>A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.</p>",
-   "date_published": "Sat, 24 Oct 2026 22:41:49 GMT"
+   "date_published": "Sun, 25 Oct 2026 00:58:10 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/pbakaus/impeccable",
    "title": "impeccable",
    "content_html": "<p>The design language that makes your AI harness better at design.</p>",
-   "date_published": "Sat, 24 Oct 2026 22:41:49 GMT"
+   "date_published": "Sun, 25 Oct 2026 00:58:10 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/pollen-robotics/microduck",
    "title": "microduck",
    "content_html": "<p>A Tiny biped duck robot 🦆</p>",
-   "date_published": "Sat, 24 Oct 2026 22:41:49 GMT"
+   "date_published": "Sun, 25 Oct 2026 00:58:10 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/google-gemini/gemini-cli",
    "title": "gemini-cli",
    "content_html": "<p>An open-source AI agent that brings the power of Gemini directly into your terminal.</p>",
-   "date_published": "Sat, 24 Oct 2026 22:41:49 GMT"
+   "date_published": "Sun, 25 Oct 2026 00:58:10 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
    "title": "ebook-treasure-chest",
    "content_html": "<p>欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。</p>",
-   "date_published": "Sat, 24 Oct 2026 22:41:49 GMT"
+   "date_published": "Sun, 25 Oct 2026 00:58:10 GMT"
   },
   {
    "id": "github-9",
    "url": "https://github.com/makecindy/cindy",
    "title": "cindy",
    "content_html": "<p>Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。</p>",
-   "date_published": "Sat, 24 Oct 2026 22:41:49 GMT"
+   "date_published": "Sun, 25 Oct 2026 00:58:10 GMT"
   }
  ]
 }
