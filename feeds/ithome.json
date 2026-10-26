@@ -2,343 +2,343 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "IT之家",
  "home_page_url": "https://m.ithome.com/rankm/",
- "description": "IT之家热榜（via DailyHotApi · 生成于 2026-10-26 19:51:42）",
+ "description": "IT之家热榜（via DailyHotApi · 生成于 2026-10-26 23:41:55）",
  "items": [
   {
-   "id": "ithome-1017753",
-   "url": "https://www.ithome.com/0/101/7753.htm",
-   "title": "网友成功将一加 Ace 5 刷入“真”纯血鸿蒙 6 系统：机型显示华为 Mate 80 Pro，实现 GPU 完美修复",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017753_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1017700",
-   "url": "https://www.ithome.com/0/101/7700.htm",
-   "title": "16G 内存 + 骁龙 8 至尊版处理器：小米 REDMI K90 至尊版手机 2353 元近期好价",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017700_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1017848",
-   "url": "https://www.ithome.com/0/101/7848.htm",
-   "title": "大学老师工资将通过数字人民币钱包发放，江苏多所高校收到通知",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017848_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1017693",
-   "url": "https://www.ithome.com/0/101/7693.htm",
-   "title": "《流浪地球 3（上）》电影全新物料即将发布，2027 年春节档上映",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017693_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1017724",
-   "url": "https://www.ithome.com/0/101/7724.htm",
-   "title": "iFixit 拆解苹果 iPhone Duo：初步锁定折叠屏故障潜在诱因",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017724_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1017736",
-   "url": "https://www.ithome.com/0/101/7736.htm",
-   "title": "曝华为 Pura X View 销量破 60 万台：独享阔直屏、网友调侃出一台卖一台，已开启 60 天预约申购",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017736_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1017796",
-   "url": "https://www.ithome.com/0/101/7796.htm",
-   "title": "鸿蒙智行尊界汽车微博复更，发布 S800 典藏大观车型组图",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017796_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1017707",
-   "url": "https://www.ithome.com/0/101/7707.htm",
-   "title": "华为鸿蒙 HarmonyOS 7.0.0.111 版本更多“隐藏”新特性盘点，深色模式随日出日落切换等功能下放",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017707_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1017703",
-   "url": "https://www.ithome.com/0/101/7703.htm",
-   "title": "铺路铺到苹果家：开发者成功令微软 Surface Duo 2 运行 iOS / iPadOS 26 系统",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017703_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1017745",
-   "url": "https://www.ithome.com/0/101/7745.htm",
-   "title": "2026 央视《鸿蒙星光盛典》定档 12 月 5 日，见证华为鸿蒙应用体验进入成熟好用阶段",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017745_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1017754",
-   "url": "https://www.ithome.com/0/101/7754.htm",
-   "title": "小米卢伟冰称“又是一款同档无敌的产品”：REDMI K100 手机全新配色“雪岩白”公布",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017754_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1018022",
-   "url": "https://www.ithome.com/0/101/8022.htm",
-   "title": "终破五千大关：苹果 Mac mini M6 国补后京东 4929 元，与 M4 版同价",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1018022_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1015391",
-   "url": "https://www.ithome.com/0/101/5391.htm",
-   "title": "IT之家 11.11 严选好货：京东 PLUS 联合会员年内好价，哔哩哔哩仅需 148 元、WPS 官方补贴直降",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1015391_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1015864",
-   "url": "https://www.ithome.com/0/101/5864.htm",
-   "title": "问界发布关于陕西省榆林神木市车辆事故的说明：事发时车辆处于人驾状态，行经路口车速 139.1km/h",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1015864_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1016003",
-   "url": "https://www.ithome.com/0/101/6003.htm",
-   "title": "陕西神木警方回应问界汽车起火：系单方事故，司机已遇难",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016003_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1017429",
-   "url": "https://www.ithome.com/0/101/7429.htm",
-   "title": "开发者成功为小米 8 手机刷入苹果 iOS 16.5 系统，将机型伪装为 iPhone X",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017429_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1015123",
-   "url": "https://www.ithome.com/0/101/5123.htm",
-   "title": "小蓝灯颜色正式进国标、车灯禁止显示文字、禁止用语音关车灯，工信部公开征求意见",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1015123_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1015535",
-   "url": "https://www.ithome.com/0/101/5535.htm",
-   "title": "6.59 万元起比亚迪第二代海鸥车型上市：尺寸动力底盘全面升级",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1015535_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1016619",
-   "url": "https://www.ithome.com/0/101/6619.htm",
-   "title": "武汉通回应苹果免费开卡、安卓端收费 15 元：安卓系统手机品牌众多，接入适配成本更高",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016619_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1016751",
-   "url": "https://www.ithome.com/0/101/6751.htm",
-   "title": "陕西神木市交管大队回应问界汽车碰撞起火事故：灯柱被烧短路、变色，目前正喷漆",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016751_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1017196",
-   "url": "https://www.ithome.com/0/101/7196.htm",
-   "title": "IT之家 - MADE FOR iPhone Duo",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017196_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1015054",
-   "url": "https://www.ithome.com/0/101/5054.htm",
-   "title": "苹果官宣北京时间 10 月 29 日举行特别活动，有望推出 OLED MacBook Pro / iPad mini 8 等机型",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1015054_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1017505",
-   "url": "https://www.ithome.com/0/101/7505.htm",
-   "title": "消息称部分手机产品线或平板线迎来停更，成本兜不住",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017505_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
+   "id": "ithome-1017564",
+   "url": "https://www.ithome.com/0/101/7564.htm",
+   "title": "40.74 公里！张雪时隔 17 年圆梦“水上漂”，刷新改装摩托车在开阔水域行驶最远距离吉尼斯世界纪录",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017564_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
   },
   {
    "id": "ithome-1017645",
    "url": "https://www.ithome.com/0/101/7645.htm",
    "title": "苹果 iPhone Duo 京东原价开放购买，15999 元次日送货上门",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017645_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1015864",
-   "url": "https://www.ithome.com/0/101/5864.htm",
-   "title": "问界发布关于陕西省榆林神木市车辆事故的说明：事发时车辆处于人驾状态，行经路口车速 139.1km/h",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1015864_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1016003",
-   "url": "https://www.ithome.com/0/101/6003.htm",
-   "title": "陕西神木警方回应问界汽车起火：系单方事故，司机已遇难",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016003_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1016751",
-   "url": "https://www.ithome.com/0/101/6751.htm",
-   "title": "陕西神木市交管大队回应问界汽车碰撞起火事故：灯柱被烧短路、变色，目前正喷漆",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016751_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1016077",
-   "url": "https://www.ithome.com/0/101/6077.htm",
-   "title": "小米雷军：汽车产业如果没有安全，其他都是零",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016077_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1016619",
-   "url": "https://www.ithome.com/0/101/6619.htm",
-   "title": "武汉通回应苹果免费开卡、安卓端收费 15 元：安卓系统手机品牌众多，接入适配成本更高",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016619_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1016908",
-   "url": "https://www.ithome.com/0/101/6908.htm",
-   "title": "华为阔折叠手机出货量破 321 万台：消息称 iPhone Duo 预售 6 天，Pura X Max 销量环比提升 38%",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016908_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1017796",
-   "url": "https://www.ithome.com/0/101/7796.htm",
-   "title": "鸿蒙智行尊界汽车微博复更，发布 S800 典藏大观车型组图",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017796_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1017736",
-   "url": "https://www.ithome.com/0/101/7736.htm",
-   "title": "曝华为 Pura X View 销量破 60 万台：独享阔直屏、网友调侃出一台卖一台，已开启 60 天预约申购",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017736_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1016797",
-   "url": "https://www.ithome.com/0/101/6797.htm",
-   "title": "苹果 iPhone Duo 内屏磨砂膜能徒手撕下：秒变亮面屏，但小心损失 7998 元",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016797_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1016051",
-   "url": "https://www.ithome.com/0/101/6051.htm",
-   "title": "12306 回应女子错过检票下跪哀求：停检后无例外放行通道",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016051_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
   },
   {
    "id": "ithome-1017594",
    "url": "https://www.ithome.com/0/101/7594.htm",
    "title": "苹果 iPhone Duo 部分区域破发，王腾称相比小米、华为阔折叠手机没有特别领先的地方",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017594_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
   },
   {
-   "id": "ithome-1017538",
-   "url": "https://www.ithome.com/0/101/7538.htm",
-   "title": "苹果 iPhone Duo 内屏玩《王者荣耀》《原神》暂不支持全屏显示，大黑边被网友吐槽“公摊广告位”",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017538_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
+   "id": "ithome-1017632",
+   "url": "https://www.ithome.com/0/101/7632.htm",
+   "title": "2027 羊年央视春晚总导演公布，于蕾连续五年扛起重任",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017632_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
   },
   {
-   "id": "ithome-1013686",
-   "url": "https://www.ithome.com/0/101/3686.htm",
-   "title": "华为余承东就“三部门联合调查刹车踏板支架断裂问题”表态：正义可能会迟到，但永远不会缺席！",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1013686_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
+   "id": "ithome-1017700",
+   "url": "https://www.ithome.com/0/101/7700.htm",
+   "title": "16G 内存 + 骁龙 8 至尊版处理器：小米 REDMI K90 至尊版手机 2353 元近期好价",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017700_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
   },
   {
-   "id": "ithome-1010703",
-   "url": "https://www.ithome.com/0/101/0703.htm",
-   "title": "尊界回应制动踏板支架底座相关问题：制动系统按高于国家 / 行业标准开发验证，提供免费升级选择",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1010703_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
+   "id": "ithome-1017576",
+   "url": "https://www.ithome.com/0/101/7576.htm",
+   "title": "张雪谈成功挑战“水上漂”吉尼斯世界纪录自己表现：打 99 分，留 1 分不要太骄傲",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017576_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1017593",
+   "url": "https://www.ithome.com/0/101/7593.htm",
+   "title": "苹果 iPhone Duo 在部分区域破发：已加入电商平台“百亿补贴”，相对上市价便宜约 200-300 元",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017593_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1017555",
+   "url": "https://www.ithome.com/0/101/7555.htm",
+   "title": "华为 Mate 90 RS / Pro Max 典藏版推 HarmonyOS 7.0.0.111SP13 升级，优化与睿影 Z10 模块相机连接",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017555_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1017693",
+   "url": "https://www.ithome.com/0/101/7693.htm",
+   "title": "《流浪地球 3（上）》电影全新物料即将发布，2027 年春节档上映",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017693_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1017707",
+   "url": "https://www.ithome.com/0/101/7707.htm",
+   "title": "华为鸿蒙 HarmonyOS 7.0.0.111 版本更多“隐藏”新特性盘点，深色模式随日出日落切换等功能下放",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017707_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1017579",
+   "url": "https://www.ithome.com/0/101/7579.htm",
+   "title": "卢伟冰再谈小米 18 Fold 手机折痕：采用新一代折叠架构，平均深度 ≤30μm",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017579_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1017703",
+   "url": "https://www.ithome.com/0/101/7703.htm",
+   "title": "铺路铺到苹果家：开发者成功令微软 Surface Duo 2 运行 iOS / iPadOS 26 系统",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017703_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
   },
   {
    "id": "ithome-1015391",
    "url": "https://www.ithome.com/0/101/5391.htm",
    "title": "IT之家 11.11 严选好货：京东 PLUS 联合会员年内好价，哔哩哔哩仅需 148 元、WPS 官方补贴直降",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1015391_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1011077",
-   "url": "https://www.ithome.com/0/101/1077.htm",
-   "title": "尊界客服称 V800 制动踏板支架底座 11 月陆续启动免费升级：未发运车辆将直接优化部件，明确不是“召回”",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1011077_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1013734",
-   "url": "https://www.ithome.com/0/101/3734.htm",
-   "title": "这次能飞了！特斯拉第二代 Roadster 跑车正式亮相",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1013734_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1012175",
-   "url": "https://www.ithome.com/0/101/2175.htm",
-   "title": "尊界公布 V800 制动踏板第三方检测结果：符合行业标准，加严检验至 3000N 也无裂纹损坏",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1012175_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1008151",
-   "url": "https://www.ithome.com/0/100/8151.htm",
-   "title": "华为 Mate 90 系列手机线下展出：多彩拼色设计、原生“巨炮”模块相机，10 月 1 日发布",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/9/1008151_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1010721",
-   "url": "https://www.ithome.com/0/101/0721.htm",
-   "title": "懂车帝回应尊界 V800 刹车踏板支架断裂争议：网传暴力测试并不存在，百公里刹车实验并非极端工况",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1010721_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1011540",
-   "url": "https://www.ithome.com/0/101/1540.htm",
-   "title": "安卓首款、全球第二款阔直板手机将至：酷派新机首曝，价格干到“999 定位千元档”",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1011540_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1007541",
-   "url": "https://www.ithome.com/0/100/7541.htm",
-   "title": "消息称今年开始所有品牌手机暂时都不会有无网通信功能",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/9/1007541_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
-  },
-  {
-   "id": "ithome-1008093",
-   "url": "https://www.ithome.com/0/100/8093.htm",
-   "title": "华为 Mate 90 系列年度旗舰手机亮相，定档 10 月 1 日正式发布并开售",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/9/1008093_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
   },
   {
    "id": "ithome-1015864",
    "url": "https://www.ithome.com/0/101/5864.htm",
    "title": "问界发布关于陕西省榆林神木市车辆事故的说明：事发时车辆处于人驾状态，行经路口车速 139.1km/h",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1015864_240.jpg\" />",
-   "date_published": "Mon, 26 Oct 2026 19:51:42 GMT"
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1016003",
+   "url": "https://www.ithome.com/0/101/6003.htm",
+   "title": "陕西神木警方回应问界汽车起火：系单方事故，司机已遇难",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016003_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1015123",
+   "url": "https://www.ithome.com/0/101/5123.htm",
+   "title": "小蓝灯颜色正式进国标、车灯禁止显示文字、禁止用语音关车灯，工信部公开征求意见",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1015123_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1014878",
+   "url": "https://www.ithome.com/0/101/4878.htm",
+   "title": "iPhone 17 Pro Max 2TB 美版 9339 元京东再降价，支持免费改双卡",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1014878_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1017429",
+   "url": "https://www.ithome.com/0/101/7429.htm",
+   "title": "开发者成功为小米 8 手机刷入苹果 iOS 16.5 系统，将机型伪装为 iPhone X",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017429_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1015535",
+   "url": "https://www.ithome.com/0/101/5535.htm",
+   "title": "6.59 万元起比亚迪第二代海鸥车型上市：尺寸动力底盘全面升级",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1015535_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1016619",
+   "url": "https://www.ithome.com/0/101/6619.htm",
+   "title": "武汉通回应苹果免费开卡、安卓端收费 15 元：安卓系统手机品牌众多，接入适配成本更高",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016619_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1016751",
+   "url": "https://www.ithome.com/0/101/6751.htm",
+   "title": "陕西神木市交管大队回应问界汽车碰撞起火事故：灯柱被烧短路、变色，目前正喷漆",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016751_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1015054",
+   "url": "https://www.ithome.com/0/101/5054.htm",
+   "title": "苹果官宣北京时间 10 月 29 日举行特别活动，有望推出 OLED MacBook Pro / iPad mini 8 等机型",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1015054_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1016908",
+   "url": "https://www.ithome.com/0/101/6908.htm",
+   "title": "华为阔折叠手机出货量破 321 万台：消息称 iPhone Duo 预售 6 天，Pura X Max 销量环比提升 38%",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016908_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1016051",
+   "url": "https://www.ithome.com/0/101/6051.htm",
+   "title": "12306 回应女子错过检票下跪哀求：停检后无例外放行通道",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016051_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1015864",
+   "url": "https://www.ithome.com/0/101/5864.htm",
+   "title": "问界发布关于陕西省榆林神木市车辆事故的说明：事发时车辆处于人驾状态，行经路口车速 139.1km/h",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1015864_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1016003",
+   "url": "https://www.ithome.com/0/101/6003.htm",
+   "title": "陕西神木警方回应问界汽车起火：系单方事故，司机已遇难",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016003_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1016751",
+   "url": "https://www.ithome.com/0/101/6751.htm",
+   "title": "陕西神木市交管大队回应问界汽车碰撞起火事故：灯柱被烧短路、变色，目前正喷漆",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016751_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1016077",
+   "url": "https://www.ithome.com/0/101/6077.htm",
+   "title": "小米雷军：汽车产业如果没有安全，其他都是零",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016077_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1016619",
+   "url": "https://www.ithome.com/0/101/6619.htm",
+   "title": "武汉通回应苹果免费开卡、安卓端收费 15 元：安卓系统手机品牌众多，接入适配成本更高",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016619_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1016908",
+   "url": "https://www.ithome.com/0/101/6908.htm",
+   "title": "华为阔折叠手机出货量破 321 万台：消息称 iPhone Duo 预售 6 天，Pura X Max 销量环比提升 38%",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016908_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1014863",
+   "url": "https://www.ithome.com/0/101/4863.htm",
+   "title": "曝华为畅享 100 Pro Max 手机将搭载麒麟 8020 处理器，支持北斗卫星消息",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1014863_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1014776",
+   "url": "https://www.ithome.com/0/101/4776.htm",
+   "title": "周增超百万：苹果 iPhone 18 Pro 最新销量数据曝光，系列累计突破 408 万台",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1014776_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1016797",
+   "url": "https://www.ithome.com/0/101/6797.htm",
+   "title": "苹果 iPhone Duo 内屏磨砂膜能徒手撕下：秒变亮面屏，但小心损失 7998 元",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016797_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1016051",
+   "url": "https://www.ithome.com/0/101/6051.htm",
+   "title": "12306 回应女子错过检票下跪哀求：停检后无例外放行通道",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1016051_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1015614",
+   "url": "https://www.ithome.com/0/101/5614.htm",
+   "title": "1 亿目标近在咫尺：曝华为鸿蒙 HarmonyOS 系统装机量突破 9500 万台",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1015614_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1017310",
+   "url": "https://www.ithome.com/0/101/7310.htm",
+   "title": "国产旗舰机最新激活销量数据曝光，华为 Mate 90 系列开售 18 天约 52.8 万台连续多周第一",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1017310_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1013686",
+   "url": "https://www.ithome.com/0/101/3686.htm",
+   "title": "华为余承东就“三部门联合调查刹车踏板支架断裂问题”表态：正义可能会迟到，但永远不会缺席！",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1013686_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1010703",
+   "url": "https://www.ithome.com/0/101/0703.htm",
+   "title": "尊界回应制动踏板支架底座相关问题：制动系统按高于国家 / 行业标准开发验证，提供免费升级选择",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1010703_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1011077",
+   "url": "https://www.ithome.com/0/101/1077.htm",
+   "title": "尊界客服称 V800 制动踏板支架底座 11 月陆续启动免费升级：未发运车辆将直接优化部件，明确不是“召回”",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1011077_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1013734",
+   "url": "https://www.ithome.com/0/101/3734.htm",
+   "title": "这次能飞了！特斯拉第二代 Roadster 跑车正式亮相",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1013734_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1012175",
+   "url": "https://www.ithome.com/0/101/2175.htm",
+   "title": "尊界公布 V800 制动踏板第三方检测结果：符合行业标准，加严检验至 3000N 也无裂纹损坏",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1012175_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1015391",
+   "url": "https://www.ithome.com/0/101/5391.htm",
+   "title": "IT之家 11.11 严选好货：京东 PLUS 联合会员年内好价，哔哩哔哩仅需 148 元、WPS 官方补贴直降",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1015391_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1008151",
+   "url": "https://www.ithome.com/0/100/8151.htm",
+   "title": "华为 Mate 90 系列手机线下展出：多彩拼色设计、原生“巨炮”模块相机，10 月 1 日发布",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/9/1008151_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1010721",
+   "url": "https://www.ithome.com/0/101/0721.htm",
+   "title": "懂车帝回应尊界 V800 刹车踏板支架断裂争议：网传暴力测试并不存在，百公里刹车实验并非极端工况",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1010721_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1011540",
+   "url": "https://www.ithome.com/0/101/1540.htm",
+   "title": "安卓首款、全球第二款阔直板手机将至：酷派新机首曝，价格干到“999 定位千元档”",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1011540_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1007541",
+   "url": "https://www.ithome.com/0/100/7541.htm",
+   "title": "消息称今年开始所有品牌手机暂时都不会有无网通信功能",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/9/1007541_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1008093",
+   "url": "https://www.ithome.com/0/100/8093.htm",
+   "title": "华为 Mate 90 系列年度旗舰手机亮相，定档 10 月 1 日正式发布并开售",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/9/1008093_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
+  },
+  {
+   "id": "ithome-1015864",
+   "url": "https://www.ithome.com/0/101/5864.htm",
+   "title": "问界发布关于陕西省榆林神木市车辆事故的说明：事发时车辆处于人驾状态，行经路口车速 139.1km/h",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1015864_240.jpg\" />",
+   "date_published": "Mon, 26 Oct 2026 23:41:55 GMT"
   }
  ]
 }
