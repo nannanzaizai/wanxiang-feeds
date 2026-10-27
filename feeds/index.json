@@ -1,16 +1,16 @@
 {
  "version": "https://jsonfeed.org/version/1.1",
  "title": "万象热榜索引",
- "generated_at": "2026-10-27 15:49:15",
- "total_items": 500,
+ "generated_at": "2026-10-27 20:33:34",
+ "total_items": 499,
  "feeds": [
   {
    "platform": "zhihu",
    "name": "知乎热榜",
    "items": 30,
-   "thumbs": 29,
+   "thumbs": 26,
    "file": "zhihu.json",
-   "bytes": 32025,
+   "bytes": 35515,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -20,7 +20,7 @@
    "items": 52,
    "thumbs": 0,
    "file": "weibo.json",
-   "bytes": 18336,
+   "bytes": 19315,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -30,7 +30,7 @@
    "items": 100,
    "thumbs": 100,
    "file": "bilibili.json",
-   "bytes": 52106,
+   "bytes": 52279,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -40,17 +40,17 @@
    "items": 50,
    "thumbs": 50,
    "file": "toutiao.json",
-   "bytes": 24407,
+   "bytes": 24425,
    "img_fixed": 0,
    "img_dropped": 0
   },
   {
    "platform": "douyin",
    "name": "抖音热榜",
-   "items": 50,
+   "items": 49,
    "thumbs": 0,
    "file": "douyin.json",
-   "bytes": 12677,
+   "bytes": 12396,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -60,7 +60,7 @@
    "items": 50,
    "thumbs": 0,
    "file": "juejin.json",
-   "bytes": 16769,
+   "bytes": 16847,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -80,7 +80,7 @@
    "items": 40,
    "thumbs": 0,
    "file": "sspai.json",
-   "bytes": 17504,
+   "bytes": 17301,
    "img_fixed": 0,
    "img_dropped": 40
   },
@@ -90,7 +90,7 @@
    "items": 50,
    "thumbs": 50,
    "file": "36kr.json",
-   "bytes": 22196,
+   "bytes": 22143,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -100,7 +100,7 @@
    "items": 48,
    "thumbs": 48,
    "file": "ithome.json",
-   "bytes": 17850,
+   "bytes": 17772,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -110,15 +110,15 @@
    "items": 20,
    "thumbs": 20,
    "file": "thepaper.json",
-   "bytes": 7618,
+   "bytes": 7616,
    "img_fixed": 0,
    "img_dropped": 0
   }
  ],
  "merged": {
   "file": "all.json",
-  "items": 491,
-  "bytes": 248941,
+  "items": 489,
+  "bytes": 252576,
   "platforms": 11
  }
 }
