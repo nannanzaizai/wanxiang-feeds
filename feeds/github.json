@@ -2,105 +2,105 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-28 21:52:11）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-10-29 01:41:06）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/JetBrains/thinkrail",
    "title": "thinkrail",
    "content_html": "<p>Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need</p>",
-   "date_published": "Wed, 28 Oct 2026 21:52:11 GMT"
+   "date_published": "Thu, 29 Oct 2026 01:41:06 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/elayadesign/ai-design-skills",
    "title": "ai-design-skills",
    "content_html": "<p>ai-design-skills</p>",
-   "date_published": "Wed, 28 Oct 2026 21:52:11 GMT"
+   "date_published": "Thu, 29 Oct 2026 01:41:06 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/obra/superpowers",
    "title": "superpowers",
    "content_html": "<p>An agentic skills framework & software development methodology that works.</p>",
-   "date_published": "Wed, 28 Oct 2026 21:52:11 GMT"
+   "date_published": "Thu, 29 Oct 2026 01:41:06 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/HKUDS/DeepTutor",
    "title": "DeepTutor",
    "content_html": "<p>DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.</p>",
-   "date_published": "Wed, 28 Oct 2026 21:52:11 GMT"
+   "date_published": "Thu, 29 Oct 2026 01:41:06 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/macro-inc/macro",
    "title": "macro",
    "content_html": "<p>Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.</p>",
-   "date_published": "Wed, 28 Oct 2026 21:52:11 GMT"
+   "date_published": "Thu, 29 Oct 2026 01:41:06 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/Nutlope/hallmark",
    "title": "hallmark",
    "content_html": "<p>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</p>",
-   "date_published": "Wed, 28 Oct 2026 21:52:11 GMT"
+   "date_published": "Thu, 29 Oct 2026 01:41:06 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/pbakaus/impeccable",
    "title": "impeccable",
    "content_html": "<p>The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.</p>",
-   "date_published": "Wed, 28 Oct 2026 21:52:11 GMT"
+   "date_published": "Thu, 29 Oct 2026 01:41:06 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/makecindy/cindy",
    "title": "cindy",
    "content_html": "<p>Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。</p>",
-   "date_published": "Wed, 28 Oct 2026 21:52:11 GMT"
+   "date_published": "Thu, 29 Oct 2026 01:41:06 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/nightly-labs/openbot",
    "title": "openbot",
    "content_html": "<p>A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.</p>",
-   "date_published": "Wed, 28 Oct 2026 21:52:11 GMT"
+   "date_published": "Thu, 29 Oct 2026 01:41:06 GMT"
   },
   {
    "id": "github-9",
    "url": "https://github.com/togg53192-cmd/jailbreaks",
    "title": "jailbreaks",
    "content_html": "<p>LIST OF ALL MY JAILBREAKS</p>",
-   "date_published": "Wed, 28 Oct 2026 21:52:11 GMT"
+   "date_published": "Thu, 29 Oct 2026 01:41:06 GMT"
   },
   {
    "id": "github-10",
    "url": "https://github.com/hmjz100/LinkSwift",
    "title": "LinkSwift",
    "content_html": "<p>一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘</p>",
-   "date_published": "Wed, 28 Oct 2026 21:52:11 GMT"
+   "date_published": "Thu, 29 Oct 2026 01:41:06 GMT"
   },
   {
    "id": "github-11",
    "url": "https://github.com/expo/skills",
    "title": "skills",
    "content_html": "<p>A collection of AI agent skills for working with Expo projects and Expo Application Services</p>",
-   "date_published": "Wed, 28 Oct 2026 21:52:11 GMT"
+   "date_published": "Thu, 29 Oct 2026 01:41:06 GMT"
   },
   {
    "id": "github-12",
    "url": "https://github.com/ruvnet/RuView",
    "title": "RuView",
    "content_html": "<p>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</p>",
-   "date_published": "Wed, 28 Oct 2026 21:52:11 GMT"
+   "date_published": "Thu, 29 Oct 2026 01:41:06 GMT"
   },
   {
    "id": "github-13",
    "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
    "title": "the-craft-of-selfteaching",
    "content_html": "<p>One has no future if one couldn't teach themself.</p>",
-   "date_published": "Wed, 28 Oct 2026 21:52:11 GMT"
+   "date_published": "Thu, 29 Oct 2026 01:41:06 GMT"
   }
  ]
 }
