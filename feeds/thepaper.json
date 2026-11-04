@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-03 19:23:09）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-04 00:09:59）",
  "items": [
-  {
-   "id": "thepaper-34369361",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34369361",
-   "title": "环评背后的野生动物保护之议",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793354743899_ZAGhPY_1793354744117.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
-  },
-  {
-   "id": "thepaper-34358780",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34358780",
-   "title": "地标是如何炼成的丨鲁迅故里：每一代人都在用自己的方式走近鲁迅",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793606660000_ZwfKcE_1793608930530.jpg\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
-  },
-  {
-   "id": "thepaper-34386844",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34386844",
-   "title": "褶皱里的民意｜打三份工养家，剩6美元存款：一个美国教师的两年挣扎",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793605335080_8YXdPY_1793605335282.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
-  },
   {
    "id": "thepaper-34396560",
    "url": "https://www.thepaper.cn/newsDetail_forward_34396560",
    "title": "一图世界｜美国中期选举开始投票，谁说了算？候选人都在吵什么？",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793700734275_Wj5yhK_1793700734466.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
   },
   {
-   "id": "thepaper-34393022",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34393022",
-   "title": "马上评｜“押金退还”并不真退，共享寄存柜的缺德生意经",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793667447694_fGnyz5_1793667447818.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
+   "id": "thepaper-34397296",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34397296",
+   "title": "多地机关单位内部厕所常态化对外开放，进一步补充公共资源",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793706497389_ianbRh_1793706497535.png\" />",
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
+  },
+  {
+   "id": "thepaper-34369361",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34369361",
+   "title": "环评背后的野生动物保护之议",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793354743899_ZAGhPY_1793354744117.png\" />",
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
   },
   {
    "id": "thepaper-34397841",
    "url": "https://www.thepaper.cn/newsDetail_forward_34397841",
    "title": "马上评｜一流学府何必强求抬头率？",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793711495484_2KBmCf_1793711495671.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
+  },
+  {
+   "id": "thepaper-34386844",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34386844",
+   "title": "褶皱里的民意｜打三份工养家，剩6美元存款：一个美国教师的两年挣扎",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793605335080_8YXdPY_1793605335282.png\" />",
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
+  },
+  {
+   "id": "thepaper-34358780",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34358780",
+   "title": "地标是如何炼成的丨鲁迅故里：每一代人都在用自己的方式走近鲁迅",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793606660000_ZwfKcE_1793608930530.jpg\" />",
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
+  },
+  {
+   "id": "thepaper-34393022",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34393022",
+   "title": "马上评｜“押金退还”并不真退，共享寄存柜的缺德生意经",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793667447694_fGnyz5_1793667447818.png\" />",
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
   },
   {
    "id": "thepaper-34395745",
    "url": "https://www.thepaper.cn/newsDetail_forward_34395745",
    "title": "马上评｜“老人挥拳”相互道歉？一断于法，无关年龄",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793695136506_a5TG1Q_1793695136667.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
   },
   {
    "id": "thepaper-34382628",
    "url": "https://www.thepaper.cn/newsDetail_forward_34382628",
    "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793538260192_6Dt7i2_1793538260485.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
   },
   {
    "id": "thepaper-34394801",
    "url": "https://www.thepaper.cn/newsDetail_forward_34394801",
    "title": "8000元网购西高地犬后“仅退款”案件将开庭，卖家曾驱车600公里寻狗",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793684888197_BhzTTi_1793684888478.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
   },
   {
    "id": "thepaper-34393113",
    "url": "https://www.thepaper.cn/newsDetail_forward_34393113",
    "title": "草皮、管道和倒影池：不谈通胀，特朗普选前收官演讲成了“装修报告”",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793668955813_FScT4T_1793668956003.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
   },
   {
    "id": "thepaper-34395921",
    "url": "https://www.thepaper.cn/newsDetail_forward_34395921",
    "title": "受贿6750万余元，东航原董事长刘绍勇一审被判十四年",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793696531634_D77aHf_1793696531868.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
   },
   {
    "id": "thepaper-34394079",
    "url": "https://www.thepaper.cn/newsDetail_forward_34394079",
    "title": "“片仔癀一门店被举报涉虚假宣传”续：市监部门认定违反广告法罚款3万元",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793676634688_zNHdpY_1793676634855.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
   },
   {
    "id": "thepaper-34392754",
    "url": "https://www.thepaper.cn/newsDetail_forward_34392754",
    "title": "央媒谈“字节时间”争议：讨论注意力分配，平台责任不应止于合规",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793661617692_5ph7tX_1793661617991.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
   },
   {
    "id": "thepaper-34393037",
    "url": "https://www.thepaper.cn/newsDetail_forward_34393037",
    "title": "言短意长｜补办身份证得先刷身份证，这不陷入“循环论证”了么",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793667566217_xmK1Ps_1793667566418.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
   },
   {
    "id": "thepaper-34392888",
    "url": "https://www.thepaper.cn/newsDetail_forward_34392888",
    "title": "一在校女生将其初中同学男扮女装带入宿舍，武汉工商学院通报",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793664521135_WS8TQt_1793664521454.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
-  },
-  {
-   "id": "thepaper-34392904",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34392904",
-   "title": "三周内第二波：欧洲八国超市冷柜遭黑客攻击升至50℃，谁干的？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793666641877_pe3KS2_1793666642124.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
   },
   {
    "id": "thepaper-34394511",
    "url": "https://www.thepaper.cn/newsDetail_forward_34394511",
    "title": "警方介入调查“九寨沟景区游客冲突事件”，九寨沟管理局：事发后有工作人员到场处理并报警",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793681300954_xDe3XM_1793681301181.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
+  },
+  {
+   "id": "thepaper-34392904",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34392904",
+   "title": "三周内第二波：欧洲八国超市冷柜遭黑客攻击升至50℃，谁干的？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793666641877_pe3KS2_1793666642124.png\" />",
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
+  },
+  {
+   "id": "thepaper-34395044",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34395044",
+   "title": "马上评｜保障孩子睡眠时间，不能止于厅长“内疚”",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793687893768_xpcbNd_1793687893963.png\" />",
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
   },
   {
    "id": "thepaper-34395914",
    "url": "https://www.thepaper.cn/newsDetail_forward_34395914",
    "title": "王楚钦之外，国乒男队还能靠谁？",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793697868360_WmMwsr_1793697868555.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
-  },
-  {
-   "id": "thepaper-34394157",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34394157",
-   "title": "大连市政协主席宫福清已任市人大常委会党组书记",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793677583739_xEas5Q_1793677583932.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
-  },
-  {
-   "id": "thepaper-34394069",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34394069",
-   "title": "大连市政协主席宫福清已任市人大常委会党组书记",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793676058540_2SFBT8_1793676058794.png\" />",
-   "date_published": "Tue, 03 Nov 2026 19:23:09 GMT"
+   "date_published": "Wed, 04 Nov 2026 00:09:59 GMT"
   }
  ]
 }
