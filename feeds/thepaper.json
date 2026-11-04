@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-04 06:55:10）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-04 15:18:29）",
  "items": [
-  {
-   "id": "thepaper-34396560",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34396560",
-   "title": "一图世界｜美国中期选举开始投票，谁说了算？候选人都在吵什么？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793700734275_Wj5yhK_1793700734466.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
-  },
-  {
-   "id": "thepaper-34397296",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34397296",
-   "title": "多地机关单位内部厕所常态化对外开放，进一步补充公共资源",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793706497389_ianbRh_1793706497535.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
-  },
-  {
-   "id": "thepaper-34397841",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34397841",
-   "title": "马上评｜一流学府何必强求抬头率？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793711495484_2KBmCf_1793711495671.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
-  },
-  {
-   "id": "thepaper-34398550",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34398550",
-   "title": "潘功胜：维护股票、债券、外汇等金融市场平稳运行，守住不发生系统性金融风险底线",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793715934162_aCyNPw_1793715934394.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
-  },
-  {
-   "id": "thepaper-34397635",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34397635",
-   "title": "四川泸州住建局就“短时间内两次核查结论反转”发布情况说明",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793710638550_WMMWkm_1793710638774.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
-  },
-  {
-   "id": "thepaper-34395745",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34395745",
-   "title": "马上评｜“老人挥拳”相互道歉？一断于法，无关年龄",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793695136506_a5TG1Q_1793695136667.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
-  },
-  {
-   "id": "thepaper-34395921",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34395921",
-   "title": "受贿6750万余元，东航原董事长刘绍勇一审被判十四年",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793696531634_D77aHf_1793696531868.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
-  },
   {
    "id": "thepaper-34401814",
    "url": "https://www.thepaper.cn/newsDetail_forward_34401814",
    "title": "南京大学回应“智慧教室”争议：否认到课率挂钩成绩，称已不再统计抬头率",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793756829419_CTe71W_1793756829579.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
-  },
-  {
-   "id": "thepaper-34399924",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34399924",
-   "title": "校方回应“22名学生网购服装演出后退款”：已批评教育，部分学生私信向商家道歉",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793726895167_f2sAbi_1793726895408.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
   },
   {
    "id": "thepaper-34402332",
    "url": "https://www.thepaper.cn/newsDetail_forward_34402332",
    "title": "上海交警主动联系台湾演员明道归还其遗失物，国台办回应",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793760924413_tzGytH_1793760924732.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
+  },
+  {
+   "id": "thepaper-34399924",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34399924",
+   "title": "校方回应“22名学生网购服装演出后退款”：已批评教育，部分学生私信向商家道歉",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793726895167_f2sAbi_1793726895408.png\" />",
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
+  },
+  {
+   "id": "thepaper-34404481",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34404481",
+   "title": "四川泸州“花坛藏尸案”将一审宣判：被告人多次整容伪造身份，被害人儿子幼年丧母称“有太多事想为她做”",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793779909727_77hsSE_1793779909885.png\" />",
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
+  },
+  {
+   "id": "thepaper-34403162",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34403162",
+   "title": "23岁抗癌博主“夏夏”离世，他们从各地赶来送别女孩最后一程",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793769143450_2kE3xZ_1793769143759.png\" />",
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
+  },
+  {
+   "id": "thepaper-34403000",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34403000",
+   "title": "马上评｜频繁把张雪送上热搜，不如让他安心做好企业",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793767454849_Afyi6c_1793767455102.png\" />",
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
   },
   {
    "id": "thepaper-34390827",
    "url": "https://www.thepaper.cn/newsDetail_forward_34390827",
    "title": "AI有意识吗？——从脑机智能与脑机接口谈起",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793637384913_PdjmFd_1793637384913.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
-  },
-  {
-   "id": "thepaper-34395480",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34395480",
-   "title": "期中“烤”｜从“美国梦”到生存账单：拉美裔蓝领对两党都失去信心",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793692784939_2kf78i_1793692785126.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
-  },
-  {
-   "id": "thepaper-34395044",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34395044",
-   "title": "马上评｜保障孩子睡眠时间，不能止于厅长“内疚”",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793687893768_xpcbNd_1793687893963.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
-  },
-  {
-   "id": "thepaper-34395914",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34395914",
-   "title": "王楚钦之外，国乒男队还能靠谁？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793697868360_WmMwsr_1793697868555.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
   },
   {
    "id": "thepaper-34402161",
    "url": "https://www.thepaper.cn/newsDetail_forward_34402161",
    "title": "马上评｜网购演出服集体退货一再发生，说明光道歉没用",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793760294037_1acJWB_1793760294295.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
   },
   {
-   "id": "thepaper-34398446",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34398446",
-   "title": "肇庆高新区回应“补办身份证得先刷身份证”：当天即改进",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793715666199_BSbGJN_1793715666390.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
+   "id": "thepaper-34405254",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34405254",
+   "title": "西南交大通报“硕士论文被指抄袭”：属实，撤销王某硕士学位",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793792555599_rpnYkP_1793792555749.png\" />",
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
   },
   {
-   "id": "thepaper-34395034",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34395034",
-   "title": "广州花都区教育局介入处置“8岁女孩被同学冲撞致脑死亡”事件，校方称已上交监控等材料",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793687056703_rAPmBb_1793687056920.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
+   "id": "thepaper-34402847",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34402847",
+   "title": "言短意长｜大学课堂“抬头率”低背后的真问题",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793764848791_36ZbfD_1793764848998.png\" />",
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
   },
   {
-   "id": "thepaper-34366567",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34366567",
-   "title": "期中“烤”｜在特朗普时代吃低保：每月300美元变57美元，她说“政府把我往水底按”",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793330982383_fWMp28_1793330982646.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
-  },
-  {
-   "id": "thepaper-34396563",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34396563",
-   "title": "有人身着日式服装带武士刀在长沙烈士公园拍照？园方称已制止并报警",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793699875075_T5wzxt_1793699875159.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
+   "id": "thepaper-34402843",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34402843",
+   "title": "陕西省委第一巡视组回应“延安大学白保国举报”：未收到举报，会和学校沟通",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793764240793_YjZw3P_1793764240950.png\" />",
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
   },
   {
    "id": "thepaper-34387260",
    "url": "https://www.thepaper.cn/newsDetail_forward_34387260",
    "title": "陕西一男子花6.49万读“乌克兰网课硕士”发现未被录取：警方未立案，检察院立案监督",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793601555623_XTWZaB_1793601555894.png\" />",
-   "date_published": "Wed, 04 Nov 2026 06:55:10 GMT"
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
+  },
+  {
+   "id": "thepaper-34401746",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34401746",
+   "title": "马上评｜斥巨资建“智慧教室系统”，名校何必强求抬头率",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793756316646_nRns6B_1793756357003.jpg\" />",
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
+  },
+  {
+   "id": "thepaper-34402106",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34402106",
+   "title": "两岸各界围绕“两制”台湾方案研讨热烈，国台办回应",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793759673355_X4mMG8_1793759673473.png\" />",
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
+  },
+  {
+   "id": "thepaper-34386659",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34386659",
+   "title": "地标是如何炼成的｜解放碑下，那些坚守的重庆“棒棒”和生意人",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793691146000_nJQPXE_1793692867249.jpg\" />",
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
+  },
+  {
+   "id": "thepaper-34403670",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34403670",
+   "title": "一堂行走的思政课为何全网播放超22亿？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/20261104/923d5866-1c43-4430-90fb-77f1807b0a32.jpeg\" />",
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
+  },
+  {
+   "id": "thepaper-34401706",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34401706",
+   "title": "维护资本市场平稳运行，央行加力实施股票回购增持再贷款政策",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793754903162_s7epA3_1793754903303.png\" />",
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
+  },
+  {
+   "id": "thepaper-34402521",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34402521",
+   "title": "千里江山图丨秋色满山河：云赏千里河山，感受深秋中国的澎湃脉动",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793774925478_z5R1kh_1793774925744.png\" />",
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
+  },
+  {
+   "id": "thepaper-34398428",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34398428",
+   "title": "在莫高窟没能看到第45窟，可以来敦煌文博会看",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793715293674_bJPWww_1793715293975.png\" />",
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
+  },
+  {
+   "id": "thepaper-34403979",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34403979",
+   "title": "明查｜上交所门口人挤人？视频实拍地在巴西",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793775510242_d833kS_1793775510455.png\" />",
+   "date_published": "Wed, 04 Nov 2026 15:18:29 GMT"
   }
  ]
 }
