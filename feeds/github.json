@@ -2,112 +2,133 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-11-06 03:20:02）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-11-06 11:24:10）",
  "items": [
   {
    "id": "github-0",
-   "url": "https://github.com/NVIDIA/auto-ontology",
-   "title": "auto-ontology",
-   "content_html": "<p>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.</p>",
-   "date_published": "Fri, 06 Nov 2026 03:20:02 GMT"
+   "url": "https://github.com/zed-industries/zed",
+   "title": "zed",
+   "content_html": "<p>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
   },
   {
    "id": "github-1",
-   "url": "https://github.com/mattpocock/skills",
-   "title": "skills",
-   "content_html": "<p>Skills for Real Engineers. Straight from my .agents directory.</p>",
-   "date_published": "Fri, 06 Nov 2026 03:20:02 GMT"
+   "url": "https://github.com/NVIDIA/auto-ontology",
+   "title": "auto-ontology",
+   "content_html": "<p>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
   },
   {
    "id": "github-2",
-   "url": "https://github.com/garrytan/gstack",
-   "title": "gstack",
-   "content_html": "<p>Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA</p>",
-   "date_published": "Fri, 06 Nov 2026 03:20:02 GMT"
+   "url": "https://github.com/rails/rails",
+   "title": "rails",
+   "content_html": "<p>Ruby on Rails</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
   },
   {
    "id": "github-3",
-   "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-   "title": "ai-goofish-monitor",
-   "content_html": "<p>基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。</p>",
-   "date_published": "Fri, 06 Nov 2026 03:20:02 GMT"
+   "url": "https://github.com/mpv-player/mpv",
+   "title": "mpv",
+   "content_html": "<p>🎥 Command line media player</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
   },
   {
    "id": "github-4",
-   "url": "https://github.com/D4Vinci/Scrapling",
-   "title": "Scrapling",
-   "content_html": "<p>🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev</p>",
-   "date_published": "Fri, 06 Nov 2026 03:20:02 GMT"
+   "url": "https://github.com/rust-lang/rust",
+   "title": "rust",
+   "content_html": "<p>Empowering everyone to build reliable and efficient software.</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
   },
   {
    "id": "github-5",
-   "url": "https://github.com/vercel-labs/agent-desktop",
-   "title": "agent-desktop",
-   "content_html": "<p>Computer use CLI for AI agents</p>",
-   "date_published": "Fri, 06 Nov 2026 03:20:02 GMT"
+   "url": "https://github.com/react/react",
+   "title": "react",
+   "content_html": "<p>The library for web and native user interfaces.</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
   },
   {
    "id": "github-6",
-   "url": "https://github.com/max-sixty/worktrunk",
-   "title": "worktrunk",
-   "content_html": "<p>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</p>",
-   "date_published": "Fri, 06 Nov 2026 03:20:02 GMT"
+   "url": "https://github.com/angular/angular",
+   "title": "angular",
+   "content_html": "<p>Deliver web apps with confidence 🚀</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
   },
   {
    "id": "github-7",
-   "url": "https://github.com/lz4/lz4",
-   "title": "lz4",
-   "content_html": "<p>Extremely Fast Compression algorithm</p>",
-   "date_published": "Fri, 06 Nov 2026 03:20:02 GMT"
+   "url": "https://github.com/symfony/symfony",
+   "title": "symfony",
+   "content_html": "<p>The Symfony PHP framework</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
   },
   {
    "id": "github-8",
-   "url": "https://github.com/google/skills",
-   "title": "skills",
-   "content_html": "<p>Agent Skills for Google products and technologies</p>",
-   "date_published": "Fri, 06 Nov 2026 03:20:02 GMT"
+   "url": "https://github.com/prometheus/prometheus",
+   "title": "prometheus",
+   "content_html": "<p>The Prometheus monitoring system and time series database.</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
   },
   {
    "id": "github-9",
-   "url": "https://github.com/vercel-labs/agent-browser",
-   "title": "agent-browser",
-   "content_html": "<p>Browser automation CLI for AI agents</p>",
-   "date_published": "Fri, 06 Nov 2026 03:20:02 GMT"
+   "url": "https://github.com/google/skills",
+   "title": "skills",
+   "content_html": "<p>Agent Skills for Google products and technologies</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
   },
   {
    "id": "github-10",
-   "url": "https://github.com/scenario-labs/skills",
-   "title": "skills",
-   "content_html": "<p>Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.</p>",
-   "date_published": "Fri, 06 Nov 2026 03:20:02 GMT"
+   "url": "https://github.com/microsoft/vscode",
+   "title": "vscode",
+   "content_html": "<p>Visual Studio Code</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
   },
   {
    "id": "github-11",
-   "url": "https://github.com/ConardLi/garden-skills",
-   "title": "garden-skills",
-   "content_html": "<p>ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.</p>",
-   "date_published": "Fri, 06 Nov 2026 03:20:02 GMT"
+   "url": "https://github.com/lz4/lz4",
+   "title": "lz4",
+   "content_html": "<p>Extremely Fast Compression algorithm</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
   },
   {
    "id": "github-12",
-   "url": "https://github.com/microsoft/VibeVoice",
-   "title": "VibeVoice",
-   "content_html": "<p>Open-Source Frontier Voice AI</p>",
-   "date_published": "Fri, 06 Nov 2026 03:20:02 GMT"
+   "url": "https://github.com/nushell/nushell",
+   "title": "nushell",
+   "content_html": "<p>A new type of shell</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
   },
   {
    "id": "github-13",
-   "url": "https://github.com/floci-io/floci",
-   "title": "floci",
-   "content_html": "<p>Light, fluffy, and always free - The AWS Local Emulator alternative</p>",
-   "date_published": "Fri, 06 Nov 2026 03:20:02 GMT"
+   "url": "https://github.com/etcd-io/etcd",
+   "title": "etcd",
+   "content_html": "<p>Distributed reliable key-value store for the most critical data of a distributed system</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
   },
   {
    "id": "github-14",
-   "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-   "title": "DiscImageStudio",
-   "content_html": "<p>DiscImageStudio</p>",
-   "date_published": "Fri, 06 Nov 2026 03:20:02 GMT"
+   "url": "https://github.com/openssl/openssl",
+   "title": "openssl",
+   "content_html": "<p>General purpose TLS and crypto library</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
+  },
+  {
+   "id": "github-15",
+   "url": "https://github.com/mattpocock/skills",
+   "title": "skills",
+   "content_html": "<p>Skills for Real Engineers. Straight from my .agents directory.</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
+  },
+  {
+   "id": "github-16",
+   "url": "https://github.com/cloudflare/security-audit-skill",
+   "title": "security-audit-skill",
+   "content_html": "<p>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
+  },
+  {
+   "id": "github-17",
+   "url": "https://github.com/astral-sh/ruff",
+   "title": "ruff",
+   "content_html": "<p>An extremely fast Python linter and code formatter, written in Rust.</p>",
+   "date_published": "Fri, 06 Nov 2026 11:24:10 GMT"
   }
  ]
 }
