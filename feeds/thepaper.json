@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-06 18:18:43）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-06 23:25:54）",
  "items": [
-  {
-   "id": "thepaper-34418620",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34418620",
-   "title": "国家卫健委原党组成员、国家中医药管理局原局长余艳红主动投案",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793930869225_KM7cFH_1793930869415.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
-  },
   {
    "id": "thepaper-34422015",
    "url": "https://www.thepaper.cn/newsDetail_forward_34422015",
    "title": "霍志静任北京人艺院长，冯远征不再担任",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793966581311_k5DwND_1793966581661.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
-  },
-  {
-   "id": "thepaper-34413309",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34413309",
-   "title": "桥梁｜“5年10万人”新邀约发出，中美“双向奔赴”的桥梁如何越架越宽",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793874186857_H5BRFs_1793874187024.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
-  },
-  {
-   "id": "thepaper-34405636",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34405636",
-   "title": "被误报为严重精神障碍患者后，想退出系统的人",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793797064498_1eGbJN_1793797064682.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
-  },
-  {
-   "id": "thepaper-34418338",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34418338",
-   "title": "言短意长｜这所小学哪来的权力和自信，居然招无薪酬教师",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793926568641_y8mJKS_1793926568838.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
-  },
-  {
-   "id": "thepaper-34341138",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34341138",
-   "title": "地标是如何炼成的｜“百年巨轮”驶入全球视野，武康大楼不止于打卡",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793711115000_ZnYFWm_1793711451248.jpg\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
   },
   {
    "id": "thepaper-34413980",
    "url": "https://www.thepaper.cn/newsDetail_forward_34413980",
    "title": "讲武谈兵｜四川舰首次起降无人机，无人机航母时代来了？",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793879793057_nSC7yw_1793879793206.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
   },
   {
-   "id": "thepaper-34417866",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34417866",
-   "title": "我国科学家造出已知最冷人造物质",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793916442995_hs8trZ_1793916443229.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
+   "id": "thepaper-34418620",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34418620",
+   "title": "国家卫健委原党组成员、国家中医药管理局原局长余艳红主动投案",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793930869225_KM7cFH_1793930869415.png\" />",
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
+  },
+  {
+   "id": "thepaper-34422540",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34422540",
+   "title": "言短意长｜争议延迟上学时间，先要明白教育不是一场比谁起得更早的竞赛",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793969451426_iScEDZ_1793969451603.png\" />",
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
+  },
+  {
+   "id": "thepaper-34405636",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34405636",
+   "title": "被误报为严重精神障碍患者后，想退出系统的人",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793797064498_1eGbJN_1793797064682.png\" />",
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
+  },
+  {
+   "id": "thepaper-34413309",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34413309",
+   "title": "桥梁｜“5年10万人”新邀约发出，中美“双向奔赴”的桥梁如何越架越宽",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793874186857_H5BRFs_1793874187024.png\" />",
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
+  },
+  {
+   "id": "thepaper-34418338",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34418338",
+   "title": "言短意长｜这所小学哪来的权力和自信，居然招无薪酬教师",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793926568641_y8mJKS_1793926568838.png\" />",
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
   },
   {
    "id": "thepaper-34417921",
    "url": "https://www.thepaper.cn/newsDetail_forward_34417921",
    "title": "多地暗藏偷拍女性黑产，央媒：抓早抓小，对违法行径给予最有力回击",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793919872071_kFpY1Y_1793919872366.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
   },
   {
    "id": "thepaper-34418743",
    "url": "https://www.thepaper.cn/newsDetail_forward_34418743",
    "title": "最高检：男子将11岁女童灌醉性侵，被检方监督立案后获刑16年",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793931609300_1pkAM1_1793931609407.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
   },
   {
    "id": "thepaper-34418036",
    "url": "https://www.thepaper.cn/newsDetail_forward_34418036",
    "title": "体坛联播｜热苏斯回应C罗退出国家队，米兰欧联杯爆冷输球",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793921668103_MmnQWP_1793921668238.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
   },
   {
    "id": "thepaper-34420849",
    "url": "https://www.thepaper.cn/newsDetail_forward_34420849",
    "title": "骨折旅客买到中铺，想换下铺未成功？广铁发布情况说明澄清",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793953728730_QkN2rQ_1793953728941.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
   },
   {
    "id": "thepaper-34419605",
    "url": "https://www.thepaper.cn/newsDetail_forward_34419605",
    "title": "马上评｜无薪酬招“跟岗教师”，这所小学的胆子怎么这么大？",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793940090912_aYPzY1_1793940597099.jpg\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
   },
   {
    "id": "thepaper-34420877",
    "url": "https://www.thepaper.cn/newsDetail_forward_34420877",
    "title": "山东临沂一辆理想汽车凌晨冲撞多车和摊位后逃逸，警方已锁定嫌疑人",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793954375411_tpTEbh_1793954375631.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
   },
   {
-   "id": "thepaper-34420064",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34420064",
-   "title": "陕西商南致3死2伤刑案嫌犯孙某军已自杀身亡",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793946076486_WwAkSM_1793946076800.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
+   "id": "thepaper-34421821",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34421821",
+   "title": "深化高水平开放合作，氢能高质量发展驱动全球能源转型",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793962881586_2AG5JC_1793962882052.png\" />",
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
   },
   {
    "id": "thepaper-34422193",
    "url": "https://www.thepaper.cn/newsDetail_forward_34422193",
    "title": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793972333028_wj85tp_1793972333239.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
   },
   {
-   "id": "thepaper-34414686",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34414686",
-   "title": "进博之问｜2000多张“新面孔”，为何第九年才来？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793928350589_MxfnnQ_1793928350802.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
+   "id": "thepaper-34422803",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34422803",
+   "title": "增量资金已入市！6家头部券商今日完成互换便利操作，落地首批股票投资",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793972424643_jrSBix_1793972425131.png\" />",
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
   },
   {
-   "id": "thepaper-34422028",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34422028",
-   "title": "全国人民代表大会常务委员会任命名单",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793967035641_Stkzcs_1793967035855.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
+   "id": "thepaper-34422960",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34422960",
+   "title": "跨国公司为何扎根上海？高管们聊起了这些年在中国的发展",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793973451970_PQnDHD_1793973452183.png\" />",
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
   },
   {
-   "id": "thepaper-34410603",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34410603",
-   "title": "经纬度：进博会何以映照中国式现代化的开放逻辑",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793858813104_m55R37_1793858813326.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
+   "id": "thepaper-34422539",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34422539",
+   "title": "进博观察｜从“展示”到“干活”，人形机器人回到工作场景",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793969301237_XjzCwp_1793969301448.png\" />",
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
   },
   {
-   "id": "thepaper-34418474",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34418474",
-   "title": "反跨境腐败法表决通过",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793929395657_3j26Wp_1793929395804.png\" />",
-   "date_published": "Fri, 06 Nov 2026 18:18:43 GMT"
+   "id": "thepaper-34422851",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34422851",
+   "title": "先创业后离职，口述配方指导生产，新宙邦前高管侵犯商业秘密：赔偿2000万后被判刑",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793972977646_WMXhjB_1793972977997.png\" />",
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
+  },
+  {
+   "id": "thepaper-34423137",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34423137",
+   "title": "小米成立中国区公关部，360原公关副总裁张永生任总经理",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793975696217_sM3Xak_1793975696414.png\" />",
+   "date_published": "Fri, 06 Nov 2026 23:25:54 GMT"
   }
  ]
 }

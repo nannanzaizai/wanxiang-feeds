@@ -1,8 +1,8 @@
 {
  "version": "https://jsonfeed.org/version/1.1",
  "title": "万象热榜索引",
- "generated_at": "2026-11-06 18:18:44",
- "total_items": 508,
+ "generated_at": "2026-11-06 23:25:54",
+ "total_items": 506,
  "feeds": [
   {
    "platform": "zhihu",
@@ -10,7 +10,7 @@
    "items": 30,
    "thumbs": 25,
    "file": "zhihu.json",
-   "bytes": 31067,
+   "bytes": 36472,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -20,7 +20,7 @@
    "items": 52,
    "thumbs": 0,
    "file": "weibo.json",
-   "bytes": 19825,
+   "bytes": 19778,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -30,7 +30,7 @@
    "items": 100,
    "thumbs": 100,
    "file": "bilibili.json",
-   "bytes": 47215,
+   "bytes": 46794,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -40,17 +40,17 @@
    "items": 50,
    "thumbs": 50,
    "file": "toutiao.json",
-   "bytes": 24415,
+   "bytes": 24374,
    "img_fixed": 0,
    "img_dropped": 0
   },
   {
    "platform": "douyin",
    "name": "抖音热榜",
-   "items": 50,
+   "items": 49,
    "thumbs": 0,
    "file": "douyin.json",
-   "bytes": 12459,
+   "bytes": 12216,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -60,17 +60,17 @@
    "items": 50,
    "thumbs": 0,
    "file": "juejin.json",
-   "bytes": 17227,
+   "bytes": 17163,
    "img_fixed": 0,
    "img_dropped": 0
   },
   {
    "platform": "github",
    "name": "GitHub Trending",
-   "items": 18,
+   "items": 17,
    "thumbs": 0,
    "file": "github.json",
-   "bytes": 4666,
+   "bytes": 4457,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -90,7 +90,7 @@
    "items": 50,
    "thumbs": 50,
    "file": "36kr.json",
-   "bytes": 22119,
+   "bytes": 22267,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -110,15 +110,15 @@
    "items": 20,
    "thumbs": 20,
    "file": "thepaper.json",
-   "bytes": 7474,
+   "bytes": 7680,
    "img_fixed": 0,
    "img_dropped": 0
   }
  ],
  "merged": {
   "file": "all.json",
-  "items": 501,
-  "bytes": 248282,
+  "items": 499,
+  "bytes": 252901,
   "platforms": 11
  }
 }
