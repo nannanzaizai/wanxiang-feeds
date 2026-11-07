@@ -2,126 +2,126 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-11-06 23:25:48）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-11-07 03:05:52）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/zed-industries/zed",
    "title": "zed",
    "content_html": "<p>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/NVIDIA/auto-ontology",
    "title": "auto-ontology",
    "content_html": "<p>Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/rails/rails",
    "title": "rails",
    "content_html": "<p>Ruby on Rails</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/mpv-player/mpv",
    "title": "mpv",
    "content_html": "<p>🎥 Command line media player</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/rust-lang/rust",
    "title": "rust",
    "content_html": "<p>Empowering everyone to build reliable and efficient software.</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/react/react",
    "title": "react",
    "content_html": "<p>The library for web and native user interfaces.</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/angular/angular",
    "title": "angular",
    "content_html": "<p>Deliver web apps with confidence 🚀</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/symfony/symfony",
    "title": "symfony",
    "content_html": "<p>The Symfony PHP framework</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/prometheus/prometheus",
    "title": "prometheus",
    "content_html": "<p>The Prometheus monitoring system and time series database.</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   },
   {
    "id": "github-9",
    "url": "https://github.com/google/skills",
    "title": "skills",
    "content_html": "<p>Agent Skills for Google products and technologies</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   },
   {
    "id": "github-10",
    "url": "https://github.com/microsoft/vscode",
    "title": "vscode",
    "content_html": "<p>Visual Studio Code</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   },
   {
    "id": "github-11",
    "url": "https://github.com/nushell/nushell",
    "title": "nushell",
    "content_html": "<p>A new type of shell</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   },
   {
    "id": "github-12",
    "url": "https://github.com/etcd-io/etcd",
    "title": "etcd",
    "content_html": "<p>Distributed reliable key-value store for the most critical data of a distributed system</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   },
   {
    "id": "github-13",
    "url": "https://github.com/openssl/openssl",
    "title": "openssl",
    "content_html": "<p>General purpose TLS and crypto library</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   },
   {
    "id": "github-14",
    "url": "https://github.com/mattpocock/skills",
    "title": "skills",
    "content_html": "<p>Skills for Real Engineers. Straight from my .agents directory.</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   },
   {
    "id": "github-15",
    "url": "https://github.com/cloudflare/security-audit-skill",
    "title": "security-audit-skill",
    "content_html": "<p>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   },
   {
    "id": "github-16",
    "url": "https://github.com/astral-sh/ruff",
    "title": "ruff",
    "content_html": "<p>An extremely fast Python linter and code formatter, written in Rust.</p>",
-   "date_published": "Fri, 06 Nov 2026 23:25:48 GMT"
+   "date_published": "Sat, 07 Nov 2026 03:05:52 GMT"
   }
  ]
 }
