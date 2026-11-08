@@ -1,16 +1,16 @@
 {
  "version": "https://jsonfeed.org/version/1.1",
  "title": "万象热榜索引",
- "generated_at": "2026-11-08 18:19:32",
- "total_items": 433,
+ "generated_at": "2026-11-08 22:23:19",
+ "total_items": 473,
  "feeds": [
   {
    "platform": "zhihu",
    "name": "知乎热榜",
    "items": 30,
-   "thumbs": 29,
+   "thumbs": 27,
    "file": "zhihu.json",
-   "bytes": 51745,
+   "bytes": 48348,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -20,7 +20,7 @@
    "items": 51,
    "thumbs": 0,
    "file": "weibo.json",
-   "bytes": 19236,
+   "bytes": 19638,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -30,7 +30,7 @@
    "items": 100,
    "thumbs": 100,
    "file": "bilibili.json",
-   "bytes": 49196,
+   "bytes": 49463,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -40,7 +40,7 @@
    "items": 50,
    "thumbs": 50,
    "file": "toutiao.json",
-   "bytes": 24357,
+   "bytes": 24386,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -50,7 +50,7 @@
    "items": 50,
    "thumbs": 0,
    "file": "douyin.json",
-   "bytes": 12423,
+   "bytes": 12405,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -60,7 +60,7 @@
    "items": 50,
    "thumbs": 0,
    "file": "juejin.json",
-   "bytes": 18249,
+   "bytes": 18165,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -73,6 +73,16 @@
    "bytes": 2860,
    "img_fixed": 0,
    "img_dropped": 0
+  },
+  {
+   "platform": "sspai",
+   "name": "少数派热门",
+   "items": 40,
+   "thumbs": 0,
+   "file": "sspai.json",
+   "bytes": 16685,
+   "img_fixed": 0,
+   "img_dropped": 40
   },
   {
    "platform": "36kr",
@@ -90,7 +100,7 @@
    "items": 48,
    "thumbs": 48,
    "file": "ithome.json",
-   "bytes": 19373,
+   "bytes": 19348,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -100,7 +110,7 @@
    "items": 20,
    "thumbs": 20,
    "file": "thepaper.json",
-   "bytes": 7672,
+   "bytes": 7610,
    "img_fixed": 0,
    "img_dropped": 0
   }
@@ -108,7 +118,7 @@
  "merged": {
   "file": "all.json",
   "items": 468,
-  "bytes": 257757,
+  "bytes": 254649,
   "platforms": 11
  }
 }
