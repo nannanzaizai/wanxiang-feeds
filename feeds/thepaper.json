@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-08 05:38:28）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-08 13:07:46）",
  "items": [
-  {
-   "id": "thepaper-34427295",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34427295",
-   "title": "47岁外卖员在澳洲遇害，其妻称为攒钱丈夫已9年未回国，51岁嫌疑男子已被抓获",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794034476725_nc225e_1794034476948.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
-  },
-  {
-   "id": "thepaper-34426536",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34426536",
-   "title": "马上评｜从这个“首次”看中国航天的大国担当",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794027515604_hNZ8aE_1794027515782.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
-  },
-  {
-   "id": "thepaper-34427916",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34427916",
-   "title": "平均成功率91%！苹果披露机器人“大脑”进展，调用千问模型在宇树G1上验证",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794042101731_tzBn3K_1794042101966.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
-  },
   {
    "id": "thepaper-34411862",
    "url": "https://www.thepaper.cn/newsDetail_forward_34411862",
    "title": "【记者节献词】功夫在诗外",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793950082560_y83YEM_1793950082743.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
   },
   {
    "id": "thepaper-34431072",
    "url": "https://www.thepaper.cn/newsDetail_forward_34431072",
    "title": "澎湃新闻《起底假院士、假参事、假外交官系列报道》等2件作品获第36届中国新闻奖",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794099302929_6An8fz_1794099303140.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
   },
   {
-   "id": "thepaper-34427397",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34427397",
-   "title": "河北保定通报“桥体脱落事故”：4人受伤，其中2名施工人员伤势较重",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794036787441_5Wecyy_1794036787632.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
+   "id": "thepaper-34431479",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34431479",
+   "title": "最后一位开国将军王扶之逝世",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794105218564_PdNNRC_1794105218756.png\" />",
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
   },
   {
-   "id": "thepaper-34427663",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34427663",
-   "title": "三丽鸥再回应终止《VIVANT》联名产品：如果会让中国消费者难过就不该做",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794039398420_tbnsYZ_1794039398660.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
+   "id": "thepaper-34430071",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34430071",
+   "title": "新闻周刊丨22件演出服满身污渍穿完就退，仅退款“白嫖”乱象如何治理？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794077497370_P2dmpe_1794077497626.png\" />",
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
+  },
+  {
+   "id": "thepaper-34425619",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34425619",
+   "title": "养老金“水桶在漏，龙头在关”：高福利欧洲陷入代际博弈，多国压力共振",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794014388501_8fDf3G_1794014388635.png\" />",
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
   },
   {
    "id": "thepaper-34428370",
    "url": "https://www.thepaper.cn/newsDetail_forward_34428370",
    "title": "明查｜“美国加州允许多人婚姻”系误读，地方“多伴侣关系”条例只保护探视、租房等权益",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794045242816_2dMFaS_1794045243156.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
   },
   {
    "id": "thepaper-34429009",
    "url": "https://www.thepaper.cn/newsDetail_forward_34429009",
    "title": "刘萧旭独角戏上海首演，在全场欢呼声中跪地谢幕",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794055928553_3rTYaW_1794055928776.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
   },
   {
-   "id": "thepaper-34428827",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34428827",
-   "title": "男子被扇9次耳光急性脑梗死入院、昏迷14个月后离世，雇主被判赔偿70%",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794050475520_Ytestj_1794050475742.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
+   "id": "thepaper-34432515",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34432515",
+   "title": "“戴上推不倒”的智能指环引争议，产品多平台下架，客服：暂无库存，平衡仅为辅助作用",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794124408000_KfErMY_1794124439568.png\" />",
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
   },
   {
-   "id": "thepaper-34427670",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34427670",
-   "title": "联合国开发署署长答澎湃：设立上海中心的目标是“分享中国发展的成功经验”",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794040471384_AX4XPE_1794040471706.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
+   "id": "thepaper-34429832",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34429832",
+   "title": "温瑞博无缘法兰克福冠军赛四强，国乒男单本站全军覆没",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794067115695_N2E1XM_1794067115966.png\" />",
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
   },
   {
-   "id": "thepaper-34428369",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34428369",
-   "title": "华人骑手在墨尔本遇害，中方与当地州长紧急通话要求公正处理此案",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794045763002_CFi1wQ_1794045763212.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
+   "id": "thepaper-34431066",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34431066",
+   "title": "带六名格斗冠军上岗？特朗普让UFC总裁当白宫新闻秘书遭拒",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794097908537_Q3SiMh_1794097908728.png\" />",
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
   },
   {
-   "id": "thepaper-34428591",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34428591",
-   "title": "大风寒潮暴雪暴雨四预警齐发！8省份有大到暴雪，局地特大暴雪",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794046762441_p8y675_1794046762764.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
+   "id": "thepaper-34433138",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34433138",
+   "title": "大连英博队获2026赛季中超联赛冠军",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794130182081_31eXFe_1794130182333.png\" />",
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
   },
   {
    "id": "thepaper-34428592",
    "url": "https://www.thepaper.cn/newsDetail_forward_34428592",
    "title": "与中国打交道近半个世纪的瑞士人，在进博会上看什么？",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794047878975_A7nZpQ_1794047879206.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
   },
   {
    "id": "thepaper-34429008",
    "url": "https://www.thepaper.cn/newsDetail_forward_34429008",
    "title": "海军首批舰载机女飞行学员结业赴一线部队",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794055663213_GJnJ8M_1794055663412.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
   },
   {
    "id": "thepaper-34429587",
    "url": "https://www.thepaper.cn/newsDetail_forward_34429587",
    "title": "重大革命题材电视剧《伟大的长征》创作座谈会在京召开",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794063061897_7HhAPw_1794063062150.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
+  },
+  {
+   "id": "thepaper-34425227",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34425227",
+   "title": "进博之问｜全球创新成果，如何抵达具体的人？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794041747292_RdNMcE_1794043399385.jpg\" />",
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
+  },
+  {
+   "id": "thepaper-34431947",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34431947",
+   "title": "“11块钱买房”噱头叫停，背后的鹤岗正悄然转型",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794111380031_z2Qc3H_1794111380266.png\" />",
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
   },
   {
    "id": "thepaper-34429227",
    "url": "https://www.thepaper.cn/newsDetail_forward_34429227",
    "title": "南京一医生被刺伤身亡系谣言",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794057209555_G6Nks2_1794057209751.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
   },
   {
-   "id": "thepaper-34427437",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34427437",
-   "title": "履新福建省代省长后，郭宁宁首次调研来到厦门",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794037314742_rMNFQc_1794037315063.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
-  },
-  {
-   "id": "thepaper-34427376",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34427376",
-   "title": "河北保定通报桥体脱落事故：造成3名施工人员、1名货车司机受伤",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794035729171_TaWQZk_1794035729343.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
+   "id": "thepaper-34431407",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34431407",
+   "title": "中组部负责人就党的二十一大代表选举工作答记者问",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794103692867_5nitQw_1794103693013.png\" />",
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
   },
   {
    "id": "thepaper-34429990",
    "url": "https://www.thepaper.cn/newsDetail_forward_34429990",
    "title": "让甲骨文、边疆史研究等得以延续，全国冷门绝学联盟启动建设",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794072182483_bz3RZZ_1794072182688.png\" />",
-   "date_published": "Sun, 08 Nov 2026 05:38:28 GMT"
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
+  },
+  {
+   "id": "thepaper-34428612",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34428612",
+   "title": "一名携枪男子在白宫附近被捕，嫌疑人自称前来行刺特朗普",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794048530926_fCGXEN_1794048531226.png\" />",
+   "date_published": "Sun, 08 Nov 2026 13:07:46 GMT"
   }
  ]
 }

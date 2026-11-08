@@ -2,112 +2,70 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-11-08 05:38:20）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-11-08 13:07:38）",
  "items": [
   {
    "id": "github-0",
-   "url": "https://github.com/vercel-labs/agent-browser",
-   "title": "agent-browser",
-   "content_html": "<p>Browser automation CLI for AI agents</p>",
-   "date_published": "Sun, 08 Nov 2026 05:38:20 GMT"
+   "url": "https://github.com/sherlock-project/sherlock",
+   "title": "sherlock",
+   "content_html": "<p>Hunt down social media accounts by username across social networks</p>",
+   "date_published": "Sun, 08 Nov 2026 13:07:38 GMT"
   },
   {
    "id": "github-1",
-   "url": "https://github.com/cloudflare/security-audit-skill",
-   "title": "security-audit-skill",
-   "content_html": "<p>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings</p>",
-   "date_published": "Sun, 08 Nov 2026 05:38:20 GMT"
+   "url": "https://github.com/dsx-ai-factory/nvke",
+   "title": "nvke",
+   "content_html": "<p>NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.</p>",
+   "date_published": "Sun, 08 Nov 2026 13:07:38 GMT"
   },
   {
    "id": "github-2",
-   "url": "https://github.com/google/skills",
-   "title": "skills",
-   "content_html": "<p>Agent Skills for Google products and technologies</p>",
-   "date_published": "Sun, 08 Nov 2026 05:38:20 GMT"
+   "url": "https://github.com/milind-soni/OpenMausBot",
+   "title": "OpenMausBot",
+   "content_html": "<p>Open-source Grok Bot alternative with a virtual machine that bots can use</p>",
+   "date_published": "Sun, 08 Nov 2026 13:07:38 GMT"
   },
   {
    "id": "github-3",
-   "url": "https://github.com/mattpocock/skills",
-   "title": "skills",
-   "content_html": "<p>Skills for Real Engineers. Straight from my .agents directory.</p>",
-   "date_published": "Sun, 08 Nov 2026 05:38:20 GMT"
+   "url": "https://github.com/anthropics/claude-quickstarts",
+   "title": "claude-quickstarts",
+   "content_html": "<p>A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API</p>",
+   "date_published": "Sun, 08 Nov 2026 13:07:38 GMT"
   },
   {
    "id": "github-4",
-   "url": "https://github.com/anthropics/skills",
-   "title": "skills",
-   "content_html": "<p>Public repository for Agent Skills</p>",
-   "date_published": "Sun, 08 Nov 2026 05:38:20 GMT"
+   "url": "https://github.com/vercel-labs/agent-browser",
+   "title": "agent-browser",
+   "content_html": "<p>Browser automation CLI for AI agents</p>",
+   "date_published": "Sun, 08 Nov 2026 13:07:38 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/meta/astryx",
    "title": "astryx",
    "content_html": "<p>An open source design system that's fully customizable and agent ready</p>",
-   "date_published": "Sun, 08 Nov 2026 05:38:20 GMT"
+   "date_published": "Sun, 08 Nov 2026 13:07:38 GMT"
   },
   {
    "id": "github-6",
-   "url": "https://github.com/prometheus/prometheus",
-   "title": "prometheus",
-   "content_html": "<p>The Prometheus monitoring system and time series database.</p>",
-   "date_published": "Sun, 08 Nov 2026 05:38:20 GMT"
+   "url": "https://github.com/anthropics/skills",
+   "title": "skills",
+   "content_html": "<p>Public repository for Agent Skills</p>",
+   "date_published": "Sun, 08 Nov 2026 13:07:38 GMT"
   },
   {
    "id": "github-7",
-   "url": "https://github.com/sherlock-project/sherlock",
-   "title": "sherlock",
-   "content_html": "<p>Hunt down social media accounts by username across social networks</p>",
-   "date_published": "Sun, 08 Nov 2026 05:38:20 GMT"
+   "url": "https://github.com/google-deepmind/mujoco",
+   "title": "mujoco",
+   "content_html": "<p>Multi-Joint dynamics with Contact. A general purpose physics simulator.</p>",
+   "date_published": "Sun, 08 Nov 2026 13:07:38 GMT"
   },
   {
    "id": "github-8",
-   "url": "https://github.com/milind-soni/OpenMausBot",
-   "title": "OpenMausBot",
-   "content_html": "<p>Open-source Grok Bot alternative with a virtual machine that bots can use</p>",
-   "date_published": "Sun, 08 Nov 2026 05:38:20 GMT"
-  },
-  {
-   "id": "github-9",
-   "url": "https://github.com/astral-sh/ruff",
-   "title": "ruff",
-   "content_html": "<p>An extremely fast Python linter and code formatter, written in Rust.</p>",
-   "date_published": "Sun, 08 Nov 2026 05:38:20 GMT"
-  },
-  {
-   "id": "github-10",
-   "url": "https://github.com/tailwindlabs/tailwindcss",
-   "title": "tailwindcss",
-   "content_html": "<p>A utility-first CSS framework for rapid UI development.</p>",
-   "date_published": "Sun, 08 Nov 2026 05:38:20 GMT"
-  },
-  {
-   "id": "github-11",
-   "url": "https://github.com/mbillow/localthings",
-   "title": "localthings",
-   "content_html": "<p>Control your Samsung appliances from Home Assistant over your home network, with no cloud account.</p>",
-   "date_published": "Sun, 08 Nov 2026 05:38:20 GMT"
-  },
-  {
-   "id": "github-12",
-   "url": "https://github.com/zed-industries/zed",
-   "title": "zed",
-   "content_html": "<p>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</p>",
-   "date_published": "Sun, 08 Nov 2026 05:38:20 GMT"
-  },
-  {
-   "id": "github-13",
    "url": "https://github.com/ranxianglei/billion-context",
    "title": "billion-context",
    "content_html": "<p>A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need</p>",
-   "date_published": "Sun, 08 Nov 2026 05:38:20 GMT"
-  },
-  {
-   "id": "github-14",
-   "url": "https://github.com/dsx-ai-factory/nvke",
-   "title": "nvke",
-   "content_html": "<p>NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.</p>",
-   "date_published": "Sun, 08 Nov 2026 05:38:20 GMT"
+   "date_published": "Sun, 08 Nov 2026 13:07:38 GMT"
   }
  ]
 }
