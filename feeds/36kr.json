@@ -2,182 +2,301 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "36氪",
  "home_page_url": "https://m.36kr.com/hot-list-m",
- "description": "36氪热榜（via DailyHotApi · 生成于 2026-11-08 22:23:16）",
+ "description": "36氪热榜（via DailyHotApi · 生成于 2026-11-09 01:53:31）",
  "items": [
   {
-   "id": "36kr-4059436619846784",
-   "url": "https://www.36kr.com/p/4059436619846784",
-   "title": "乌兰察布，才是AI数据中心的正确答案？",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261107/v2_cae367ec4f024b2e8d26700903a4229b@000000@ai_oswg708342oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
-  },
-  {
-   "id": "36kr-4060386455443330",
-   "url": "https://www.36kr.com/p/4060386455443330",
-   "title": "专访《持械入宋》主创 ：非科班，无投流，草根团队如何做出120亿品质爆款？",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_cc8da1b6a1e7438ba86b3461fad8eb8d@000000_oswg121625oswg1280oswg545_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
-  },
-  {
-   "id": "36kr-4060425293501314",
-   "url": "https://www.36kr.com/p/4060425293501314",
-   "title": "奥特曼最新访谈：顶尖人才，3个基本特质",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_27f385b274bf4dae8002fd5495ec5e75@000000_oswg45410oswg1024oswg435_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "id": "36kr-4061760472585347",
+   "url": "https://www.36kr.com/p/4061760472585347",
+   "title": "8点1氪丨黄仁勋发布全员信承认婚外情；比亚迪高管回应收购玛莎拉蒂传闻；Anthropic估值被砍至1.2万亿至1.3万亿美元",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261109/v2_2cd24e9412014fb0bb90d4b08bf95c0c@1200352198_oswg82784oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
    "id": "36kr-4060438177698692",
    "url": "https://www.36kr.com/p/4060438177698692",
    "title": "爆火的《持械入宋》里，AI  找到了爱它的观众",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_514d2d6417b24f56ad51ff90b4e77b6c@000000_oswg151028oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
-  },
-  {
-   "id": "36kr-4060850581886088",
-   "url": "https://www.36kr.com/p/4060850581886088",
-   "title": "“厉娜，涨了200亿”",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_6b7c63db204d441686aad8eee8e19baf@000000@ai_oswg636511oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
-  },
-  {
-   "id": "36kr-4060416568529798",
-   "url": "https://www.36kr.com/p/4060416568529798",
-   "title": "一斤价格“堪比十斤猪肉”，疯涨的开心果让我不开心了",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_7f1eb144f21b45a1982843d4cc627886@000000@ai_oswg803214oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
    "id": "36kr-4060672855757954",
    "url": "https://www.36kr.com/p/4060672855757954",
    "title": "九成代码AI写，谁来审？Claude Code亮出6道关卡！",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_d331656ed6fd4e8aaa2ecc2154bd1e00@000000@ai_oswg1075368oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4060850581886088",
+   "url": "https://www.36kr.com/p/4060850581886088",
+   "title": "“厉娜，涨了200亿”",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_6b7c63db204d441686aad8eee8e19baf@000000@ai_oswg636511oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4061179656606601",
+   "url": "https://www.36kr.com/p/4061179656606601",
+   "title": "车载洗脚盆又来了，新能源到底还能多离谱？",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_ea57a9ffc108430a8091c45a13ae50fa@000000@ai_oswg764865oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
    "id": "36kr-4060419503921026",
    "url": "https://www.36kr.com/p/4060419503921026",
    "title": "百度第三次改搜索框",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_dfe19afdf590450b8a2f273d158d561a@000000_oswg79517oswg1170oswg499_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
    "id": "36kr-4060592010515333",
    "url": "https://www.36kr.com/p/4060592010515333",
    "title": "别再拿《影之刃零》对比《黑神话》了",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_5c36649f80724b5db6bab9ffdc66fc19@000000@ai_oswg672952oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
-   "id": "36kr-4060438142964866",
-   "url": "https://www.36kr.com/p/4060438142964866",
-   "title": "古茗半天售罄、20+品牌上新，青苹果要成新顶流？",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_eecd15ea11174df695a3db8767b16d13@000000@ai_oswg651036oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "id": "36kr-4059618356089985",
+   "url": "https://www.36kr.com/p/4059618356089985",
+   "title": "无预警，OpenAI 突然大规模封号",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261107/v2_ee8793535a8c40889af52b8ab54f9c6f@000000@ai_oswg860486oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4060105468876421",
+   "url": "https://www.36kr.com/p/4060105468876421",
+   "title": "刘强东做外卖的真正算盘浮出水面了",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_4caaf912a95e4f05baf80f960408e90d@1743780481@ai_oswg848991oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
    "id": "36kr-4055180749198208",
    "url": "https://www.36kr.com/p/4055180749198208",
    "title": "运动市场，打到骨折",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261104/v2_6b6bc1001d1e4530b00dee52fd4f72e0@5922386_oswg697797oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
-   "id": "36kr-4060648947831682",
-   "url": "https://www.36kr.com/p/4060648947831682",
-   "title": "嗑爽许飞厉娜后，我更共情“友无能”的马天宇",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_4965a1a53f834ca7b013bbceb3b47dc7@000000@ai_oswg852117oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
-  },
-  {
-   "id": "36kr-4059703122482055",
-   "url": "https://www.36kr.com/p/4059703122482055",
-   "title": "负债超8亿，曾是SHEIN最大对手，“网红”跨境电商巨头破产",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261107/v2_9138c9f1d3f7434fb2529badad810b5a@000000@ai_oswg1452117oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
-  },
-  {
-   "id": "36kr-4060696576038533",
-   "url": "https://www.36kr.com/p/4060696576038533",
-   "title": "MiniMax怎样实现AGI？闫俊杰的办法是抄“后”路",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_d118553c6917452899162e6218372e9a@000000_oswg29559oswg940oswg399_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "id": "36kr-4060438142964866",
+   "url": "https://www.36kr.com/p/4060438142964866",
+   "title": "古茗半天售罄、20+品牌上新，青苹果要成新顶流？",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_eecd15ea11174df695a3db8767b16d13@000000@ai_oswg651036oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
    "id": "36kr-4060707751826311",
    "url": "https://www.36kr.com/p/4060707751826311",
    "title": "GPT-6之后，具身大模型画地为牢！明年自研预算估计悬了",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_7eb18c2e5b364cea90b624618f4f6374@000000@ai_oswg757457oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4060648947831682",
+   "url": "https://www.36kr.com/p/4060648947831682",
+   "title": "嗑爽许飞厉娜后，我更共情“友无能”的马天宇",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_4965a1a53f834ca7b013bbceb3b47dc7@000000@ai_oswg852117oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4060696576038533",
+   "url": "https://www.36kr.com/p/4060696576038533",
+   "title": "MiniMax怎样实现AGI？闫俊杰的办法是抄“后”路",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_d118553c6917452899162e6218372e9a@000000_oswg29559oswg940oswg399_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4059703122482055",
+   "url": "https://www.36kr.com/p/4059703122482055",
+   "title": "负债超8亿，曾是SHEIN最大对手，“网红”跨境电商巨头破产",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261107/v2_9138c9f1d3f7434fb2529badad810b5a@000000@ai_oswg1452117oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
    "id": "36kr-4060864813667207",
    "url": "https://www.36kr.com/p/4060864813667207",
    "title": "越赚钱越跌！又一被错杀的赛道",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_996e0b845e434b93a0422dd11bf0df03@000000@ai_oswg1079173oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4061773557044869",
+   "url": "https://www.36kr.com/p/4061773557044869",
+   "title": "旁观者张朝阳",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261109/v2_8cf7d356716243928f39889d82026421@000000_oswg58515oswg1024oswg436_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
    "id": "36kr-4060397511464833",
    "url": "https://www.36kr.com/p/4060397511464833",
    "title": "苹果史上最好财报，却被内存拖住了后腿",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_233b91eab0764eae9b57989bc86540e6@000000_oswg47061oswg1280oswg545_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
    "id": "36kr-4060836631991432",
    "url": "https://www.36kr.com/p/4060836631991432",
    "title": "暴涨200亿！硬刚短剧的“综艺之神”，靠邪修挣回体面",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_26e2ba3637d842c0938e2d2da114a243@000000@ai_oswg667932oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
-  },
-  {
-   "id": "36kr-4060589261854592",
-   "url": "https://www.36kr.com/p/4060589261854592",
-   "title": "AMD的CPU时代，正在「落幕」",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_1877c2b81eb74984b890fd5a738725ef@000000_oswg53883oswg1024oswg436_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
    "id": "36kr-4060588343825282",
    "url": "https://www.36kr.com/p/4060588343825282",
    "title": "GPT-6.1 Sol参与活体大脑手术！三轮定位，一次比一次准",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_0c37a96678254b6cb72fe5c11cba014d@000000@ai_oswg715290oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
-   "id": "36kr-4059705362715525",
-   "url": "https://www.36kr.com/p/4059705362715525",
-   "title": "回访那些赞助苏超的小店：一个赛季下来，生意火了吗？",
-   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261107/v2_e53ebda5c47f47c685fab06601eab3a8@000000@ai_oswg879938oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "id": "36kr-4061782055752836",
+   "url": "https://www.36kr.com/p/4061782055752836",
+   "title": "美国人正在反抗，用史无前例的行动抵制AI",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261109/v2_d89fc6216a3a4c0f885af64a3518f75a@000000_oswg96060oswg898oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4060589261854592",
+   "url": "https://www.36kr.com/p/4060589261854592",
+   "title": "AMD的CPU时代，正在「落幕」",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_1877c2b81eb74984b890fd5a738725ef@000000_oswg53883oswg1024oswg436_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4061131778806921",
+   "url": "https://www.36kr.com/p/4061131778806921",
+   "title": "一个月73.8亿次提交，GitHub被AI代码挤爆，增配400万核还不够",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_cc068b3fbf0a4f8c95848f89ec431d27@000000@ai_oswg1089799oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
    "id": "36kr-4060533056508801",
    "url": "https://www.36kr.com/p/4060533056508801",
    "title": "复旦校友杀疯：拿下Meta战略掌舵人",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_d3b422b6e83740199237fdc33bb79b15@000000@ai_oswg985369oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4060973603885961",
+   "url": "https://www.36kr.com/p/4060973603885961",
+   "title": "为什么「小电驴」也卖不动了",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_83ea477dec3f477bb2fe78216b9a3ac9@000000@ai_oswg748110oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4059705362715525",
+   "url": "https://www.36kr.com/p/4059705362715525",
+   "title": "回访那些赞助苏超的小店：一个赛季下来，生意火了吗？",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261107/v2_e53ebda5c47f47c685fab06601eab3a8@000000@ai_oswg879938oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
    "id": "36kr-4061122755941249",
    "url": "https://www.36kr.com/p/4061122755941249",
    "title": "一场比赛，两种收成：多多农研科技大赛这6年",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_cace53e008ac4989aa3c4c5eb6e6dca0@39566_oswg97524oswg1053oswg495_img_jpeg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4060867128480904",
+   "url": "https://www.36kr.com/p/4060867128480904",
+   "title": "那个玩够了的游戏少年，干出个万亿巨头",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_8d55512369084adc94f54b517753e0cd@000000@ai_oswg935483oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4061120769037193",
+   "url": "https://www.36kr.com/p/4061120769037193",
+   "title": "爱喝“大水”的年轻人，捧红一瓶小众饮料，有商家年销4亿",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_d3b2cac3b9134cc3966e1ec15c1c9c13@000000@ai_oswg1061072oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4061148391101313",
+   "url": "https://www.36kr.com/p/4061148391101313",
+   "title": "涌入半导体的年轻人：两年红利，抵别人一辈子",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_d2728d71b5714c5eb808cf8a52d205d5@000000@ai_oswg786706oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
    "id": "36kr-4060716127933313",
    "url": "https://www.36kr.com/p/4060716127933313",
    "title": "爱的等级体系中，我们终于看到友情，厉娜",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_89352cfb1f1748b8ba5e51900d210506@000000@ai_oswg800304oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4061131760669575",
+   "url": "https://www.36kr.com/p/4061131760669575",
+   "title": "小心，Claude Code会擅自泄露你的邮箱，请抓紧时间更新",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_037611c952ab4e4dbf12284b59c6694e@1743780481@ai_oswg853576oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   },
   {
    "id": "36kr-4060658135487624",
    "url": "https://www.36kr.com/p/4060658135487624",
    "title": "Q3净利润大跌28%，伯克希尔反手砸96亿回购",
    "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_fe84ec59520d4429a925b9f76330221e@000000@ai_oswg868791oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
-   "date_published": "Sun, 08 Nov 2026 22:23:16 GMT"
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4061148496041097",
+   "url": "https://www.36kr.com/p/4061148496041097",
+   "title": "马斯克：顶尖高手，拼的是思维方式和心力",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_06fb9209928b4087931aeb456cb99fc3@000000@ai_oswg767712oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4061092152579207",
+   "url": "https://www.36kr.com/p/4061092152579207",
+   "title": "短短几天破100万：“1个人+AI”赚爆了",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_4ea327c91c9941589c500c4cdff495ab@000000@ai_oswg1166523oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4060932820964224",
+   "url": "https://www.36kr.com/p/4060932820964224",
+   "title": "AI都这么能干了，为什么上班还是这么累？",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_6da3f2a1163b4972b128021ec4ebc162@000000@ai_oswg818433oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4060588302029697",
+   "url": "https://www.36kr.com/p/4060588302029697",
+   "title": "ICLR 2027首轮评审，槽点有点多",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_f2b9b0a8f9fd4488a35000c051d30171@000000@ai_oswg695331oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4061095125259144",
+   "url": "https://www.36kr.com/p/4061095125259144",
+   "title": "这个小老板，把大连足球救成了冠军",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_bbb427f97f144497ab0076f40696dd73@000000@ai_oswg1067961oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4060549745546116",
+   "url": "https://www.36kr.com/p/4060549745546116",
+   "title": "先进封装扩产潮，还差哪些？",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_cb1b3217b09f4993b45bbfc4b572f028@000000@ai_oswg882576oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4060442678957190",
+   "url": "https://www.36kr.com/p/4060442678957190",
+   "title": "FD-SOI，挑战7nm，凭啥？",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261108/v2_18742d1927cc4a9499b64b369131e5c3@000000@ai_oswg893547oswg2048oswg2048_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4059690635728003",
+   "url": "https://www.36kr.com/p/4059690635728003",
+   "title": "未来属于命运，过去属于自己：一个古罗马哲学家的投资启示录",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261107/v2_eda443cbedb14cb2abd95b788cf7f850@000000@ai_oswg719806oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
+  },
+  {
+   "id": "36kr-4061852643775360",
+   "url": "https://www.36kr.com/p/4061852643775360",
+   "title": "联友科技高亮：我们还在探讨设置墨西哥、泰国据点| 最前线",
+   "content_html": "<img src=\"https://img.36krcdn.com/hsossms/20261109/v2_f841471f23f843c684f5bd7e161cb31d@6215398_oswg738803oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center\" />",
+   "date_published": "Mon, 09 Nov 2026 01:53:31 GMT"
   }
  ]
 }
