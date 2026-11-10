@@ -2,84 +2,91 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-11-10 02:38:06）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-11-10 10:56:27）",
  "items": [
   {
    "id": "github-0",
-   "url": "https://github.com/anthropics/skills",
-   "title": "skills",
-   "content_html": "<p>Public repository for Agent Skills</p>",
-   "date_published": "Tue, 10 Nov 2026 02:38:06 GMT"
-  },
-  {
-   "id": "github-1",
    "url": "https://github.com/meta/astryx",
    "title": "astryx",
    "content_html": "<p>An open source design system that's fully customizable and agent ready</p>",
-   "date_published": "Tue, 10 Nov 2026 02:38:06 GMT"
+   "date_published": "Tue, 10 Nov 2026 10:56:27 GMT"
+  },
+  {
+   "id": "github-1",
+   "url": "https://github.com/anthropics/skills",
+   "title": "skills",
+   "content_html": "<p>Public repository for Agent Skills</p>",
+   "date_published": "Tue, 10 Nov 2026 10:56:27 GMT"
   },
   {
    "id": "github-2",
-   "url": "https://github.com/sherlock-project/sherlock",
-   "title": "sherlock",
-   "content_html": "<p>Hunt down social media accounts by username across social networks</p>",
-   "date_published": "Tue, 10 Nov 2026 02:38:06 GMT"
+   "url": "https://github.com/addyosmani/agent-skills",
+   "title": "agent-skills",
+   "content_html": "<p>Production-grade engineering skills for AI coding agents.</p>",
+   "date_published": "Tue, 10 Nov 2026 10:56:27 GMT"
   },
   {
    "id": "github-3",
-   "url": "https://github.com/google-deepmind/mujoco",
-   "title": "mujoco",
-   "content_html": "<p>Multi-Joint dynamics with Contact. A general purpose physics simulator.</p>",
-   "date_published": "Tue, 10 Nov 2026 02:38:06 GMT"
-  },
-  {
-   "id": "github-4",
    "url": "https://github.com/anthropics/claude-quickstarts",
    "title": "claude-quickstarts",
    "content_html": "<p>A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API</p>",
-   "date_published": "Tue, 10 Nov 2026 02:38:06 GMT"
+   "date_published": "Tue, 10 Nov 2026 10:56:27 GMT"
+  },
+  {
+   "id": "github-4",
+   "url": "https://github.com/google-deepmind/mujoco",
+   "title": "mujoco",
+   "content_html": "<p>Multi-Joint dynamics with Contact. A general purpose physics simulator.</p>",
+   "date_published": "Tue, 10 Nov 2026 10:56:27 GMT"
   },
   {
    "id": "github-5",
-   "url": "https://github.com/garrytan/gbrain",
-   "title": "gbrain",
-   "content_html": "<p>Garry's Opinionated OpenClaw/Hermes Agent Brain</p>",
-   "date_published": "Tue, 10 Nov 2026 02:38:06 GMT"
+   "url": "https://github.com/we-promise/sure",
+   "title": "sure",
+   "content_html": "<p>The personal finance app for everyone (by everyone)</p>",
+   "date_published": "Tue, 10 Nov 2026 10:56:27 GMT"
   },
   {
    "id": "github-6",
-   "url": "https://github.com/vercel-labs/agent-browser",
-   "title": "agent-browser",
-   "content_html": "<p>Browser automation CLI for AI agents</p>",
-   "date_published": "Tue, 10 Nov 2026 02:38:06 GMT"
-  },
-  {
-   "id": "github-7",
-   "url": "https://github.com/ruvnet/RuView",
-   "title": "RuView",
-   "content_html": "<p>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</p>",
-   "date_published": "Tue, 10 Nov 2026 02:38:06 GMT"
-  },
-  {
-   "id": "github-8",
-   "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-   "title": "daily_stock_analysis",
-   "content_html": "<p>LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.</p>",
-   "date_published": "Tue, 10 Nov 2026 02:38:06 GMT"
-  },
-  {
-   "id": "github-9",
    "url": "https://github.com/homeassistant-ai/ha-mcp",
    "title": "ha-mcp",
    "content_html": "<p>Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.</p>",
-   "date_published": "Tue, 10 Nov 2026 02:38:06 GMT"
+   "date_published": "Tue, 10 Nov 2026 10:56:27 GMT"
+  },
+  {
+   "id": "github-7",
+   "url": "https://github.com/vercel-labs/agent-browser",
+   "title": "agent-browser",
+   "content_html": "<p>Browser automation CLI for AI agents</p>",
+   "date_published": "Tue, 10 Nov 2026 10:56:27 GMT"
+  },
+  {
+   "id": "github-8",
+   "url": "https://github.com/sherlock-project/sherlock",
+   "title": "sherlock",
+   "content_html": "<p>Hunt down social media accounts by username across social networks</p>",
+   "date_published": "Tue, 10 Nov 2026 10:56:27 GMT"
+  },
+  {
+   "id": "github-9",
+   "url": "https://github.com/tokio-rs/topcoat",
+   "title": "topcoat",
+   "content_html": "<p>A batteries-included framework for building web apps</p>",
+   "date_published": "Tue, 10 Nov 2026 10:56:27 GMT"
   },
   {
    "id": "github-10",
-   "url": "https://github.com/milind-soni/OpenMausBot",
-   "title": "OpenMausBot",
-   "content_html": "<p>Open-source Grok Bot alternative with a virtual machine that bots can use</p>",
-   "date_published": "Tue, 10 Nov 2026 02:38:06 GMT"
+   "url": "https://github.com/ranxianglei/billion-context",
+   "title": "billion-context",
+   "content_html": "<p>A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need</p>",
+   "date_published": "Tue, 10 Nov 2026 10:56:27 GMT"
+  },
+  {
+   "id": "github-11",
+   "url": "https://github.com/mattpocock/skills",
+   "title": "skills",
+   "content_html": "<p>Skills for Real Engineers. Straight from my .agents directory.</p>",
+   "date_published": "Tue, 10 Nov 2026 10:56:27 GMT"
   }
  ]
 }
