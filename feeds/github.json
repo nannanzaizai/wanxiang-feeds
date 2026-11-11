@@ -2,91 +2,91 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-11-10 23:40:01）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-11-11 05:45:08）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/meta/astryx",
    "title": "astryx",
    "content_html": "<p>An open source design system that's fully customizable and agent ready</p>",
-   "date_published": "Tue, 10 Nov 2026 23:40:01 GMT"
+   "date_published": "Wed, 11 Nov 2026 05:45:08 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/anthropics/skills",
    "title": "skills",
    "content_html": "<p>Public repository for Agent Skills</p>",
-   "date_published": "Tue, 10 Nov 2026 23:40:01 GMT"
+   "date_published": "Wed, 11 Nov 2026 05:45:08 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/addyosmani/agent-skills",
    "title": "agent-skills",
    "content_html": "<p>Production-grade engineering skills for AI coding agents.</p>",
-   "date_published": "Tue, 10 Nov 2026 23:40:01 GMT"
+   "date_published": "Wed, 11 Nov 2026 05:45:08 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/anthropics/claude-quickstarts",
    "title": "claude-quickstarts",
    "content_html": "<p>A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API</p>",
-   "date_published": "Tue, 10 Nov 2026 23:40:01 GMT"
+   "date_published": "Wed, 11 Nov 2026 05:45:08 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/google-deepmind/mujoco",
    "title": "mujoco",
    "content_html": "<p>Multi-Joint dynamics with Contact. A general purpose physics simulator.</p>",
-   "date_published": "Tue, 10 Nov 2026 23:40:01 GMT"
+   "date_published": "Wed, 11 Nov 2026 05:45:08 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/we-promise/sure",
    "title": "sure",
    "content_html": "<p>The personal finance app for everyone (by everyone)</p>",
-   "date_published": "Tue, 10 Nov 2026 23:40:01 GMT"
+   "date_published": "Wed, 11 Nov 2026 05:45:08 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/homeassistant-ai/ha-mcp",
    "title": "ha-mcp",
    "content_html": "<p>Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.</p>",
-   "date_published": "Tue, 10 Nov 2026 23:40:01 GMT"
+   "date_published": "Wed, 11 Nov 2026 05:45:08 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/vercel-labs/agent-browser",
    "title": "agent-browser",
    "content_html": "<p>Browser automation CLI for AI agents</p>",
-   "date_published": "Tue, 10 Nov 2026 23:40:01 GMT"
+   "date_published": "Wed, 11 Nov 2026 05:45:08 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/sherlock-project/sherlock",
    "title": "sherlock",
    "content_html": "<p>Hunt down social media accounts by username across social networks</p>",
-   "date_published": "Tue, 10 Nov 2026 23:40:01 GMT"
+   "date_published": "Wed, 11 Nov 2026 05:45:08 GMT"
   },
   {
    "id": "github-9",
    "url": "https://github.com/tokio-rs/topcoat",
    "title": "topcoat",
    "content_html": "<p>A batteries-included framework for building web apps</p>",
-   "date_published": "Tue, 10 Nov 2026 23:40:01 GMT"
+   "date_published": "Wed, 11 Nov 2026 05:45:08 GMT"
   },
   {
    "id": "github-10",
    "url": "https://github.com/ranxianglei/billion-context",
    "title": "billion-context",
    "content_html": "<p>A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need</p>",
-   "date_published": "Tue, 10 Nov 2026 23:40:01 GMT"
+   "date_published": "Wed, 11 Nov 2026 05:45:08 GMT"
   },
   {
    "id": "github-11",
    "url": "https://github.com/mattpocock/skills",
    "title": "skills",
    "content_html": "<p>Skills for Real Engineers. Straight from my .agents directory.</p>",
-   "date_published": "Tue, 10 Nov 2026 23:40:01 GMT"
+   "date_published": "Wed, 11 Nov 2026 05:45:08 GMT"
   }
  ]
 }
