@@ -2,350 +2,343 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "抖音",
  "home_page_url": "https://www.douyin.com",
- "description": "抖音热榜（via DailyHotApi · 生成于 2026-11-12 10:08:52）",
+ "description": "抖音热榜（via DailyHotApi · 生成于 2026-11-12 18:32:21）",
  "items": [
-  {
-   "id": "douyin-2742776",
-   "url": "https://www.douyin.com/hot/2742776",
-   "title": "11月12日24时油价下调",
-   "content_html": "<p>11月12日24时油价下调</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
   {
    "id": "douyin-2742749",
    "url": "https://www.douyin.com/hot/2742749",
    "title": "烟火美食夯吃挑战开赛了",
    "content_html": "<p>烟火美食夯吃挑战开赛了</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
-   "id": "douyin-2742547",
-   "url": "https://www.douyin.com/hot/2742547",
-   "title": "海上风电装机量居全球首位",
-   "content_html": "<p>海上风电装机量居全球首位</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "id": "douyin-2742579",
+   "url": "https://www.douyin.com/hot/2742579",
+   "title": "秋冬落地签是一杯warm drink",
+   "content_html": "<p>秋冬落地签是一杯warm drink</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2743432",
+   "url": "https://www.douyin.com/hot/2743432",
+   "title": "亚太之问中国作答",
+   "content_html": "<p>亚太之问中国作答</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2743390",
+   "url": "https://www.douyin.com/hot/2743390",
+   "title": "刘欢妻子发公开信：他是这样的人",
+   "content_html": "<p>刘欢妻子发公开信：他是这样的人</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2742996",
+   "url": "https://www.douyin.com/hot/2742996",
+   "title": "首个AI漫剧晚会阵容官宣",
+   "content_html": "<p>首个AI漫剧晚会阵容官宣</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2743228",
+   "url": "https://www.douyin.com/hot/2743228",
+   "title": "朴树哥哥否认朴树去世",
+   "content_html": "<p>朴树哥哥否认朴树去世</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
    "id": "douyin-2740101",
    "url": "https://www.douyin.com/hot/2740101",
    "title": "天凉热乎美食登场",
    "content_html": "<p>天凉热乎美食登场</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2742609",
+   "url": "https://www.douyin.com/hot/2742609",
+   "title": "国内金饰价跌穿1200元",
+   "content_html": "<p>国内金饰价跌穿1200元</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
    "id": "douyin-2742688",
    "url": "https://www.douyin.com/hot/2742688",
    "title": "中方驳斥G7涉台联合声明",
    "content_html": "<p>中方驳斥G7涉台联合声明</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
    "id": "douyin-2742564",
    "url": "https://www.douyin.com/hot/2742564",
    "title": "证监会：全力维护市场平稳运行",
    "content_html": "<p>证监会：全力维护市场平稳运行</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2741542",
-   "url": "https://www.douyin.com/hot/2741542",
-   "title": "俄方公布俄美乌三方会谈成果",
-   "content_html": "<p>俄方公布俄美乌三方会谈成果</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2741905",
-   "url": "https://www.douyin.com/hot/2741905",
-   "title": "寒潮结束全国大部气温回升",
-   "content_html": "<p>寒潮结束全国大部气温回升</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2741918",
-   "url": "https://www.douyin.com/hot/2741918",
-   "title": "彭啸补招进入国足集训名单",
-   "content_html": "<p>彭啸补招进入国足集训名单</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2741728",
-   "url": "https://www.douyin.com/hot/2741728",
-   "title": "乌东领土问题未达成结论性共识",
-   "content_html": "<p>乌东领土问题未达成结论性共识</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2742058",
-   "url": "https://www.douyin.com/hot/2742058",
-   "title": "哈登助骑士复仇尼克斯",
-   "content_html": "<p>哈登助骑士复仇尼克斯</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
    "id": "douyin-2741201",
    "url": "https://www.douyin.com/hot/2741201",
    "title": "时间从来证明不了什么",
    "content_html": "<p>时间从来证明不了什么</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
-   "id": "douyin-2742242",
-   "url": "https://www.douyin.com/hot/2742242",
-   "title": "“6人在饭店消费51万”不实",
-   "content_html": "<p>“6人在饭店消费51万”不实</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2742391",
-   "url": "https://www.douyin.com/hot/2742391",
-   "title": "十万狂花入梦来定档",
-   "content_html": "<p>十万狂花入梦来定档</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "id": "douyin-2741905",
+   "url": "https://www.douyin.com/hot/2741905",
+   "title": "寒潮结束全国大部气温回升",
+   "content_html": "<p>寒潮结束全国大部气温回升</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
    "id": "douyin-2742338",
    "url": "https://www.douyin.com/hot/2742338",
    "title": "你爱的是花还是花为你开",
    "content_html": "<p>你爱的是花还是花为你开</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2743412",
+   "url": "https://www.douyin.com/hot/2743412",
+   "title": "天赐抖音直播首秀",
+   "content_html": "<p>天赐抖音直播首秀</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2743184",
+   "url": "https://www.douyin.com/hot/2743184",
+   "title": "告别信开机",
+   "content_html": "<p>告别信开机</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2742767",
+   "url": "https://www.douyin.com/hot/2742767",
+   "title": "马天宇的拥抱太戳人了",
+   "content_html": "<p>马天宇的拥抱太戳人了</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
    "id": "douyin-2742080",
    "url": "https://www.douyin.com/hot/2742080",
    "title": "根本没有这样的团战",
    "content_html": "<p>根本没有这样的团战</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2742043",
-   "url": "https://www.douyin.com/hot/2742043",
-   "title": "你还是逃不过覆面系",
-   "content_html": "<p>你还是逃不过覆面系</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
    "id": "douyin-2741776",
    "url": "https://www.douyin.com/hot/2741776",
    "title": "可以给我买麻辣烫糖葫芦吗",
    "content_html": "<p>可以给我买麻辣烫糖葫芦吗</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
    "id": "douyin-2740577",
    "url": "https://www.douyin.com/hot/2740577",
    "title": "我往这你不炸了吗对口型挑战",
    "content_html": "<p>我往这你不炸了吗对口型挑战</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
-   "id": "douyin-2742557",
-   "url": "https://www.douyin.com/hot/2742557",
-   "title": "声藏不露一唱成名",
-   "content_html": "<p>声藏不露一唱成名</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "id": "douyin-2742043",
+   "url": "https://www.douyin.com/hot/2742043",
+   "title": "你还是逃不过覆面系",
+   "content_html": "<p>你还是逃不过覆面系</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
-   "id": "douyin-2742628",
-   "url": "https://www.douyin.com/hot/2742628",
-   "title": "淡人友好冬日旅行",
-   "content_html": "<p>淡人友好冬日旅行</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "id": "douyin-2742848",
+   "url": "https://www.douyin.com/hot/2742848",
+   "title": "铁公鸡来南太行也得破费",
+   "content_html": "<p>铁公鸡来南太行也得破费</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
-   "id": "douyin-2742276",
-   "url": "https://www.douyin.com/hot/2742276",
-   "title": "勇士火箭爆发激烈冲突",
-   "content_html": "<p>勇士火箭爆发激烈冲突</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2740908",
-   "url": "https://www.douyin.com/hot/2740908",
-   "title": "尖牙小黑猫萌到犯规了",
-   "content_html": "<p>尖牙小黑猫萌到犯规了</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2741793",
-   "url": "https://www.douyin.com/hot/2741793",
-   "title": "赵丽颖和孙千自拍好甜",
-   "content_html": "<p>赵丽颖和孙千自拍好甜</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2742195",
-   "url": "https://www.douyin.com/hot/2742195",
-   "title": "自请分配去老君山看雪",
-   "content_html": "<p>自请分配去老君山看雪</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2742560",
-   "url": "https://www.douyin.com/hot/2742560",
-   "title": "今天是太阳雨假表哥真表嫂",
-   "content_html": "<p>今天是太阳雨假表哥真表嫂</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2742123",
-   "url": "https://www.douyin.com/hot/2742123",
-   "title": "马志明正式收郭德纲为义子",
-   "content_html": "<p>马志明正式收郭德纲为义子</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2742412",
-   "url": "https://www.douyin.com/hot/2742412",
-   "title": "和平玩家挑战自驾新疆吃鸡上分",
-   "content_html": "<p>和平玩家挑战自驾新疆吃鸡上分</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2741574",
-   "url": "https://www.douyin.com/hot/2741574",
-   "title": "我要去江城找顾总傅总陆总",
-   "content_html": "<p>我要去江城找顾总傅总陆总</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2742482",
-   "url": "https://www.douyin.com/hot/2742482",
-   "title": "拔萝卜一开口就是童年那味儿",
-   "content_html": "<p>拔萝卜一开口就是童年那味儿</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2741575",
-   "url": "https://www.douyin.com/hot/2741575",
-   "title": "以为是你想我了 原来是冬天来了",
-   "content_html": "<p>以为是你想我了 原来是冬天来了</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2742831",
-   "url": "https://www.douyin.com/hot/2742831",
-   "title": "多喜一家人定档11月16日",
-   "content_html": "<p>多喜一家人定档11月16日</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2740866",
-   "url": "https://www.douyin.com/hot/2740866",
-   "title": "星穹铁道星神阿哈上线",
-   "content_html": "<p>星穹铁道星神阿哈上线</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "id": "douyin-2741918",
+   "url": "https://www.douyin.com/hot/2741918",
+   "title": "彭啸补招进入国足集训名单",
+   "content_html": "<p>彭啸补招进入国足集训名单</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
    "id": "douyin-2740794",
    "url": "https://www.douyin.com/hot/2740794",
    "title": "董思成陈砚周进行曲",
    "content_html": "<p>董思成陈砚周进行曲</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
-   "id": "douyin-2742039",
-   "url": "https://www.douyin.com/hot/2742039",
-   "title": "厉娜已严肃掌握白小纯说明书",
-   "content_html": "<p>厉娜已严肃掌握白小纯说明书</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "id": "douyin-2742522",
+   "url": "https://www.douyin.com/hot/2742522",
+   "title": "双十一最应该打折的是我的手",
+   "content_html": "<p>双十一最应该打折的是我的手</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2742482",
+   "url": "https://www.douyin.com/hot/2742482",
+   "title": "拔萝卜一开口就是童年那味儿",
+   "content_html": "<p>拔萝卜一开口就是童年那味儿</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2743363",
+   "url": "https://www.douyin.com/hot/2743363",
+   "title": "一条视频看懂后会友期第五期",
+   "content_html": "<p>一条视频看懂后会友期第五期</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2743240",
+   "url": "https://www.douyin.com/hot/2743240",
+   "title": "好像在看赵丽颖朋友圈",
+   "content_html": "<p>好像在看赵丽颖朋友圈</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2742686",
+   "url": "https://www.douyin.com/hot/2742686",
+   "title": "毛茸茸的N种打开方式",
+   "content_html": "<p>毛茸茸的N种打开方式</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2742412",
+   "url": "https://www.douyin.com/hot/2742412",
+   "title": "和平玩家挑战自驾新疆吃鸡上分",
+   "content_html": "<p>和平玩家挑战自驾新疆吃鸡上分</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2742391",
+   "url": "https://www.douyin.com/hot/2742391",
+   "title": "十万狂花入梦来定档",
+   "content_html": "<p>十万狂花入梦来定档</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2742123",
+   "url": "https://www.douyin.com/hot/2742123",
+   "title": "马志明正式收郭德纲为义子",
+   "content_html": "<p>马志明正式收郭德纲为义子</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
    "id": "douyin-2741930",
    "url": "https://www.douyin.com/hot/2741930",
    "title": "烂奇迹翻唱",
    "content_html": "<p>烂奇迹翻唱</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
-   "id": "douyin-2741447",
-   "url": "https://www.douyin.com/hot/2741447",
-   "title": "三角洲S12最折磨人的套路来了",
-   "content_html": "<p>三角洲S12最折磨人的套路来了</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "id": "douyin-2743223",
+   "url": "https://www.douyin.com/hot/2743223",
+   "title": "余秀华的诗许飞唱成了歌",
+   "content_html": "<p>余秀华的诗许飞唱成了歌</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
-   "id": "douyin-2741420",
-   "url": "https://www.douyin.com/hot/2741420",
-   "title": "金铲铲百万撤离卡组",
-   "content_html": "<p>金铲铲百万撤离卡组</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2741224",
-   "url": "https://www.douyin.com/hot/2741224",
-   "title": "一学就会的手势舞来了",
-   "content_html": "<p>一学就会的手势舞来了</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2741059",
-   "url": "https://www.douyin.com/hot/2741059",
-   "title": "爱拥有跨越时空的能力",
-   "content_html": "<p>爱拥有跨越时空的能力</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2740959",
-   "url": "https://www.douyin.com/hot/2740959",
-   "title": "黄金时代的可人儿集体发力了",
-   "content_html": "<p>黄金时代的可人儿集体发力了</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2741039",
-   "url": "https://www.douyin.com/hot/2741039",
-   "title": "你还是从前的你吗",
-   "content_html": "<p>你还是从前的你吗</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2742573",
-   "url": "https://www.douyin.com/hot/2742573",
-   "title": "我的正缘原来离我这么近",
-   "content_html": "<p>我的正缘原来离我这么近</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2742208",
-   "url": "https://www.douyin.com/hot/2742208",
-   "title": "关谷悠悠金鸡奖同框",
-   "content_html": "<p>关谷悠悠金鸡奖同框</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
-  },
-  {
-   "id": "douyin-2740100",
-   "url": "https://www.douyin.com/hot/2740100",
-   "title": "高叶回应获金鸡最佳女主角",
-   "content_html": "<p>高叶回应获金鸡最佳女主角</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "id": "douyin-2743120",
+   "url": "https://www.douyin.com/hot/2743120",
+   "title": "青稚小番茄来啦",
+   "content_html": "<p>青稚小番茄来啦</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
    "id": "douyin-2741718",
    "url": "https://www.douyin.com/hot/2741718",
    "title": "适合五五分的秋冬韩系穿搭",
    "content_html": "<p>适合五五分的秋冬韩系穿搭</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2741575",
+   "url": "https://www.douyin.com/hot/2741575",
+   "title": "以为是你想我了 原来是冬天来了",
+   "content_html": "<p>以为是你想我了 原来是冬天来了</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2741447",
+   "url": "https://www.douyin.com/hot/2741447",
+   "title": "三角洲S12最折磨人的套路来了",
+   "content_html": "<p>三角洲S12最折磨人的套路来了</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2741420",
+   "url": "https://www.douyin.com/hot/2741420",
+   "title": "金铲铲百万撤离卡组",
+   "content_html": "<p>金铲铲百万撤离卡组</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2742039",
+   "url": "https://www.douyin.com/hot/2742039",
+   "title": "厉娜已严肃掌握白小纯说明书",
+   "content_html": "<p>厉娜已严肃掌握白小纯说明书</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2742208",
+   "url": "https://www.douyin.com/hot/2742208",
+   "title": "关谷悠悠金鸡奖同框",
+   "content_html": "<p>关谷悠悠金鸡奖同框</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2741039",
+   "url": "https://www.douyin.com/hot/2741039",
+   "title": "你还是从前的你吗",
+   "content_html": "<p>你还是从前的你吗</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2743004",
+   "url": "https://www.douyin.com/hot/2743004",
+   "title": "高难度多巴胺发色挑战",
+   "content_html": "<p>高难度多巴胺发色挑战</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2742573",
+   "url": "https://www.douyin.com/hot/2742573",
+   "title": "我的正缘原来离我这么近",
+   "content_html": "<p>我的正缘原来离我这么近</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
    "id": "douyin-2740550",
    "url": "https://www.douyin.com/hot/2740550",
    "title": "原来我也有当大佬的潜质",
    "content_html": "<p>原来我也有当大佬的潜质</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
-   "id": "douyin-2741668",
-   "url": "https://www.douyin.com/hot/2741668",
-   "title": "冷都女核心搭配公式",
-   "content_html": "<p>冷都女核心搭配公式</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "id": "douyin-2741059",
+   "url": "https://www.douyin.com/hot/2741059",
+   "title": "爱拥有跨越时空的能力",
+   "content_html": "<p>爱拥有跨越时空的能力</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   },
   {
-   "id": "douyin-2741614",
-   "url": "https://www.douyin.com/hot/2741614",
-   "title": "当我尝试很火的翘翘头邪修",
-   "content_html": "<p>当我尝试很火的翘翘头邪修</p>",
-   "date_published": "Thu, 12 Nov 2026 10:08:52 GMT"
+   "id": "douyin-2742897",
+   "url": "https://www.douyin.com/hot/2742897",
+   "title": "幸福迢迢如流水",
+   "content_html": "<p>幸福迢迢如流水</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2742831",
+   "url": "https://www.douyin.com/hot/2742831",
+   "title": "多喜一家人定档11月16日",
+   "content_html": "<p>多喜一家人定档11月16日</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
+  },
+  {
+   "id": "douyin-2742628",
+   "url": "https://www.douyin.com/hot/2742628",
+   "title": "淡人友好冬日旅行",
+   "content_html": "<p>淡人友好冬日旅行</p>",
+   "date_published": "Thu, 12 Nov 2026 18:32:21 GMT"
   }
  ]
 }

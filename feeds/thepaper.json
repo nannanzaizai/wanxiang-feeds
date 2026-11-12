@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-12 10:09:04）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-12 18:32:32）",
  "items": [
   {
-   "id": "thepaper-34453548",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34453548",
-   "title": "澎湃回声｜山东临沂回应“非标农用地膜”涉嫌违法产销问题：已依法立案调查",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794388572719_wE7GeW_1794388572900.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
+   "id": "thepaper-34458812",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34458812",
+   "title": "详讯丨纪念孙中山先生诞辰160周年大会在京举行，习近平发表重要讲话",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794456591301_GHNGMh_1794456599373.jpg\" />",
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
   },
   {
-   "id": "thepaper-34453911",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34453911",
-   "title": "见微知沪｜上海交警英语执法“走红”，值得点赞的不只是口语",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794398062176_DJTsj6_1794398062296.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
+   "id": "thepaper-34458880",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34458880",
+   "title": "证监会：汇聚各方合力，全力维护市场平稳运行",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794461611225_tFs5x6_1794461611402.png\" />",
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
   },
   {
-   "id": "thepaper-34455672",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34455672",
-   "title": "原四川长虹电子集团有限公司党委书记、董事局主席倪润峰逝世",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794406056018_WatM3K_1794406056204.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
+   "id": "thepaper-34459574",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34459574",
+   "title": "重庆梁平：“饭店老板为连吃7碗米饭母女放钱”视频系摆拍，已立案调查",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794483547480_ZcKjTe_1794483547585.png\" />",
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
   },
   {
-   "id": "thepaper-34455512",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34455512",
-   "title": "媒体：四年跑步570公里才能毕业？四川一高校回应",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794404181994_FJysC1_1794404182136.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
-  },
-  {
-   "id": "thepaper-34453975",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34453975",
-   "title": "央媒起底MCN机构“暴力起号”套路，四川宜宾成立调查组",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794392287354_NffMXk_1794392287473.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
-  },
-  {
-   "id": "thepaper-34452199",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34452199",
-   "title": "伊朗公布新建地下“导弹城”，隧道内摆满各种导弹",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794388995764_zeADea_1794388995882.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
-  },
-  {
-   "id": "thepaper-34458009",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34458009",
-   "title": "00后女作家被判定涉嫌洗稿，《人民文学》再度声明追回稿酬并向读者致歉",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794441745737_Ba3T4W_1794441745956.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
-  },
-  {
-   "id": "thepaper-34458622",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34458622",
-   "title": "赵丽颖起诉红果和抖音，律师：关键是公众能不能认出这个AI人像赵丽颖",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794453661106_fr4GCc_1794453661383.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
-  },
-  {
-   "id": "thepaper-34458811",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34458811",
-   "title": "罗大友被打假后仍以茶文化专业委员会主任身份出席活动，该机构介入调查",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794456664032_Fsbs1w_1794456664191.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
-  },
-  {
-   "id": "thepaper-34453537",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34453537",
-   "title": "泽连斯基：虽说可能不礼貌，但我的工作不是哄特朗普开心",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794388171004_awPAb8_1794388171133.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
+   "id": "thepaper-34459298",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34459298",
+   "title": "秋假催热11月旅游淡季：主题乐园被“挤爆”，研学团陆续出发",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794475300643_Rzyddt_1794475300834.png\" />",
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
   },
   {
    "id": "thepaper-34459136",
    "url": "https://www.thepaper.cn/newsDetail_forward_34459136",
    "title": "“甲醛白菜”案等18起涉食品安全重大犯罪案件被挂牌督办",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794470750331_61anK5_1794470750463.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
   },
   {
-   "id": "thepaper-34455070",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34455070",
-   "title": "业内人士谈金鸡奖获奖名单：不能以一时的流量热度取代艺术判断",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794404469561_t2DGdd_1794404469804.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
+   "id": "thepaper-34458622",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34458622",
+   "title": "赵丽颖起诉红果和抖音，律师：关键是公众能不能认出这个AI人像赵丽颖",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794453661106_fr4GCc_1794453661383.png\" />",
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
+  },
+  {
+   "id": "thepaper-34459124",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34459124",
+   "title": "马上评｜明星起诉短剧“偷脸”，AI用脸的边界在哪？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794473162418_1SeG6t_1794473162576.png\" />",
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
+  },
+  {
+   "id": "thepaper-34458009",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34458009",
+   "title": "00后女作家被判定涉嫌洗稿，《人民文学》再度声明追回稿酬并向读者致歉",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794441745737_Ba3T4W_1794441745956.png\" />",
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
+  },
+  {
+   "id": "thepaper-34458875",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34458875",
+   "title": "德芙旗舰店礼盒广告宣扬错误婚恋观，被罚80万元",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794460953681_HnEkaH_1794460953916.png\" />",
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
+  },
+  {
+   "id": "thepaper-34395707",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34395707",
+   "title": "财晓得｜“AI恶意使用”为何屡禁不止？34起判决里的治理账",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794309799531_K2HBBt_1794309860123.png\" />",
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
+  },
+  {
+   "id": "thepaper-34459166",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34459166",
+   "title": "媒体：东莞卫健局介入“患者欠费扣医生钱”事件，责成立即停止",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794471416169_HmCiep_1794471416401.png\" />",
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
+  },
+  {
+   "id": "thepaper-34458811",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34458811",
+   "title": "罗大友被打假后仍以茶文化专业委员会主任身份出席活动，该机构介入调查",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794456664032_Fsbs1w_1794456664191.png\" />",
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
+  },
+  {
+   "id": "thepaper-34458847",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34458847",
+   "title": "马上评｜消费也不能入座，西西弗的咖啡太烧心",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794457957782_GABHf8_1794458986424.jpg\" />",
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
   },
   {
    "id": "thepaper-34458119",
    "url": "https://www.thepaper.cn/newsDetail_forward_34458119",
    "title": "U20中青赛决赛生乱：球迷看台冲突，球童拿走水瓶遭围堵",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1788319988231_R31Twz_1788319988476.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
+  },
+  {
+   "id": "thepaper-34458306",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34458306",
+   "title": "美防长一行人在美国无名烈士墓前交谈大笑，哨兵高声训斥",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794448173933_ASMHNA_1794448174211.png\" />",
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
   },
   {
    "id": "thepaper-34453979",
    "url": "https://www.thepaper.cn/newsDetail_forward_34453979",
    "title": "多只飞鸟撞上重庆万州玻璃幕墙死亡，涉事企业称贴防撞膜至凌晨四点，林业局已现场调研",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794392357700_nWjiWd_1794392357941.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
   },
   {
    "id": "thepaper-34455025",
    "url": "https://www.thepaper.cn/newsDetail_forward_34455025",
    "title": "家长称女童遭老师用戒尺体罚全身多处青肿，仁怀市教育局：派出所已介入",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794402154036_3AXwny_1794402154214.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
   },
   {
-   "id": "thepaper-34454123",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34454123",
-   "title": "2026年中央八项规定精神贯彻执行情况网络调查问卷正式开启",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794393929025_ZtDwpi_1794393929221.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
+   "id": "thepaper-34453540",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34453540",
+   "title": "社交平台引流推销眼贴宣称可降近视度数：涉事诊所无眼科资质，消费者退款受阻",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794388189768_JwF4je_1794388189881.png\" />",
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
   },
   {
-   "id": "thepaper-34454757",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34454757",
-   "title": "香港名媛蔡天凤碎尸案有重大进展：前夫被当庭指认为凶手",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794399439941_8kZi3Z_1794399440109.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
+   "id": "thepaper-34458575",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34458575",
+   "title": "徐峥：糟糕的表演比AI还糟糕，想不被AI取代，表演就需要灵魂",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794455846466_SnwiYc_1794455846640.png\" />",
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
   },
   {
-   "id": "thepaper-34456152",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34456152",
-   "title": "王毅同美国国务卿鲁比奥通电话",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794409687138_yQYDeB_1794409687323.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
-  },
-  {
-   "id": "thepaper-34454411",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34454411",
-   "title": "俄方公布本轮俄美乌三方会谈成果",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794396037062_RPWPtE_1794396037303.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
-  },
-  {
-   "id": "thepaper-34452996",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34452996",
-   "title": "加拿大总理称将在APEC强调他国不应干预加内政，外交部回应",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794383688017_x3XNzr_1794383688166.png\" />",
-   "date_published": "Thu, 12 Nov 2026 10:09:04 GMT"
+   "id": "thepaper-34459115",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34459115",
+   "title": "外交部回应七国集团涉台相关声明：完全不能代表国际社会",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794470445621_e4xEYj_1794470445826.png\" />",
+   "date_published": "Thu, 12 Nov 2026 18:32:32 GMT"
   }
  ]
 }
