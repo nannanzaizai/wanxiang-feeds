@@ -2,357 +2,357 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "稀土掘金",
  "home_page_url": "https://juejin.cn/hot/articles",
- "description": "掘金热榜（via DailyHotApi · 生成于 2026-11-13 06:08:44）",
+ "description": "掘金热榜（via DailyHotApi · 生成于 2026-11-13 14:51:12）",
  "items": [
   {
    "id": "juejin-7706534471420461098",
    "url": "https://juejin.cn/post/7706534471420461098",
    "title": "你们公司有 35 岁以上的前端吗？",
    "content_html": "<p>你们公司有 35 岁以上的前端吗？</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
    "id": "juejin-7706418656682803200",
    "url": "https://juejin.cn/post/7706418656682803200",
    "title": "再见了 Typora",
    "content_html": "<p>再见了 Typora</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706346256684023846",
-   "url": "https://juejin.cn/post/7706346256684023846",
-   "title": "为什么越来越多人用 AI Gateway？",
-   "content_html": "<p>为什么越来越多人用 AI Gateway？</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
    "id": "juejin-7706740008510963722",
    "url": "https://juejin.cn/post/7706740008510963722",
    "title": "Flutter 3.50 & Dart 3.14  发布，快来看看有什么更新吧",
    "content_html": "<p>Flutter 3.50 & Dart 3.14  发布，快来看看有什么更新吧</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706354193472995391",
-   "url": "https://juejin.cn/post/7706354193472995391",
-   "title": "代码都能让 Agent 写了，我们为什么还要学前端？",
-   "content_html": "<p>代码都能让 Agent 写了，我们为什么还要学前端？</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
    "id": "juejin-7706740769264566322",
    "url": "https://juejin.cn/post/7706740769264566322",
    "title": "如何看待 Fable 5.2 用纯代码生成 1.4MB 视觉作品：光追、水面、倒影、火光的程序化生成原理",
    "content_html": "<p>如何看待 Fable 5.2 用纯代码生成 1.4MB 视觉作品：光追、水面、倒影、火光的程序化生成原理</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706583027481018408",
-   "url": "https://juejin.cn/post/7706583027481018408",
-   "title": "技术面试已死？AI 时代，真正拉开程序员差距的是什么？",
-   "content_html": "<p>技术面试已死？AI 时代，真正拉开程序员差距的是什么？</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706354193473011775",
-   "url": "https://juejin.cn/post/7706354193473011775",
-   "title": "MCP 协议会成为前端 AI 工程的标准接口吗？",
-   "content_html": "<p>MCP 协议会成为前端 AI 工程的标准接口吗？</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706124316778266667",
-   "url": "https://juejin.cn/post/7706124316778266667",
-   "title": "我宣布！Magpie就是版本答案！",
-   "content_html": "<p>我宣布！Magpie就是版本答案！</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
    "id": "juejin-7707101130299539496",
    "url": "https://juejin.cn/post/7707101130299539496",
    "title": "别再抬杠，前端岗已经没了！无论前后端，我们最终都要成“全干”工程师",
    "content_html": "<p>别再抬杠，前端岗已经没了！无论前后端，我们最终都要成“全干”工程师</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706583027481018408",
+   "url": "https://juejin.cn/post/7706583027481018408",
+   "title": "技术面试已死？AI 时代，真正拉开程序员差距的是什么？",
+   "content_html": "<p>技术面试已死？AI 时代，真正拉开程序员差距的是什么？</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
    "id": "juejin-7706394247621443599",
    "url": "https://juejin.cn/post/7706394247621443599",
    "title": "别再连线了：Coze、n8n、Dify 退潮，AI 正式终结工作流时代",
    "content_html": "<p>别再连线了：Coze、n8n、Dify 退潮，AI 正式终结工作流时代</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706788877558939663",
-   "url": "https://juejin.cn/post/7706788877558939663",
-   "title": "每天认识一个组件：Redis",
-   "content_html": "<p>每天认识一个组件：Redis</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706468226762326016",
-   "url": "https://juejin.cn/post/7706468226762326016",
-   "title": "程序员 1v1 访谈系列第十三期：大龄已育空窗一年如何破局",
-   "content_html": "<p>程序员 1v1 访谈系列第十三期：大龄已育空窗一年如何破局</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7707100499275546666",
-   "url": "https://juejin.cn/post/7707100499275546666",
-   "title": "前端真有意思，JS还能独立做项目？",
-   "content_html": "<p>前端真有意思，JS还能独立做项目？</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706580144768860198",
-   "url": "https://juejin.cn/post/7706580144768860198",
-   "title": "Flutter 大小核优化又被回滚，然后又开新提案？",
-   "content_html": "<p>Flutter 大小核优化又被回滚，然后又开新提案？</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706814430331519039",
-   "url": "https://juejin.cn/post/7706814430331519039",
-   "title": "Kotlin 又要加语法糖了：这次轮到 if-else",
-   "content_html": "<p>Kotlin 又要加语法糖了：这次轮到 if-else</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706430401102987299",
-   "url": "https://juejin.cn/post/7706430401102987299",
-   "title": "Vibe coding工具使用心得",
-   "content_html": "<p>Vibe coding工具使用心得</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706833656825004058",
-   "url": "https://juejin.cn/post/7706833656825004058",
-   "title": "4 个 3D 游戏，总体积 3.82MB：拆解 Claude 的 one-shot 工程链路",
-   "content_html": "<p>4 个 3D 游戏，总体积 3.82MB：拆解 Claude 的 one-shot 工程链路</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706577325618921491",
-   "url": "https://juejin.cn/post/7706577325618921491",
-   "title": "用 Claude Fable 5.2 重构官网：85分钟烧52美元，撞上配额上限中断",
-   "content_html": "<p>用 Claude Fable 5.2 重构官网：85分钟烧52美元，撞上配额上限中断</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706584659240452115",
-   "url": "https://juejin.cn/post/7706584659240452115",
-   "title": "IntelliJ IDEA 2026.3 发布：智能体住进 IDE",
-   "content_html": "<p>IntelliJ IDEA 2026.3 发布：智能体住进 IDE</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706732586618306598",
-   "url": "https://juejin.cn/post/7706732586618306598",
-   "title": "AI 写的前端代码为什么总像 5 年前的？Chrome 官方出手了",
-   "content_html": "<p>AI 写的前端代码为什么总像 5 年前的？Chrome 官方出手了</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706865424746758198",
-   "url": "https://juejin.cn/post/7706865424746758198",
-   "title": "不会后期的我，发现了一个开源胶片神器😍😍😍",
-   "content_html": "<p>不会后期的我，发现了一个开源胶片神器😍😍😍</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706723901010886697",
-   "url": "https://juejin.cn/post/7706723901010886697",
-   "title": "那个PR太干净了，干净到我差点直接点了合并",
-   "content_html": "<p>那个PR太干净了，干净到我差点直接点了合并</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706584659240894483",
-   "url": "https://juejin.cn/post/7706584659240894483",
-   "title": "10秒出4K，MiniMax还开源了！H3 Image上线！",
-   "content_html": "<p>10秒出4K，MiniMax还开源了！H3 Image上线！</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706806274098528296",
-   "url": "https://juejin.cn/post/7706806274098528296",
-   "title": "Claude Fable 5.2 发布后，开发者该关注什么",
-   "content_html": "<p>Claude Fable 5.2 发布后，开发者该关注什么</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706366346229858339",
-   "url": "https://juejin.cn/post/7706366346229858339",
-   "title": "万能通用！权限系统就该这么设计",
-   "content_html": "<p>万能通用！权限系统就该这么设计</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7707106224123166755",
-   "url": "https://juejin.cn/post/7707106224123166755",
-   "title": "DeepSeek Harness 完全指南，打造你的专属工作台",
-   "content_html": "<p>DeepSeek Harness 完全指南，打造你的专属工作台</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706722811200847915",
-   "url": "https://juejin.cn/post/7706722811200847915",
-   "title": "写给迷茫的应届生，怎样在 AI 时代争取更多机会",
-   "content_html": "<p>写给迷茫的应届生，怎样在 AI 时代争取更多机会</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706584659240550419",
-   "url": "https://juejin.cn/post/7706584659240550419",
-   "title": "“小猫补光灯”：App Store 付费榜第一的产品故事",
-   "content_html": "<p>“小猫补光灯”：App Store 付费榜第一的产品故事</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706421364118601764",
-   "url": "https://juejin.cn/post/7706421364118601764",
-   "title": "DeepSeek Harness Memory （一）主流记忆插件总结",
-   "content_html": "<p>DeepSeek Harness Memory （一）主流记忆插件总结</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706152074170417195",
-   "url": "https://juejin.cn/post/7706152074170417195",
-   "title": "美团 LongCat-2.5 开源：从看见，到抵达",
-   "content_html": "<p>美团 LongCat-2.5 开源：从看见，到抵达</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
    "id": "juejin-7707194766860025907",
    "url": "https://juejin.cn/post/7707194766860025907",
    "title": "黄仁勋辞去英伟达 CEO，结束 33 年掌舵生涯",
    "content_html": "<p>黄仁勋辞去英伟达 CEO，结束 33 年掌舵生涯</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
-   "id": "juejin-7706450826398793769",
-   "url": "https://juejin.cn/post/7706450826398793769",
-   "title": "领导问我 Kotlin 的 Nothing 是什么？",
-   "content_html": "<p>领导问我 Kotlin 的 Nothing 是什么？</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "id": "juejin-7707100499275546666",
+   "url": "https://juejin.cn/post/7707100499275546666",
+   "title": "前端真有意思，JS还能独立做项目？",
+   "content_html": "<p>前端真有意思，JS还能独立做项目？</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
-   "id": "juejin-7706428851019481142",
-   "url": "https://juejin.cn/post/7706428851019481142",
-   "title": "git提交规范",
-   "content_html": "<p>git提交规范</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "id": "juejin-7706833656825004058",
+   "url": "https://juejin.cn/post/7706833656825004058",
+   "title": "4 个 3D 游戏，总体积 3.82MB：拆解 Claude 的 one-shot 工程链路",
+   "content_html": "<p>4 个 3D 游戏，总体积 3.82MB：拆解 Claude 的 one-shot 工程链路</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
-   "id": "juejin-7706833656825184282",
-   "url": "https://juejin.cn/post/7706833656825184282",
-   "title": "AI 把代码写得飞快，然后呢？聊聊我验收生成代码的一套流程",
-   "content_html": "<p>AI 把代码写得飞快，然后呢？聊聊我验收生成代码的一套流程</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "id": "juejin-7706788877558939663",
+   "url": "https://juejin.cn/post/7706788877558939663",
+   "title": "每天认识一个组件：Redis",
+   "content_html": "<p>每天认识一个组件：Redis</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
-   "id": "juejin-7706952180382285862",
-   "url": "https://juejin.cn/post/7706952180382285862",
-   "title": "苹果滑动为什么有「肉感」：橡皮筋越界阻尼与弹簧动画的物理原理",
-   "content_html": "<p>苹果滑动为什么有「肉感」：橡皮筋越界阻尼与弹簧动画的物理原理</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "id": "juejin-7706468226762326016",
+   "url": "https://juejin.cn/post/7706468226762326016",
+   "title": "程序员 1v1 访谈系列第十三期：大龄已育空窗一年如何破局",
+   "content_html": "<p>程序员 1v1 访谈系列第十三期：大龄已育空窗一年如何破局</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
-   "id": "juejin-7706850224291004442",
-   "url": "https://juejin.cn/post/7706850224291004442",
-   "title": "22 个开源项目公开拒绝 AI 代码：vibe coding 的账单，维护者不想买了",
-   "content_html": "<p>22 个开源项目公开拒绝 AI 代码：vibe coding 的账单，维护者不想买了</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "id": "juejin-7706814430331519039",
+   "url": "https://juejin.cn/post/7706814430331519039",
+   "title": "Kotlin 又要加语法糖了：这次轮到 if-else",
+   "content_html": "<p>Kotlin 又要加语法糖了：这次轮到 if-else</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706580144768860198",
+   "url": "https://juejin.cn/post/7706580144768860198",
+   "title": "Flutter 大小核优化又被回滚，然后又开新提案？",
+   "content_html": "<p>Flutter 大小核优化又被回滚，然后又开新提案？</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7707231949409026058",
+   "url": "https://juejin.cn/post/7707231949409026058",
+   "title": "官方点名，DeepSeek Harness 的 4 个神级插件。",
+   "content_html": "<p>官方点名，DeepSeek Harness 的 4 个神级插件。</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706732586618306598",
+   "url": "https://juejin.cn/post/7706732586618306598",
+   "title": "AI 写的前端代码为什么总像 5 年前的？Chrome 官方出手了",
+   "content_html": "<p>AI 写的前端代码为什么总像 5 年前的？Chrome 官方出手了</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706584659240452115",
+   "url": "https://juejin.cn/post/7706584659240452115",
+   "title": "IntelliJ IDEA 2026.3 发布：智能体住进 IDE",
+   "content_html": "<p>IntelliJ IDEA 2026.3 发布：智能体住进 IDE</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706577325618921491",
+   "url": "https://juejin.cn/post/7706577325618921491",
+   "title": "用 Claude Fable 5.2 重构官网：85分钟烧52美元，撞上配额上限中断",
+   "content_html": "<p>用 Claude Fable 5.2 重构官网：85分钟烧52美元，撞上配额上限中断</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7707106224123166755",
+   "url": "https://juejin.cn/post/7707106224123166755",
+   "title": "DeepSeek Harness 完全指南，打造你的专属工作台",
+   "content_html": "<p>DeepSeek Harness 完全指南，打造你的专属工作台</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706865424746758198",
+   "url": "https://juejin.cn/post/7706865424746758198",
+   "title": "不会后期的我，发现了一个开源胶片神器😍😍😍",
+   "content_html": "<p>不会后期的我，发现了一个开源胶片神器😍😍😍</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706723901010886697",
+   "url": "https://juejin.cn/post/7706723901010886697",
+   "title": "那个PR太干净了，干净到我差点直接点了合并",
+   "content_html": "<p>那个PR太干净了，干净到我差点直接点了合并</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706584659240894483",
+   "url": "https://juejin.cn/post/7706584659240894483",
+   "title": "10秒出4K，MiniMax还开源了！H3 Image上线！",
+   "content_html": "<p>10秒出4K，MiniMax还开源了！H3 Image上线！</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706584659240550419",
+   "url": "https://juejin.cn/post/7706584659240550419",
+   "title": "“小猫补光灯”：App Store 付费榜第一的产品故事",
+   "content_html": "<p>“小猫补光灯”：App Store 付费榜第一的产品故事</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706806274098528296",
+   "url": "https://juejin.cn/post/7706806274098528296",
+   "title": "Claude Fable 5.2 发布后，开发者该关注什么",
+   "content_html": "<p>Claude Fable 5.2 发布后，开发者该关注什么</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706722811200847915",
+   "url": "https://juejin.cn/post/7706722811200847915",
+   "title": "写给迷茫的应届生，怎样在 AI 时代争取更多机会",
+   "content_html": "<p>写给迷茫的应届生，怎样在 AI 时代争取更多机会</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7707204560720642089",
+   "url": "https://juejin.cn/post/7707204560720642089",
+   "title": "AI 热点日报（2026-11-13）：黄仁勋辞任英伟达CEO，百度发智能组织，SpaceX斥740亿建算力",
+   "content_html": "<p>AI 热点日报（2026-11-13）：黄仁勋辞任英伟达CEO，百度发智能组织，SpaceX斥740亿建算力</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
    "id": "juejin-7706396464942972954",
    "url": "https://juejin.cn/post/7706396464942972954",
    "title": "掘金用量重要更新来了!全新本地 AI 网关正式上线：一站式掌控你的模型、用量与工具!TRAE用量支持",
    "content_html": "<p>掘金用量重要更新来了!全新本地 AI 网关正式上线：一站式掌控你的模型、用量与工具!TRAE用量支持</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
-   "id": "juejin-7706421572156227635",
-   "url": "https://juejin.cn/post/7706421572156227635",
-   "title": "Cmder 停更 17 个月，2.0 支持 Windows Terminal",
-   "content_html": "<p>Cmder 停更 17 个月，2.0 支持 Windows Terminal</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "id": "juejin-7706366346229858339",
+   "url": "https://juejin.cn/post/7706366346229858339",
+   "title": "万能通用！权限系统就该这么设计",
+   "content_html": "<p>万能通用！权限系统就该这么设计</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
-   "id": "juejin-7706394247621263375",
-   "url": "https://juejin.cn/post/7706394247621263375",
-   "title": "不改变异步本质，只改变代码组织：Telegram 项目的 Kotlin 协程实践",
-   "content_html": "<p>不改变异步本质，只改变代码组织：Telegram 项目的 Kotlin 协程实践</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "id": "juejin-7706833656825184282",
+   "url": "https://juejin.cn/post/7706833656825184282",
+   "title": "AI 把代码写得飞快，然后呢？聊聊我验收生成代码的一套流程",
+   "content_html": "<p>AI 把代码写得飞快，然后呢？聊聊我验收生成代码的一套流程</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
-   "id": "juejin-7706343937078525962",
-   "url": "https://juejin.cn/post/7706343937078525962",
-   "title": "Android 应用架构演进：MVC / MVP / MVVM / MVI （2026）",
-   "content_html": "<p>Android 应用架构演进：MVC / MVP / MVVM / MVI （2026）</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706185626190807080",
-   "url": "https://juejin.cn/post/7706185626190807080",
-   "title": "Qoder + Blender MCP：对话建模到网页渲染",
-   "content_html": "<p>Qoder + Blender MCP：对话建模到网页渲染</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706786308874551322",
-   "url": "https://juejin.cn/post/7706786308874551322",
-   "title": "像项目经理一样指挥 AI 团队：管理者模式",
-   "content_html": "<p>像项目经理一样指挥 AI 团队：管理者模式</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706760376756240420",
-   "url": "https://juejin.cn/post/7706760376756240420",
-   "title": "如何使用双缓冲优化视频切换",
-   "content_html": "<p>如何使用双缓冲优化视频切换</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706397976554651657",
-   "url": "https://juejin.cn/post/7706397976554651657",
-   "title": "当 DSH 适配了 Quirekit md-editor: 你的笔记软件为何不能是 DSH（MIT开源）",
-   "content_html": "<p>当 DSH 适配了 Quirekit md-editor: 你的笔记软件为何不能是 DSH（MIT开源）</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
-  },
-  {
-   "id": "juejin-7706722811200471083",
-   "url": "https://juejin.cn/post/7706722811200471083",
-   "title": "juejin-skills 系列 ②：我把「看掘金热榜」也做成了 Agent 技能",
-   "content_html": "<p>juejin-skills 系列 ②：我把「看掘金热榜」也做成了 Agent 技能</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "id": "juejin-7706450826398793769",
+   "url": "https://juejin.cn/post/7706450826398793769",
+   "title": "领导问我 Kotlin 的 Nothing 是什么？",
+   "content_html": "<p>领导问我 Kotlin 的 Nothing 是什么？</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
    "id": "juejin-7706725892766253119",
    "url": "https://juejin.cn/post/7706725892766253119",
    "title": "为什么还是不能直接把需求丢给 AI？",
    "content_html": "<p>为什么还是不能直接把需求丢给 AI？</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706428851019481142",
+   "url": "https://juejin.cn/post/7706428851019481142",
+   "title": "git提交规范",
+   "content_html": "<p>git提交规范</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706952180382285862",
+   "url": "https://juejin.cn/post/7706952180382285862",
+   "title": "苹果滑动为什么有「肉感」：橡皮筋越界阻尼与弹簧动画的物理原理",
+   "content_html": "<p>苹果滑动为什么有「肉感」：橡皮筋越界阻尼与弹簧动画的物理原理</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7707235507143491624",
+   "url": "https://juejin.cn/post/7707235507143491624",
+   "title": "太牛了！这AI做出来的游戏，居然还能变现！",
+   "content_html": "<p>太牛了！这AI做出来的游戏，居然还能变现！</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7707191707507130377",
+   "url": "https://juejin.cn/post/7707191707507130377",
+   "title": "面试官问你：“AI 能写 80% 的代码了，公司为什么还需要你？”",
+   "content_html": "<p>面试官问你：“AI 能写 80% 的代码了，公司为什么还需要你？”</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7707148224033079330",
+   "url": "https://juejin.cn/post/7707148224033079330",
+   "title": "程序员 1v1 访谈系列第十四期：接受焦虑 拥抱不确定",
+   "content_html": "<p>程序员 1v1 访谈系列第十四期：接受焦虑 拥抱不确定</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7707118655453282313",
+   "url": "https://juejin.cn/post/7707118655453282313",
+   "title": "Gemini 4 Carbon 正式开放，正面硬刚 Fable 5.2。",
+   "content_html": "<p>Gemini 4 Carbon 正式开放，正面硬刚 Fable 5.2。</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706850224291004442",
+   "url": "https://juejin.cn/post/7706850224291004442",
+   "title": "22 个开源项目公开拒绝 AI 代码：vibe coding 的账单，维护者不想买了",
+   "content_html": "<p>22 个开源项目公开拒绝 AI 代码：vibe coding 的账单，维护者不想买了</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7707109094009454642",
+   "url": "https://juejin.cn/post/7707109094009454642",
+   "title": "面向 Schema 编程，Vue 3 页面级渲染引擎！轻松玩转各场景 Validation！",
+   "content_html": "<p>面向 Schema 编程，Vue 3 页面级渲染引擎！轻松玩转各场景 Validation！</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706830049752825910",
+   "url": "https://juejin.cn/post/7706830049752825910",
+   "title": "2026年，你选的不再是框架，是渲染模型",
+   "content_html": "<p>2026年，你选的不再是框架，是渲染模型</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706797172071268395",
+   "url": "https://juejin.cn/post/7706797172071268395",
+   "title": "等了一周，我的摸鱼小程序终于微信认证通过了",
+   "content_html": "<p>等了一周，我的摸鱼小程序终于微信认证通过了</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706760376756240420",
+   "url": "https://juejin.cn/post/7706760376756240420",
+   "title": "如何使用双缓冲优化视频切换",
+   "content_html": "<p>如何使用双缓冲优化视频切换</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706722811200471083",
+   "url": "https://juejin.cn/post/7706722811200471083",
+   "title": "juejin-skills 系列 ②：我把「看掘金热榜」也做成了 Agent 技能",
+   "content_html": "<p>juejin-skills 系列 ②：我把「看掘金热榜」也做成了 Agent 技能</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706394247621263375",
+   "url": "https://juejin.cn/post/7706394247621263375",
+   "title": "不改变异步本质，只改变代码组织：Telegram 项目的 Kotlin 协程实践",
+   "content_html": "<p>不改变异步本质，只改变代码组织：Telegram 项目的 Kotlin 协程实践</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706786308874551322",
+   "url": "https://juejin.cn/post/7706786308874551322",
+   "title": "像项目经理一样指挥 AI 团队：管理者模式",
+   "content_html": "<p>像项目经理一样指挥 AI 团队：管理者模式</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
    "id": "juejin-7706583027480723496",
    "url": "https://juejin.cn/post/7706583027480723496",
    "title": "GUI的时代过去了",
    "content_html": "<p>GUI的时代过去了</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7706397976554651657",
+   "url": "https://juejin.cn/post/7706397976554651657",
+   "title": "当 DSH 适配了 Quirekit md-editor: 你的笔记软件为何不能是 DSH（MIT开源）",
+   "content_html": "<p>当 DSH 适配了 Quirekit md-editor: 你的笔记软件为何不能是 DSH（MIT开源）</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
    "id": "juejin-7706352436743192591",
    "url": "https://juejin.cn/post/7706352436743192591",
    "title": "手搓 AI Agent 第 2 篇：AI 点菜，程序端菜——第一次学会\"工具调用\"",
    "content_html": "<p>手搓 AI Agent 第 2 篇：AI 点菜，程序端菜——第一次学会\"工具调用\"</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
+  },
+  {
+   "id": "juejin-7707205288390803466",
+   "url": "https://juejin.cn/post/7707205288390803466",
+   "title": "被1.4 MB的射击游戏震撼后，我认真拆了一遍Fable的实现",
+   "content_html": "<p>被1.4 MB的射击游戏震撼后，我认真拆了一遍Fable的实现</p>",
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   },
   {
    "id": "juejin-7706807603482361907",
    "url": "https://juejin.cn/post/7706807603482361907",
    "title": "从命令到工作流：juejin-cli 如何让写作自动化更可靠",
    "content_html": "<p>从命令到工作流：juejin-cli 如何让写作自动化更可靠</p>",
-   "date_published": "Fri, 13 Nov 2026 06:08:43 GMT"
+   "date_published": "Fri, 13 Nov 2026 14:51:12 GMT"
   }
  ]
 }
