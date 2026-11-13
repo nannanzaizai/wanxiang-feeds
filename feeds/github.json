@@ -2,98 +2,98 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-11-12 23:48:00）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-11-13 06:08:46）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
    "title": "modern-web-guidance-src",
    "content_html": "<p>Keep your coding agent up to date with the latest web best practices</p>",
-   "date_published": "Thu, 12 Nov 2026 23:48:00 GMT"
+   "date_published": "Fri, 13 Nov 2026 06:08:46 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/openai/codex-security",
    "title": "codex-security",
    "content_html": "<p>OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security</p>",
-   "date_published": "Thu, 12 Nov 2026 23:48:00 GMT"
+   "date_published": "Fri, 13 Nov 2026 06:08:46 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/nvm-sh/nvm",
    "title": "nvm",
    "content_html": "<p>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.</p>",
-   "date_published": "Thu, 12 Nov 2026 23:48:00 GMT"
+   "date_published": "Fri, 13 Nov 2026 06:08:46 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/pookjw/HermesEnabler",
    "title": "HermesEnabler",
    "content_html": "<p>Enable Hermès Watch Faces on any Apple Watch devices</p>",
-   "date_published": "Thu, 12 Nov 2026 23:48:00 GMT"
+   "date_published": "Fri, 13 Nov 2026 06:08:46 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/we-promise/sure",
    "title": "sure",
    "content_html": "<p>The personal finance app for everyone (by everyone)</p>",
-   "date_published": "Thu, 12 Nov 2026 23:48:00 GMT"
+   "date_published": "Fri, 13 Nov 2026 06:08:46 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/QwenLM/qwen-code",
    "title": "qwen-code",
    "content_html": "<p>An open-source AI coding agent that lives in your terminal.</p>",
-   "date_published": "Thu, 12 Nov 2026 23:48:00 GMT"
+   "date_published": "Fri, 13 Nov 2026 06:08:46 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/ashhart/TensorFold",
    "title": "TensorFold",
    "content_html": "<p>LLM Inference Engine for Metal, CUDA and Vulkan.</p>",
-   "date_published": "Thu, 12 Nov 2026 23:48:00 GMT"
+   "date_published": "Fri, 13 Nov 2026 06:08:46 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/nodejs/node",
    "title": "node",
    "content_html": "<p>Node.js JavaScript runtime ✨🐢🚀✨</p>",
-   "date_published": "Thu, 12 Nov 2026 23:48:00 GMT"
+   "date_published": "Fri, 13 Nov 2026 06:08:46 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/addyosmani/agent-skills",
    "title": "agent-skills",
    "content_html": "<p>Production-grade engineering skills for AI coding agents.</p>",
-   "date_published": "Thu, 12 Nov 2026 23:48:00 GMT"
+   "date_published": "Fri, 13 Nov 2026 06:08:46 GMT"
   },
   {
    "id": "github-9",
    "url": "https://github.com/meta/astryx",
    "title": "astryx",
    "content_html": "<p>An open source design system that's fully customizable and agent ready</p>",
-   "date_published": "Thu, 12 Nov 2026 23:48:00 GMT"
+   "date_published": "Fri, 13 Nov 2026 06:08:46 GMT"
   },
   {
    "id": "github-10",
    "url": "https://github.com/CopilotKit/OpenBot",
    "title": "OpenBot",
    "content_html": "<p>Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.</p>",
-   "date_published": "Thu, 12 Nov 2026 23:48:00 GMT"
+   "date_published": "Fri, 13 Nov 2026 06:08:46 GMT"
   },
   {
    "id": "github-11",
    "url": "https://github.com/Alishahryar1/free-claude-code",
    "title": "free-claude-code",
    "content_html": "<p>Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)</p>",
-   "date_published": "Thu, 12 Nov 2026 23:48:00 GMT"
+   "date_published": "Fri, 13 Nov 2026 06:08:46 GMT"
   },
   {
    "id": "github-12",
    "url": "https://github.com/ggml-org/llama.cpp",
    "title": "llama.cpp",
    "content_html": "<p>LLM inference in C/C++</p>",
-   "date_published": "Thu, 12 Nov 2026 23:48:00 GMT"
+   "date_published": "Fri, 13 Nov 2026 06:08:46 GMT"
   }
  ]
 }

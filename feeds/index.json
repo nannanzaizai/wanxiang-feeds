@@ -1,16 +1,16 @@
 {
  "version": "https://jsonfeed.org/version/1.1",
  "title": "万象热榜索引",
- "generated_at": "2026-11-12 23:48:09",
- "total_items": 501,
+ "generated_at": "2026-11-13 06:08:58",
+ "total_items": 462,
  "feeds": [
   {
    "platform": "zhihu",
    "name": "知乎热榜",
    "items": 30,
-   "thumbs": 28,
+   "thumbs": 29,
    "file": "zhihu.json",
-   "bytes": 42794,
+   "bytes": 36059,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -20,7 +20,7 @@
    "items": 52,
    "thumbs": 0,
    "file": "weibo.json",
-   "bytes": 19627,
+   "bytes": 19382,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -30,7 +30,7 @@
    "items": 100,
    "thumbs": 100,
    "file": "bilibili.json",
-   "bytes": 49578,
+   "bytes": 50987,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -40,17 +40,17 @@
    "items": 50,
    "thumbs": 50,
    "file": "toutiao.json",
-   "bytes": 24294,
+   "bytes": 24301,
    "img_fixed": 0,
    "img_dropped": 0
   },
   {
    "platform": "douyin",
    "name": "抖音热榜",
-   "items": 48,
+   "items": 49,
    "thumbs": 0,
    "file": "douyin.json",
-   "bytes": 11987,
+   "bytes": 12262,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -60,7 +60,7 @@
    "items": 50,
    "thumbs": 0,
    "file": "juejin.json",
-   "bytes": 16569,
+   "bytes": 16541,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -75,22 +75,12 @@
    "img_dropped": 0
   },
   {
-   "platform": "sspai",
-   "name": "少数派热门",
-   "items": 40,
-   "thumbs": 0,
-   "file": "sspai.json",
-   "bytes": 17231,
-   "img_fixed": 0,
-   "img_dropped": 40
-  },
-  {
    "platform": "36kr",
    "name": "36氪热榜",
    "items": 50,
    "thumbs": 50,
    "file": "36kr.json",
-   "bytes": 22345,
+   "bytes": 21981,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -100,7 +90,7 @@
    "items": 48,
    "thumbs": 48,
    "file": "ithome.json",
-   "bytes": 19334,
+   "bytes": 19330,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -110,15 +100,15 @@
    "items": 20,
    "thumbs": 20,
    "file": "thepaper.json",
-   "bytes": 7680,
+   "bytes": 7569,
    "img_fixed": 0,
    "img_dropped": 0
   }
  ],
  "merged": {
   "file": "all.json",
-  "items": 492,
-  "bytes": 259560,
+  "items": 493,
+  "bytes": 253832,
   "platforms": 11
  }
 }
