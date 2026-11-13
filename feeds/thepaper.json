@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-13 14:51:21）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-13 21:21:24）",
  "items": [
-  {
-   "id": "thepaper-34462683",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34462683",
-   "title": "言短意长｜“闹哄哄”的乡政府大院为何感动人",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794492330992_YJhSKf_1794492331194.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
-  },
   {
    "id": "thepaper-34468448",
    "url": "https://www.thepaper.cn/newsDetail_forward_34468448",
    "title": "十四届全国人大环境与资源保护委员会副主任委员王忠林被查",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794564257218_XxeH5X_1794564257403.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
+  },
+  {
+   "id": "thepaper-34468437",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34468437",
+   "title": "特朗普称应中东盟友请求延缓对伊朗行动",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794563700761_pDecDX_1794563701090.png\" />",
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
   },
   {
    "id": "thepaper-34460800",
    "url": "https://www.thepaper.cn/newsDetail_forward_34460800",
    "title": "观察｜俄美要重画欧洲安全版图？乌克兰和欧洲为何坐不住了",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794485347664_pTKRyS_1794485347903.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
   },
   {
    "id": "thepaper-34466609",
    "url": "https://www.thepaper.cn/newsDetail_forward_34466609",
    "title": "警方通报：酒类销售人员组织他人利用AI制作“和平饭店天价酒水账单”，15人被抓",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794549753053_b5H4jD_1794549753267.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
-  },
-  {
-   "id": "thepaper-34458466",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34458466",
-   "title": "专访｜刘家琨谈上海个展“明月构想”：一个喜欢文学的青年读了建筑专业",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794449927414_ntAyce_1794449928567.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
-  },
-  {
-   "id": "thepaper-34445056",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34445056",
-   "title": "地标是如何炼成的｜宽窄巷子里，他们的川剧表演曾让诺奖得主着迷",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794304503000_PPF2jw_1794305150854.jpg\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
-  },
-  {
-   "id": "thepaper-34459257",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34459257",
-   "title": "在哈姆雷特和“霸总”之间：一位文学教授想为短剧辩护",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794474449615_A818iR_1794474449868.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
-  },
-  {
-   "id": "thepaper-34023957",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34023957",
-   "title": "马上评｜通报不是“交差”，赢得认可要靠“交底”",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1788846104145_t21ABa_1788846104491.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
-  },
-  {
-   "id": "thepaper-34466808",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34466808",
-   "title": "李雪健：“耳朵听不见，说话也不利索了……只要还能站在镜头前，我就还想再演”",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794550954324_zMXaFn_1794550954520.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
-  },
-  {
-   "id": "thepaper-34465799",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34465799",
-   "title": "车主买新宝马轿车发现是召回车要求退一赔三：一审判赔百万，二审驳回",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794541292325_aptTMY_1794541292638.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
   },
   {
    "id": "thepaper-34468293",
    "url": "https://www.thepaper.cn/newsDetail_forward_34468293",
    "title": "众声｜“一餐饭51.7万元”造谣者被抓，别让真实在流量中走失",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794564405992_26wjaC_1794564406171.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
+  },
+  {
+   "id": "thepaper-34458466",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34458466",
+   "title": "专访｜刘家琨谈上海个展“明月构想”：一个喜欢文学的青年读了建筑专业",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794449927414_ntAyce_1794449928567.png\" />",
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
+  },
+  {
+   "id": "thepaper-34445056",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34445056",
+   "title": "地标是如何炼成的｜宽窄巷子里，他们的川剧表演曾让诺奖得主着迷",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794304503000_PPF2jw_1794305150854.jpg\" />",
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
+  },
+  {
+   "id": "thepaper-34459257",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34459257",
+   "title": "在哈姆雷特和“霸总”之间：一位文学教授想为短剧辩护",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794474449615_A818iR_1794474449868.png\" />",
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
+  },
+  {
+   "id": "thepaper-34469621",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34469621",
+   "title": "河南财经政法大学再通报“教师性骚扰女生”：予以开除并报请撤销其教师资格",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794573679803_s7NFdn_1794573680033.png\" />",
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
+  },
+  {
+   "id": "thepaper-34023957",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34023957",
+   "title": "马上评｜通报不是“交差”，赢得认可要靠“交底”",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1788846104145_t21ABa_1788846104491.png\" />",
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
+  },
+  {
+   "id": "thepaper-34466808",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34466808",
+   "title": "李雪健：“耳朵听不见，说话也不利索了……只要还能站在镜头前，我就还想再演”",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794550954324_zMXaFn_1794550954520.png\" />",
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
+  },
+  {
+   "id": "thepaper-34465799",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34465799",
+   "title": "车主买新宝马轿车发现是召回车要求退一赔三：一审判赔百万，二审驳回",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794541292325_aptTMY_1794541292638.png\" />",
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
   },
   {
    "id": "thepaper-34465522",
    "url": "https://www.thepaper.cn/newsDetail_forward_34465522",
    "title": "贵州贵定县“1988元可亲亲抱抱伴漂”被查处：罚款25万元，吊销营业执照",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794538174577_zdXNmY_1794538174745.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
   },
   {
    "id": "thepaper-34468242",
    "url": "https://www.thepaper.cn/newsDetail_forward_34468242",
    "title": "马上评｜女子忍耐楼上噪音8年，只能用魔法打败魔法？",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794561218706_6WWsh3_1794561377964.jpg\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
+  },
+  {
+   "id": "thepaper-34469875",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34469875",
+   "title": "王忠林被查，湖北省委：坚决拥护党中央决定",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794576041313_5ZC43R_1794576041521.png\" />",
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
+  },
+  {
+   "id": "thepaper-34467659",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34467659",
+   "title": "国际金价再度失守3900美元，金饰克价年内跌超500元，趋势何时扭转？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794557763141_3AEDtG_1794557763401.png\" />",
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
+  },
+  {
+   "id": "thepaper-34468438",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34468438",
+   "title": "江苏发布春秋假“十个严禁”：严禁学校以春秋假名义违规收费",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794565680674_jmyyR1_1794565680847.png\" />",
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
   },
   {
    "id": "thepaper-34467284",
    "url": "https://www.thepaper.cn/newsDetail_forward_34467284",
    "title": "国家卫健委：我国严禁任何形式代孕，组织代孕属于违法犯罪行为",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794556655633_cGkWF1_1794556655804.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
   },
   {
-   "id": "thepaper-34463586",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34463586",
-   "title": "金价再度跌破3900美元",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794515983824_FbBp2X_1794516038896.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
+   "id": "thepaper-34469392",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34469392",
+   "title": "常卫魏出任中国国家女子足球队主教练",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794570974945_MN2AWh_1794570975146.png\" />",
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
   },
   {
-   "id": "thepaper-34460408",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34460408",
-   "title": "现场观察｜当洪流退去，两支中尼科考队沿河谷寻找答案",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794486150740_GtwYNZ_1794486150928.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
-  },
-  {
-   "id": "thepaper-34466530",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34466530",
-   "title": "马上评｜我不想成为AI的“原料”，怎么办？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794550202223_NmWh36_1794550202388.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
-  },
-  {
-   "id": "thepaper-34455547",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34455547",
-   "title": "明查·聚焦｜你看到的外国人唱中文歌视频，可能是AI改编的",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794404664009_FQ6Drr_1794404664242.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
-  },
-  {
-   "id": "thepaper-34465787",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34465787",
-   "title": "2027年全国硕士研究生招生考试报名人数为347万",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794540976636_YwYTQr_1794540976759.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
-  },
-  {
-   "id": "thepaper-34467025",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34467025",
-   "title": "第九届进博会多项数据创新高，外交部答澎湃：坚定敞开大门，共享发展机遇",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794552955195_rjEcpN_1794552955319.png\" />",
-   "date_published": "Fri, 13 Nov 2026 14:51:21 GMT"
+   "id": "thepaper-34468836",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34468836",
+   "title": "高校“抬头率”争议背后：AI监督能裁定一堂课的好坏吗",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794567090765_RNB3hx_1794567090979.png\" />",
+   "date_published": "Fri, 13 Nov 2026 21:21:24 GMT"
   }
  ]
 }
