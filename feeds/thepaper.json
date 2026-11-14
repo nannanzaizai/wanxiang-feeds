@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-14 08:50:27）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-14 15:42:00）",
  "items": [
-  {
-   "id": "thepaper-34469875",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34469875",
-   "title": "王忠林被查，湖北省委：坚决拥护党中央决定",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794576041313_5ZC43R_1794576041521.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
-  },
-  {
-   "id": "thepaper-34468437",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34468437",
-   "title": "特朗普称应中东盟友请求延缓对伊朗行动",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794563700761_pDecDX_1794563701090.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
-  },
-  {
-   "id": "thepaper-34468293",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34468293",
-   "title": "众声｜“一餐饭51.7万元”造谣者被抓，别让真实在流量中走失",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794564405992_26wjaC_1794564406171.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
-  },
-  {
-   "id": "thepaper-34468836",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34468836",
-   "title": "高校“抬头率”争议背后：AI监督能裁定一堂课的好坏吗",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794567090765_RNB3hx_1794567090979.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
-  },
-  {
-   "id": "thepaper-34469621",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34469621",
-   "title": "河南财经政法大学再通报“教师性骚扰女生”：予以开除并报请撤销其教师资格",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794573679803_s7NFdn_1794573680033.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
-  },
-  {
-   "id": "thepaper-34468448",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34468448",
-   "title": "十四届全国人大环境与资源保护委员会副主任委员王忠林被查",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794564257218_XxeH5X_1794564257403.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
-  },
   {
    "id": "thepaper-34445476",
    "url": "https://www.thepaper.cn/newsDetail_forward_34445476",
    "title": "逃婚者身后的救助断点",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794301986292_TKmbEp_1794301986427.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
-  },
-  {
-   "id": "thepaper-34469536",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34469536",
-   "title": "一图世界｜想让内塔尼亚胡下台，埃森科特有哪几条路？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794574270648_GZNrHb_1794574270943.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
-  },
-  {
-   "id": "thepaper-34470461",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34470461",
-   "title": "曾直言“买包子2元、停车10元”的人大代表，如何看上海道路停车收费新政？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794611575470_3xbZsn_1794611575686.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
-  },
-  {
-   "id": "thepaper-34469883",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34469883",
-   "title": "探访南京“零元面馆”，对话创办人：困难的人得到帮助我就开心，希望此事能冷一冷",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794576830757_h5z2k2_1794576830984.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
-  },
-  {
-   "id": "thepaper-34475342",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34475342",
-   "title": "“司美格鲁肽副作用”登上热搜，如何看待GLP-1减重药物风险？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794620720743_XZETte_1794620720920.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
-  },
-  {
-   "id": "thepaper-34468242",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34468242",
-   "title": "马上评｜女子忍耐楼上噪音8年，只能用魔法打败魔法？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794561218706_6WWsh3_1794561377964.jpg\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
-  },
-  {
-   "id": "thepaper-34470007",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34470007",
-   "title": "北京警方：“车辆召回”骗局20多家车企被冒充，有人被骗27万",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794578377057_7EX3P2_1794578377294.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
-  },
-  {
-   "id": "thepaper-34469918",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34469918",
-   "title": "无门槛免费的“零元面馆”改为仅对四类人免费，此前引起周边商户不满",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794577634052_4smJMT_1794577634312.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
   },
   {
    "id": "thepaper-34477293",
    "url": "https://www.thepaper.cn/newsDetail_forward_34477293",
    "title": "甘肃平凉发起“见面即问您好”活动：不限于熟人之间",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794634166782_wCQmwn_1794634166973.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
   },
   {
-   "id": "thepaper-34469627",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34469627",
-   "title": "南京“零元面馆”设置门槛：仅60岁以上老人等四类人可免费",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794573763608_bGh5zd_1794573763799.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
+   "id": "thepaper-34479010",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34479010",
+   "title": "连休五天！多地公布雪假时间",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794645713545_aPBxDD_1794645713845.png\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
   },
   {
-   "id": "thepaper-34467989",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34467989",
-   "title": "家长称小孩被困电梯求助物业被告知“没上班等着吧”，物业：涉事保安已被开除",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794559984829_3Qfi6J_1794559985020.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
+   "id": "thepaper-34476794",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34476794",
+   "title": "马上评｜别让体育饭圈把专业问题变成情绪口水战",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794630279894_PHeDAa_1794630280013.png\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
+  },
+  {
+   "id": "thepaper-34470461",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34470461",
+   "title": "曾直言“买包子2元、停车10元”的人大代表，如何看上海道路停车收费新政？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794611575470_3xbZsn_1794611575686.png\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
+  },
+  {
+   "id": "thepaper-34469536",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34469536",
+   "title": "一图世界｜想让内塔尼亚胡下台，埃森科特有哪几条路？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794574270648_GZNrHb_1794574270943.png\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
+  },
+  {
+   "id": "thepaper-34469883",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34469883",
+   "title": "探访南京“零元面馆”，对话创办人：困难的人得到帮助我就开心，希望此事能冷一冷",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794576830757_h5z2k2_1794576830984.png\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
+  },
+  {
+   "id": "thepaper-34475342",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34475342",
+   "title": "“司美格鲁肽副作用”登上热搜，如何看待GLP-1减重药物风险？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794620720743_XZETte_1794620720920.png\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
+  },
+  {
+   "id": "thepaper-34346324",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34346324",
+   "title": "住院病人去哪儿了？唐山一医院被举报涉嫌“虚假住院骗保”，当地已成立联合调查组",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1793348998128_KCk21C_1793348998383.png\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
+  },
+  {
+   "id": "thepaper-34479556",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34479556",
+   "title": "男子高速开“智驾”直接躺倒睡觉、还载着一家人，交警：批评教育+处罚",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794651023123_7YQNsw_1794651023318.png\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
   },
   {
    "id": "thepaper-34474909",
    "url": "https://www.thepaper.cn/newsDetail_forward_34474909",
    "title": "两船相撞第一视角！美国巨型油轮撞击岸边游船致侧翻，乘客跳水自救",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794617042333_CjJatc_1794617042507.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
   },
   {
-   "id": "thepaper-34468917",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34468917",
-   "title": "国足主帅邵佳一：要踢出国足应有的拼搏斗志与竞技风格",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794567513402_y1pFRa_1794567513700.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
+   "id": "thepaper-34470625",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34470625",
+   "title": "网友反映日军侵华慰安所原址成网红拍照打卡点，杭州市园林文物局：若影响历史建筑安全会采取措施",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794583056777_sYs1Zf_1794583056996.png\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
   },
   {
-   "id": "thepaper-34467659",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34467659",
-   "title": "国际金价再度失守3900美元，金饰克价年内跌超500元，趋势何时扭转？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794557763141_3AEDtG_1794557763401.png\" />",
-   "date_published": "Sat, 14 Nov 2026 08:50:27 GMT"
+   "id": "thepaper-34474735",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34474735",
+   "title": "体坛联播｜荷兰7球横扫希腊，犯规致人死亡门将被禁赛12场",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794616675807_YCHFEE_1794616675991.png\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
+  },
+  {
+   "id": "thepaper-34478046",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34478046",
+   "title": "“零元面馆”内外众生相：一碗免费素面，真难住了一条街？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794638320612_nTerH7_1794638320896.png\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
+  },
+  {
+   "id": "thepaper-34469880",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34469880",
+   "title": "对话GAUC执委会主席杨斌：青年不只是气候议题的接受者，更是建构者",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794574088000_MKz3Wd_1794576634064.jpg\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
+  },
+  {
+   "id": "thepaper-34469932",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34469932",
+   "title": "又一城市公布“实时人口”：这项“人气指标”是如何测算的？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794577733815_YKBwp7_1794577734016.png\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
+  },
+  {
+   "id": "thepaper-34476374",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34476374",
+   "title": "中纪委网站谈王忠林被查：再次表明我们党任何时候都同腐败水火不相容",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794627442295_HhDPdi_1794627442463.png\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
+  },
+  {
+   "id": "thepaper-34478422",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34478422",
+   "title": "自付金额有望降至10万以内！百万CAR-T如何谈进医保，药明巨诺董事会主席详述谈判过程",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794641217002_fpbwKs_1794641217292.png\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
+  },
+  {
+   "id": "thepaper-34478272",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34478272",
+   "title": "中美举行中美经贸磋商机制项下贸易理事会首次会议",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794639307236_yfc65t_1794639307551.png\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
+  },
+  {
+   "id": "thepaper-34476399",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34476399",
+   "title": "美国交通部长：空中交管系统“极其老旧”，不全面更新的话会出现更多中断",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794628982326_KXxzNQ_1794628982507.png\" />",
+   "date_published": "Sat, 14 Nov 2026 15:42:00 GMT"
   }
  ]
 }
