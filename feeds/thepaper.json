@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-17 00:59:57）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-17 08:58:01）",
  "items": [
-  {
-   "id": "thepaper-34488263",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34488263",
-   "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/client/focusNewsWwwBig.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
-  },
   {
    "id": "thepaper-34490277",
    "url": "https://www.thepaper.cn/newsDetail_forward_34490277",
    "title": "习近平在广东中山考察",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794837526508_y3wPcM_1794837526695.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
   },
   {
-   "id": "thepaper-34489422",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34489422",
-   "title": "APEC中国时间｜对话俄罗斯学者：中俄美元首会晤传递什么新信号？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794807560810_5WX6yt_1794807564954.jpg\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
-  },
-  {
-   "id": "thepaper-34490388",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34490388",
-   "title": "马上评｜“方桃子”被罚，再次给AI商业化划出边界",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794830874747_w5APtn_1794830874994.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
-  },
-  {
-   "id": "thepaper-34490402",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34490402",
-   "title": "华为“天才少年”何馥君加盟西南交通大学，担任教授、博导",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794831927752_GsNGdB_1794831927966.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
-  },
-  {
-   "id": "thepaper-34489128",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34489128",
-   "title": "马上评｜老师，为何越来越“难做”了",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794799974562_mtf61j_1794799974818.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
-  },
-  {
-   "id": "thepaper-34490040",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34490040",
-   "title": "山东13岁少年被控杀害5岁邻居案将开庭：最高检核准追诉，被害人父亲望顶格判处",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794815354512_8D1SP3_1794815354695.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
-  },
-  {
-   "id": "thepaper-34489919",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34489919",
-   "title": "中俄美三国元首将在深圳会晤，外交部：历史首次面对面会晤，有开创性意义",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794812116626_iEzDwj_1794812116874.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
-  },
-  {
-   "id": "thepaper-34489676",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34489676",
-   "title": "河北滦南通报“800万建污水处理厂4年未启用”：开展全面核查",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794806248911_47878Q_1794806249076.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
-  },
-  {
-   "id": "thepaper-34489720",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34489720",
-   "title": "【社论】年龄才是标尺，请让儿童票名副其实",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794807345545_H3HCdi_1794807345773.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
-  },
-  {
-   "id": "thepaper-34489554",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34489554",
-   "title": "北大399元羽绒服走红，访问激增挤崩小程序，门店工作人员：仅线下有售，目前已断货",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794804859036_BFCDnS_1794804859255.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
-  },
-  {
-   "id": "thepaper-34459284",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34459284",
-   "title": "APEC落子深圳，不可替代：一座创出来的城市，更懂亚太多元经济体",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794474184842_mdyi6Y_1794474185116.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
-  },
-  {
-   "id": "thepaper-34488749",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34488749",
-   "title": "美国全国停飞后各方“甩锅”：特朗普政府指责前任，民主党人嘲讽钱用在了凯旋门",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794796346968_scB5na_1794796347298.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
-  },
-  {
-   "id": "thepaper-34490021",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34490021",
-   "title": "马上评丨球迷拉侮辱性横幅，伤害了足球也伤害了湘超",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794814662000_pfFx6m_1794814896968.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
-  },
-  {
-   "id": "thepaper-34490269",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34490269",
-   "title": "国足迎战巴林：身体和精神都准备好了，争取硬碰硬赢下比赛",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794822901092_ts5sKD_1794822901294.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
-  },
-  {
-   "id": "thepaper-34489736",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34489736",
-   "title": "特朗普：期待参加中俄美元首会晤",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794807803382_SEnrtE_1794807803575.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
+   "id": "thepaper-34490498",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34490498",
+   "title": "圆桌｜中俄美元首历史性首次会晤在即，三国权威学者谈大国关系新契机",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794838499406_PWr3em_1794838499589.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
   },
   {
    "id": "thepaper-34490260",
    "url": "https://www.thepaper.cn/newsDetail_forward_34490260",
    "title": "APEC每日观察｜忙碌与从容之间，深圳静待历史时刻",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794822600809_CkXJyc_1794822601075.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
   },
   {
-   "id": "thepaper-34488425",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34488425",
-   "title": "国家统计局：10月份一线城市商品房价环比上涨，二三线城市环比下降",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794793264393_HG6p8A_1794793264616.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
+   "id": "thepaper-34490388",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34490388",
+   "title": "马上评｜“方桃子”被罚，再次给AI商业化划出边界",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794830874747_w5APtn_1794830874994.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
   },
   {
-   "id": "thepaper-34490446",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34490446",
-   "title": "年内回撤30%！现货黄金价格创逾一年新低，为何跌跌不休？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794833815763_BxEzS3_1794833815887.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
+   "id": "thepaper-34490402",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34490402",
+   "title": "华为“天才少年”何馥君加盟西南交通大学，担任教授、博导",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794831927752_GsNGdB_1794831927966.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
   },
   {
    "id": "thepaper-34490327",
    "url": "https://www.thepaper.cn/newsDetail_forward_34490327",
    "title": "分析｜怎么看10月消费、投资数据有所波动？",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794826788318_W2dNcp_1794826788446.png\" />",
-   "date_published": "Tue, 17 Nov 2026 00:59:57 GMT"
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
+  },
+  {
+   "id": "thepaper-34490477",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34490477",
+   "title": "作家余华、程永新与《巴黎评论》副主编对谈：中国作家如何被世界看见",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794836130550_PEXDxh_1794836130794.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
+  },
+  {
+   "id": "thepaper-34490040",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34490040",
+   "title": "山东13岁少年被控杀害5岁邻居案将开庭：最高检核准追诉，被害人父亲望顶格判处",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794815354512_8D1SP3_1794815354695.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
+  },
+  {
+   "id": "thepaper-34490252",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34490252",
+   "title": "网络招聘帖假招聘、真卖课？记者实测被推荐先买课，12家单位均称是虚假招聘信息",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794876547048_Fn27kj_1794876547316.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
+  },
+  {
+   "id": "thepaper-34490375",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34490375",
+   "title": "冷门“顶流”｜研究满语40年，一位七旬学者的紧迫感",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794887119403_S5xHsb_1794887119632.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
+  },
+  {
+   "id": "thepaper-34489720",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34489720",
+   "title": "【社论】年龄才是标尺，请让儿童票名副其实",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794807345545_H3HCdi_1794807345773.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
+  },
+  {
+   "id": "thepaper-34490414",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34490414",
+   "title": "释新闻｜拿顿巴斯换北约成员资格，乌克兰面临一道两难选择题",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794832152676_zXXEyk_1794832152913.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
+  },
+  {
+   "id": "thepaper-34490021",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34490021",
+   "title": "马上评丨球迷拉侮辱性横幅，伤害了足球也伤害了湘超",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794814662000_pfFx6m_1794814896968.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
+  },
+  {
+   "id": "thepaper-34490269",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34490269",
+   "title": "国足迎战巴林：身体和精神都准备好了，争取硬碰硬赢下比赛",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794822901092_ts5sKD_1794822901294.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
+  },
+  {
+   "id": "thepaper-34490382",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34490382",
+   "title": "人民锐评：“维修刺客”背后，是变了味的“业绩考核”",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794830671637_SxJk8D_1794830671895.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
+  },
+  {
+   "id": "thepaper-34490081",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34490081",
+   "title": "北大羽绒服卖断货，盘点爆火高校羽绒服：有的书记带货、有的自带温控",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794818069181_Wrh84w_1794818069381.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
+  },
+  {
+   "id": "thepaper-34490365",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34490365",
+   "title": "浙江一企业在厕所设置信号屏蔽器防员工上班时刷手机，被罚",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794828711383_GMR1k4_1794828711584.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
+  },
+  {
+   "id": "thepaper-34491192",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34491192",
+   "title": "蝙蝠侠出演007，安全但太没新意了",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794880077440_ia3XEC_1794880094148.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
+  },
+  {
+   "id": "thepaper-34490446",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34490446",
+   "title": "年内回撤30%！现货黄金价格创逾一年新低，为何跌跌不休？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794833815763_BxEzS3_1794833815887.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
+  },
+  {
+   "id": "thepaper-34490067",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34490067",
+   "title": "中俄美三国元首将在深圳会晤，外交部：有开创性意义",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1794816561416_acD5SK_1794816561622.png\" />",
+   "date_published": "Tue, 17 Nov 2026 08:58:01 GMT"
   }
  ]
 }
