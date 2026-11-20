@@ -2,343 +2,343 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "IT之家",
  "home_page_url": "https://m.ithome.com/rankm/",
- "description": "IT之家热榜（via DailyHotApi · 生成于 2026-11-20 16:00:02）",
+ "description": "IT之家热榜（via DailyHotApi · 生成于 2026-11-20 22:35:15）",
  "items": [
   {
-   "id": "ithome-1029134",
-   "url": "https://www.ithome.com/0/102/9134.htm",
-   "title": "英伟达员工大会宣布告别“黄仁勋时代”：12 月员工加薪，启动新 CEO 遴选",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029134_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "id": "ithome-1030120",
+   "url": "https://www.ithome.com/0/103/0120.htm",
+   "title": "5499 元起，“首款为 AI 而生的鸿蒙手机”华为星芒 OSTA O1 Pro 阔直板正式发布",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1030120_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
-   "id": "ithome-1029151",
-   "url": "https://www.ithome.com/0/102/9151.htm",
-   "title": "华为最薄 Mate 直板机来了，Mate90 Air 轻薄旗舰定档 11 月 24 日发布",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029151_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "id": "ithome-1029868",
+   "url": "https://www.ithome.com/0/102/9868.htm",
+   "title": "苹果 20 周年款 iPhone 渲染图曝光：整机如一块玻璃，四曲面带来“无边框”观感",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029868_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1030048",
+   "url": "https://www.ithome.com/0/103/0048.htm",
+   "title": "华为余承东：L3 自动驾驶来了以后开车是可以睡觉的，别睡死过去就行",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1030048_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1030116",
+   "url": "https://www.ithome.com/0/103/0116.htm",
+   "title": "4999 元起 18:08 开抢：华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机首发加赠 1588 元无忧礼包",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1030116_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1029873",
+   "url": "https://www.ithome.com/0/102/9873.htm",
+   "title": "华为星芒 OSTA O1 Pro 配置汇总：麒麟 9030S 处理器、2 亿 RYYB 主摄，今日发布",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029873_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1030126",
+   "url": "https://www.ithome.com/0/103/0126.htm",
+   "title": "支持华为 OSTA 星芒 O1 Pro 手机满速充电：华为 66W 冰糖全能充电器 89 元国补发车",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1030126_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1029708",
+   "url": "https://www.ithome.com/0/102/9708.htm",
+   "title": "Anthropic 完成史上最大规模 IPO，上市估值达 1.5 万亿美元",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029708_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1029748",
+   "url": "https://www.ithome.com/0/102/9748.htm",
+   "title": "“史上最大 IPO”：Anthropic 上市首日收盘大涨 17%，市值达 1.27 万亿美元",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029748_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1030059",
+   "url": "https://www.ithome.com/0/103/0059.htm",
+   "title": "消息称华为星芒 OSTA O1 Pro 阔直板手机首发价 5499 元起",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1030059_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1030132",
+   "url": "https://www.ithome.com/0/103/0132.htm",
+   "title": "华为余承东：享界 V8 具备 L3 硬件能力但未开放，当下 L2 时代开车不能睡觉",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1030132_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1030085",
+   "url": "https://www.ithome.com/0/103/0085.htm",
+   "title": "华为星芒刘赫：得麒麟芯者得天下，OSTA O1 Pro 搭载麒麟 9030S 旗舰 τ 芯片",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1030085_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1029867",
+   "url": "https://www.ithome.com/0/102/9867.htm",
+   "title": "能让 iPhone 跑安卓 App 的虚拟机 Andarium 被苹果 App Store 火速下架",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029867_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1027260",
+   "url": "https://www.ithome.com/0/102/7260.htm",
+   "title": "B站宣布免费送所有人大会员，英雄联盟 S16 全球总决赛中国战队 BLG 夺冠",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027260_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1029644",
    "url": "https://www.ithome.com/0/102/9644.htm",
    "title": "苹果手机能用安卓 App 了：App Store 上架安卓虚拟机，iPhone、iPad 都能装",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029644_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1029192",
-   "url": "https://www.ithome.com/0/102/9192.htm",
-   "title": "腾讯大幅削减元宝投入：没有我们预期的那样成功",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029192_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1029273",
-   "url": "https://www.ithome.com/0/102/9273.htm",
-   "title": "华为希望苹果调整 iOS 蓝牙配对机制，解决新旧版本配对兼容问题",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029273_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1029191",
-   "url": "https://www.ithome.com/0/102/9191.htm",
-   "title": "“最薄 Mate 直板机”华为 Mate 90 Air 上线官网，预计搭载 7 英寸等深四曲屏",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029191_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1029526",
-   "url": "https://www.ithome.com/0/102/9526.htm",
-   "title": "黄仁勋女儿现身全员会、看起来“状态不错”，英伟达要提前发钱",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029526_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1029247",
-   "url": "https://www.ithome.com/0/102/9247.htm",
-   "title": "马斯克自称“中国超级粉丝”：首次到访深圳被震撼，特斯拉将继续在华提高产量",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029247_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1029270",
-   "url": "https://www.ithome.com/0/102/9270.htm",
-   "title": "1 厘米标尺竟有 12 个刻度，中南大学通报附属医院 AI 论文争议、确认存在学术不端行为",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029270_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1029264",
-   "url": "https://www.ithome.com/0/102/9264.htm",
-   "title": "网易 UU 远程官宣推出 VIP 和 SVIP 服务，基础远控将持续免费无广告",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029264_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1029274",
-   "url": "https://www.ithome.com/0/102/9274.htm",
-   "title": "消息称苹果 iPhone 18/18e/Air 2 明年 3 月发布，屏幕最早下月量产",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029274_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1029209",
-   "url": "https://www.ithome.com/0/102/9209.htm",
-   "title": "酷态科 10 Ultra 确认存在低压设备损坏隐患，已 OTA 推送修复固件",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029209_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1026529",
-   "url": "https://www.ithome.com/0/102/6529.htm",
-   "title": "“我算个什么东西”：黄仁勋离任英伟达 CEO 最后时刻心力交瘁，把“随便”和“我不在乎”挂在嘴边",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1026529_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1027260",
-   "url": "https://www.ithome.com/0/102/7260.htm",
-   "title": "B站宣布免费送所有人大会员，英雄联盟 S16 全球总决赛中国战队 BLG 夺冠",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027260_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1027470",
    "url": "https://www.ithome.com/0/102/7470.htm",
    "title": "消息称黄仁勋考虑重返英伟达担任 CEO，其硅谷盟友正施压董事会",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027470_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1026735",
-   "url": "https://www.ithome.com/0/102/6735.htm",
-   "title": "英伟达员工发起挽留行动：内部投票超 97% 希望黄仁勋回归",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1026735_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1027258",
    "url": "https://www.ithome.com/0/102/7258.htm",
    "title": "队史首次！BLG 战队 3:1 力克 GEN 夺《英雄联盟》S16 冠军，中国战队连斩 4 支韩国队时隔 5 年再登顶",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027258_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1027535",
    "url": "https://www.ithome.com/0/102/7535.htm",
    "title": "华为星芒 OSTA O1 Pro 真机流出，消息称搭载麒麟 9030S 处理器",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027535_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1027597",
-   "url": "https://www.ithome.com/0/102/7597.htm",
-   "title": "算力承压：曝 DeepSeek 应用及网页端实施限额，长对话与日额度双双受限",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027597_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1029113",
    "url": "https://www.ithome.com/0/102/9113.htm",
    "title": "真 · QQ 音乐简洁版“复活”：绿钻权益互通，脱离波点音乐 App",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029113_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1027711",
-   "url": "https://www.ithome.com/0/102/7711.htm",
-   "title": "AI 演员方桃子代言美瞳广告被罚，声称“戴了一天都很舒服”",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027711_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1026532",
-   "url": "https://www.ithome.com/0/102/6532.htm",
-   "title": "AMD 发文祝贺苏姿丰获评“年度最佳 CEO”",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1026532_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1028566",
-   "url": "https://www.ithome.com/0/102/8566.htm",
-   "title": "黄仁勋打破沉默：若董事会允许，愿重返英伟达担任 CEO",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1028566_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1027233",
-   "url": "https://www.ithome.com/0/102/7233.htm",
-   "title": "黄仁勋辞任 CEO 后，英伟达诞生地丹尼餐厅移除纪念铭牌、又宣布将重新挂回",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027233_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1026529",
-   "url": "https://www.ithome.com/0/102/6529.htm",
-   "title": "“我算个什么东西”：黄仁勋离任英伟达 CEO 最后时刻心力交瘁，把“随便”和“我不在乎”挂在嘴边",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1026529_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1027258",
-   "url": "https://www.ithome.com/0/102/7258.htm",
-   "title": "队史首次！BLG 战队 3:1 力克 GEN 夺《英雄联盟》S16 冠军，中国战队连斩 4 支韩国队时隔 5 年再登顶",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027258_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1027535",
-   "url": "https://www.ithome.com/0/102/7535.htm",
-   "title": "华为星芒 OSTA O1 Pro 真机流出，消息称搭载麒麟 9030S 处理器",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027535_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1026869",
-   "url": "https://www.ithome.com/0/102/6869.htm",
-   "title": "今年下半年唯一国产旗舰机：消息称华为 Pura X View 阔直板激活销量破百万",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1026869_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1027498",
-   "url": "https://www.ithome.com/0/102/7498.htm",
-   "title": "里程碑时刻！曝华为鸿蒙 HarmonyOS 装机量突破 1 亿台",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027498_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1027411",
-   "url": "https://www.ithome.com/0/102/7411.htm",
-   "title": "消息称苹果 iPhone 18 Pro 系列手机销量已达 782.87 万台",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027411_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1028090",
-   "url": "https://www.ithome.com/0/102/8090.htm",
-   "title": "华为星芒 OSTA O1 Pro 阔直板手机主要配置曝光：麒麟 9030S，保留无线充电，不带充电头",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1028090_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1027012",
-   "url": "https://www.ithome.com/0/102/7012.htm",
-   "title": "高速上开智驾睡觉还载着一家人？青岛交警查处最新违法案例公布",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027012_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1026735",
-   "url": "https://www.ithome.com/0/102/6735.htm",
-   "title": "英伟达员工发起挽留行动：内部投票超 97% 希望黄仁勋回归",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1026735_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1026799",
-   "url": "https://www.ithome.com/0/102/6799.htm",
-   "title": "鸿蒙智行问界新 M8 正式上市，37.98 万-46.98 万元",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1026799_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1028692",
-   "url": "https://www.ithome.com/0/102/8692.htm",
-   "title": "苹果首款折叠 iPhone Duo 铰链风波升级，韩媒称供应商受压撤回声明",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1028692_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1027597",
    "url": "https://www.ithome.com/0/102/7597.htm",
    "title": "算力承压：曝 DeepSeek 应用及网页端实施限额，长对话与日额度双双受限",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027597_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1027711",
+   "url": "https://www.ithome.com/0/102/7711.htm",
+   "title": "AI 演员方桃子代言美瞳广告被罚，声称“戴了一天都很舒服”",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027711_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1028566",
+   "url": "https://www.ithome.com/0/102/8566.htm",
+   "title": "黄仁勋打破沉默：若董事会允许，愿重返英伟达担任 CEO",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1028566_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1027233",
+   "url": "https://www.ithome.com/0/102/7233.htm",
+   "title": "黄仁勋辞任 CEO 后，英伟达诞生地丹尼餐厅移除纪念铭牌、又宣布将重新挂回",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027233_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1028580",
+   "url": "https://www.ithome.com/0/102/8580.htm",
+   "title": "英伟达董事会主席明确表态：无意让黄仁勋回归重新担任 CEO",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1028580_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1028209",
+   "url": "https://www.ithome.com/0/102/8209.htm",
+   "title": "【IT之家开箱】华为全新子品牌星芒 OSTA O1 Pro 手机实拍：渐变星芒紫，阔直板设计别具一格",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1028209_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1030120",
+   "url": "https://www.ithome.com/0/103/0120.htm",
+   "title": "5499 元起，“首款为 AI 而生的鸿蒙手机”华为星芒 OSTA O1 Pro 阔直板正式发布",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1030120_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1027258",
+   "url": "https://www.ithome.com/0/102/7258.htm",
+   "title": "队史首次！BLG 战队 3:1 力克 GEN 夺《英雄联盟》S16 冠军，中国战队连斩 4 支韩国队时隔 5 年再登顶",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027258_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1029644",
+   "url": "https://www.ithome.com/0/102/9644.htm",
+   "title": "苹果手机能用安卓 App 了：App Store 上架安卓虚拟机，iPhone、iPad 都能装",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029644_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1030048",
+   "url": "https://www.ithome.com/0/103/0048.htm",
+   "title": "华为余承东：L3 自动驾驶来了以后开车是可以睡觉的，别睡死过去就行",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1030048_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1027535",
+   "url": "https://www.ithome.com/0/102/7535.htm",
+   "title": "华为星芒 OSTA O1 Pro 真机流出，消息称搭载麒麟 9030S 处理器",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027535_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1027498",
+   "url": "https://www.ithome.com/0/102/7498.htm",
+   "title": "里程碑时刻！曝华为鸿蒙 HarmonyOS 装机量突破 1 亿台",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027498_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1027411",
+   "url": "https://www.ithome.com/0/102/7411.htm",
+   "title": "消息称苹果 iPhone 18 Pro 系列手机销量已达 782.87 万台",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027411_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1028090",
+   "url": "https://www.ithome.com/0/102/8090.htm",
+   "title": "华为星芒 OSTA O1 Pro 阔直板手机主要配置曝光：麒麟 9030S，保留无线充电，不带充电头",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1028090_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1027012",
+   "url": "https://www.ithome.com/0/102/7012.htm",
+   "title": "高速上开智驾睡觉还载着一家人？青岛交警查处最新违法案例公布",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027012_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1030132",
+   "url": "https://www.ithome.com/0/103/0132.htm",
+   "title": "华为余承东：享界 V8 具备 L3 硬件能力但未开放，当下 L2 时代开车不能睡觉",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1030132_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1028692",
+   "url": "https://www.ithome.com/0/102/8692.htm",
+   "title": "苹果首款折叠 iPhone Duo 铰链风波升级，韩媒称供应商受压撤回声明",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1028692_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1029113",
+   "url": "https://www.ithome.com/0/102/9113.htm",
+   "title": "真 · QQ 音乐简洁版“复活”：绿钻权益互通，脱离波点音乐 App",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029113_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1026394",
    "url": "https://www.ithome.com/0/102/6394.htm",
    "title": "即刻生效！黄仁勋辞去英伟达总裁、首席执行官和董事会成员职务",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1026394_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1024031",
    "url": "https://www.ithome.com/0/102/4031.htm",
    "title": "英伟达黄仁勋承认出轨：“我对妻子不忠，伤害了家人，没有任何借口”",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1024031_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1026529",
    "url": "https://www.ithome.com/0/102/6529.htm",
    "title": "“我算个什么东西”：黄仁勋离任英伟达 CEO 最后时刻心力交瘁，把“随便”和“我不在乎”挂在嘴边",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1026529_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1018156",
    "url": "https://www.ithome.com/0/101/8156.htm",
    "title": "5499 元起：苹果发布 iPad mini 8 平板，8.5 寸 60Hz OLED 屏、A20 Pro 芯片、支持 IP67 防尘防水",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1018156_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1020249",
    "url": "https://www.ithome.com/0/102/0249.htm",
    "title": "IT之家 11.11 严选好货：小米 NAS 智能存储 2190 元低过众筹，一键保价没事就点点",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1020249_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
-  },
-  {
-   "id": "ithome-1015864",
-   "url": "https://www.ithome.com/0/101/5864.htm",
-   "title": "问界发布关于陕西省榆林神木市车辆事故的说明：事发时车辆处于人驾状态，行经路口车速 139.1km/h",
-   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1015864_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1027260",
    "url": "https://www.ithome.com/0/102/7260.htm",
    "title": "B站宣布免费送所有人大会员，英雄联盟 S16 全球总决赛中国战队 BLG 夺冠",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1027260_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1018241",
    "url": "https://www.ithome.com/0/101/8241.htm",
    "title": "苹果 iOS 27.2 正式版国行“最重要专属功能”，可禁止 App 摇一摇跳转",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1018241_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1021649",
    "url": "https://www.ithome.com/0/102/1649.htm",
    "title": "IT之家 11.11 严选好货：京东 PLUS 年卡 69 元得双倍积分，B站、剪映、百度网盘、迅雷皆好价",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1021649_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1018170",
    "url": "https://www.ithome.com/0/101/8170.htm",
    "title": "IT之家 11.11 严选好货：iPhone 18 Pro / Max 国补千元限地区，AirPods Pro 3 京东 1163 元新低",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/10/1018170_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1025211",
    "url": "https://www.ithome.com/0/102/5211.htm",
    "title": "再迎“iPhone X 时刻”：20 周年款苹果手机前瞻，整机如一块玻璃、按键将全固态",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1025211_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
+  },
+  {
+   "id": "ithome-1029644",
+   "url": "https://www.ithome.com/0/102/9644.htm",
+   "title": "苹果手机能用安卓 App 了：App Store 上架安卓虚拟机，iPhone、iPad 都能装",
+   "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1029644_240.jpg?x-bce-process=image/format,f_auto\" />",
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   },
   {
    "id": "ithome-1025829",
    "url": "https://www.ithome.com/0/102/5829.htm",
    "title": "不仅一段婚外情？消息称英伟达正准备罢免 CEO 黄仁勋，公司股价盘后大跌",
    "content_html": "<img src=\"https://img.ithome.com/newsuploadfiles/thumbnail/2026/11/1025829_240.jpg?x-bce-process=image/format,f_auto\" />",
-   "date_published": "Fri, 20 Nov 2026 16:00:02 GMT"
+   "date_published": "Fri, 20 Nov 2026 22:35:15 GMT"
   }
  ]
 }
