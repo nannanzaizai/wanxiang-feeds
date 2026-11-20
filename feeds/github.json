@@ -2,119 +2,119 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "github 趋势",
  "home_page_url": "https://github.com/trending?since=daily",
- "description": "GitHub Trending（via DailyHotApi · 生成于 2026-11-19 23:44:29）",
+ "description": "GitHub Trending（via DailyHotApi · 生成于 2026-11-20 06:49:25）",
  "items": [
   {
    "id": "github-0",
    "url": "https://github.com/elementalsouls/Claude-BugHunter",
    "title": "Claude-BugHunter",
    "content_html": "<p>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</p>",
-   "date_published": "Thu, 19 Nov 2026 23:44:29 GMT"
+   "date_published": "Fri, 20 Nov 2026 06:49:25 GMT"
   },
   {
    "id": "github-1",
    "url": "https://github.com/obra/superpowers",
    "title": "superpowers",
    "content_html": "<p>An agentic skills framework & software development methodology that works.</p>",
-   "date_published": "Thu, 19 Nov 2026 23:44:29 GMT"
+   "date_published": "Fri, 20 Nov 2026 06:49:25 GMT"
   },
   {
    "id": "github-2",
    "url": "https://github.com/HKUDS/CLI-Anything",
    "title": "CLI-Anything",
    "content_html": "<p>\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/</p>",
-   "date_published": "Thu, 19 Nov 2026 23:44:29 GMT"
+   "date_published": "Fri, 20 Nov 2026 06:49:25 GMT"
   },
   {
    "id": "github-3",
    "url": "https://github.com/jingyaogong/minimind",
    "title": "minimind",
    "content_html": "<p>🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.</p>",
-   "date_published": "Thu, 19 Nov 2026 23:44:29 GMT"
+   "date_published": "Fri, 20 Nov 2026 06:49:25 GMT"
   },
   {
    "id": "github-4",
    "url": "https://github.com/cursor/plugins",
    "title": "plugins",
    "content_html": "<p>Cursor plugin specification and official plugins</p>",
-   "date_published": "Thu, 19 Nov 2026 23:44:29 GMT"
+   "date_published": "Fri, 20 Nov 2026 06:49:25 GMT"
   },
   {
    "id": "github-5",
    "url": "https://github.com/firecrawl/firecrawl",
    "title": "firecrawl",
    "content_html": "<p>Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.</p>",
-   "date_published": "Thu, 19 Nov 2026 23:44:29 GMT"
+   "date_published": "Fri, 20 Nov 2026 06:49:25 GMT"
   },
   {
    "id": "github-6",
    "url": "https://github.com/nginx/nginx",
    "title": "nginx",
    "content_html": "<p>The official NGINX Open Source repository.</p>",
-   "date_published": "Thu, 19 Nov 2026 23:44:29 GMT"
+   "date_published": "Fri, 20 Nov 2026 06:49:25 GMT"
   },
   {
    "id": "github-7",
    "url": "https://github.com/openvinotoolkit/openvino",
    "title": "openvino",
    "content_html": "<p>OpenVINO™ is an open source toolkit for optimizing and deploying AI inference</p>",
-   "date_published": "Thu, 19 Nov 2026 23:44:29 GMT"
+   "date_published": "Fri, 20 Nov 2026 06:49:25 GMT"
   },
   {
    "id": "github-8",
    "url": "https://github.com/cathrynlavery/diagram-design",
    "title": "diagram-design",
    "content_html": "<p>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.</p>",
-   "date_published": "Thu, 19 Nov 2026 23:44:29 GMT"
+   "date_published": "Fri, 20 Nov 2026 06:49:25 GMT"
   },
   {
    "id": "github-9",
    "url": "https://github.com/mvanhorn/last30days-skill",
    "title": "last30days-skill",
    "content_html": "<p>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</p>",
-   "date_published": "Thu, 19 Nov 2026 23:44:29 GMT"
+   "date_published": "Fri, 20 Nov 2026 06:49:25 GMT"
   },
   {
    "id": "github-10",
    "url": "https://github.com/google-labs-code/stitch-skills",
    "title": "stitch-skills",
    "content_html": "<p>A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.</p>",
-   "date_published": "Thu, 19 Nov 2026 23:44:29 GMT"
+   "date_published": "Fri, 20 Nov 2026 06:49:25 GMT"
   },
   {
    "id": "github-11",
    "url": "https://github.com/mjmirza/app-store-compliance",
    "title": "app-store-compliance",
    "content_html": "<p>Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.</p>",
-   "date_published": "Thu, 19 Nov 2026 23:44:29 GMT"
+   "date_published": "Fri, 20 Nov 2026 06:49:25 GMT"
   },
   {
    "id": "github-12",
    "url": "https://github.com/Tracer-Cloud/opensre",
    "title": "opensre",
    "content_html": "<p>The open-source agent for CI/CD reliability.</p>",
-   "date_published": "Thu, 19 Nov 2026 23:44:29 GMT"
+   "date_published": "Fri, 20 Nov 2026 06:49:25 GMT"
   },
   {
    "id": "github-13",
    "url": "https://github.com/toeverything/AFFiNE",
    "title": "AFFiNE",
    "content_html": "<p>There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.</p>",
-   "date_published": "Thu, 19 Nov 2026 23:44:29 GMT"
+   "date_published": "Fri, 20 Nov 2026 06:49:25 GMT"
   },
   {
    "id": "github-14",
    "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
    "title": "Ghost-Downloader-3",
    "content_html": "<p>The only downloader you need. 下载器的集大成者。</p>",
-   "date_published": "Thu, 19 Nov 2026 23:44:29 GMT"
+   "date_published": "Fri, 20 Nov 2026 06:49:25 GMT"
   },
   {
    "id": "github-15",
    "url": "https://github.com/zhouxiaoka/autoclip",
    "title": "autoclip",
    "content_html": "<p>AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.</p>",
-   "date_published": "Thu, 19 Nov 2026 23:44:29 GMT"
+   "date_published": "Fri, 20 Nov 2026 06:49:25 GMT"
   }
  ]
 }
