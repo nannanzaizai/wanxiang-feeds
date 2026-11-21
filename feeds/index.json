@@ -1,16 +1,16 @@
 {
  "version": "https://jsonfeed.org/version/1.1",
  "title": "万象热榜索引",
- "generated_at": "2026-11-21 03:25:11",
- "total_items": 502,
+ "generated_at": "2026-11-21 11:38:54",
+ "total_items": 450,
  "feeds": [
   {
    "platform": "zhihu",
    "name": "知乎热榜",
    "items": 30,
-   "thumbs": 30,
+   "thumbs": 29,
    "file": "zhihu.json",
-   "bytes": 33282,
+   "bytes": 40291,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -20,7 +20,7 @@
    "items": 50,
    "thumbs": 0,
    "file": "weibo.json",
-   "bytes": 18093,
+   "bytes": 18371,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -30,7 +30,7 @@
    "items": 100,
    "thumbs": 100,
    "file": "bilibili.json",
-   "bytes": 46442,
+   "bytes": 47733,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -40,17 +40,17 @@
    "items": 50,
    "thumbs": 50,
    "file": "toutiao.json",
-   "bytes": 24345,
+   "bytes": 24295,
    "img_fixed": 0,
    "img_dropped": 0
   },
   {
    "platform": "douyin",
    "name": "抖音热榜",
-   "items": 48,
+   "items": 49,
    "thumbs": 0,
    "file": "douyin.json",
-   "bytes": 12161,
+   "bytes": 12354,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -60,7 +60,7 @@
    "items": 50,
    "thumbs": 0,
    "file": "juejin.json",
-   "bytes": 17059,
+   "bytes": 16865,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -75,22 +75,12 @@
    "img_dropped": 0
   },
   {
-   "platform": "sspai",
-   "name": "少数派热门",
-   "items": 40,
-   "thumbs": 0,
-   "file": "sspai.json",
-   "bytes": 17110,
-   "img_fixed": 0,
-   "img_dropped": 40
-  },
-  {
    "platform": "36kr",
    "name": "36氪热榜",
-   "items": 50,
-   "thumbs": 50,
+   "items": 37,
+   "thumbs": 37,
    "file": "36kr.json",
-   "bytes": 21783,
+   "bytes": 16337,
    "img_fixed": 0,
    "img_dropped": 0
   },
@@ -110,15 +100,15 @@
    "items": 20,
    "thumbs": 20,
    "file": "thepaper.json",
-   "bytes": 7672,
+   "bytes": 7661,
    "img_fixed": 0,
    "img_dropped": 0
   }
  ],
  "merged": {
   "file": "all.json",
-  "items": 492,
-  "bytes": 246525,
+  "items": 480,
+  "bytes": 248962,
   "platforms": 11
  }
 }
