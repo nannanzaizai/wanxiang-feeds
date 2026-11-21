@@ -2,357 +2,357 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "今日头条",
  "home_page_url": "https://www.toutiao.com/",
- "description": "今日头条热榜（via DailyHotApi · 生成于 2026-11-20 22:35:04）",
+ "description": "今日头条热榜（via DailyHotApi · 生成于 2026-11-21 03:24:57）",
  "items": [
+  {
+   "id": "toutiao-7710320443907179034",
+   "url": "https://www.toutiao.com/trending/7710320443907179034/",
+   "title": "美股为何暴跌",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/57f63efc-aaf3-43c9-8ae6-6b1de9d9b49b~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=fRIMTKXaUuJPsi08KDogLZyFByI%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
+  },
+  {
+   "id": "toutiao-7710212370945035817",
+   "url": "https://www.toutiao.com/trending/7710212370945035817/",
+   "title": "高市搭讪特朗普被无视 日网民：丢人",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/3afa78e3-ab9e-4707-9d83-449c4d151684~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=JLh%2B33DV3LS5BBN4Kt2xWYoRqVw%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
+  },
+  {
+   "id": "toutiao-7709891766916857906",
+   "url": "https://www.toutiao.com/trending/7709891766916857906/",
+   "title": "APEC参会来宾眼中的“奇迹之城”",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/mosaic-legacy/2b29000036f8405561443~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=zix1XkxmuWUKBP%2BWlkxhCjoi%2FSo%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
+  },
+  {
+   "id": "toutiao-7710436973017566771",
+   "url": "https://www.toutiao.com/trending/7710436973017566771/",
+   "title": "特朗普：若当年我在任俄乌战争能避免",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/mosaic-legacy/2b29000036f8405561443~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=zix1XkxmuWUKBP%2BWlkxhCjoi%2FSo%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
+  },
+  {
+   "id": "toutiao-7710415118915472922",
+   "url": "https://www.toutiao.com/trending/7710415118915472922/",
+   "title": "特朗普称不支持“台独”引岛内震动",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/e8b27571-be94-4cb7-9629-c5e008471066~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=JDDzj4pjeBjvw%2FQIY%2BlGZGjZKzw%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
+  },
   {
    "id": "toutiao-7709314788123525147",
    "url": "https://www.toutiao.com/trending/7709314788123525147/",
-   "title": "胖东来搬离后原址所开新商场几乎倒闭",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/52fe89057e544f01bc7080f648a643c2~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=6C%2Bly8TyePDk2KKXqO8jgKXIbw4%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "title": "胖东来原址开的新商场几乎倒闭",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/52fe89057e544f01bc7080f648a643c2~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=4iTIyc9ISgDrK6gcr%2F%2BBb2HPTO4%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7709960248785682474",
-   "url": "https://www.toutiao.com/trending/7709960248785682474/",
-   "title": "高市早苗拍特朗普试图搭话被无视",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/d728608fcf6f41e49b83e66a8574b7d3~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=GW9cFS7%2BmODVw%2Bj4vHezS3J%2BocQ%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710268311845473828",
+   "url": "https://www.toutiao.com/trending/7710268311845473828/",
+   "title": "全球市场遭遇黑色星期五",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/55ef4bbde4a54d2f833a48b5bd4be217~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=7iYGWpdKkiPYWro4us9IRgjjOw4%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710217409394708019",
-   "url": "https://www.toutiao.com/trending/7710217409394708019/",
-   "title": "亚太经合组织贸易数字化合作框架",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/mosaic-legacy/2b29000036f8405561443~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=%2FfGqUJ5xgTpvAo%2BAcOVgdfdCaMc%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
-  },
-  {
-   "id": "toutiao-7709841146268353051",
-   "url": "https://www.toutiao.com/trending/7709841146268353051/",
-   "title": "赖岳谦：汉奸走狗才盲目追捧日本人",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/b8f9bff7fce244068b6c3579a1843b06~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=J1%2FgO2ZCiGhNbr3eb0uAQMLUBA8%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
-  },
-  {
-   "id": "toutiao-7709481684689240107",
-   "url": "https://www.toutiao.com/trending/7709481684689240107/",
-   "title": "特朗普从中国返美途中发帖",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/65a34d59-d244-43ef-a926-56b27417d8c5~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=51AG%2F6J%2B%2BfBYZieAJXhI0jwuF%2Fg%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
-  },
-  {
-   "id": "toutiao-7709489021277422089",
-   "url": "https://www.toutiao.com/trending/7709489021277422089/",
-   "title": "女子晒婆婆带娃前后变化",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/53b839a204df401cbc51d42bf2528778~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=LHzrGQnOENMAdZwymFs619v8ZRs%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
-  },
-  {
-   "id": "toutiao-7710174513023090707",
-   "url": "https://www.toutiao.com/trending/7710174513023090707/",
-   "title": "500元以下的羽绒服到底能不能买",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/b9048b0257e54b39b7a22c96b71c469e~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=y7EkD5%2BbGiTxiy105NVNQ9nz2nU%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
-  },
-  {
-   "id": "toutiao-7709777242096877587",
-   "url": "https://www.toutiao.com/trending/7709777242096877587/",
-   "title": "日方称中方接待高市早苗符合惯例",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/13b15be649094c1190cdaea43e82a9f4~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=cNSlJkSmeqFVAcZdfqnxe%2FTgN6I%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7709383108075733055",
+   "url": "https://www.toutiao.com/trending/7709383108075733055/",
+   "title": "魏德尔：大国谈判桌上已没有欧洲",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/mosaic-legacy/2b29000036f8405561443~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=zix1XkxmuWUKBP%2BWlkxhCjoi%2FSo%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
    "id": "toutiao-7709589988203790390",
    "url": "https://www.toutiao.com/trending/7709589988203790390/",
    "title": "深圳华丽转型生动诠释APEC理念",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/63a4cd5a235749f3ad3c73820f8a9758~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=25BVvyvZkS2qezWLH4XH9kBuG7k%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/63a4cd5a235749f3ad3c73820f8a9758~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=RKgE0pPGKFJklS%2FPclbYAYRlGXM%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710256278832087561",
-   "url": "https://www.toutiao.com/trending/7710256278832087561/",
-   "title": "北京菜百首饰总店金条卖断货",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/96fe62b6d5cd4e86942b3bb3af835188~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=%2BuP6aRo%2Fs13BstMvDKojRiLsHaA%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7709695614761631785",
+   "url": "https://www.toutiao.com/trending/7709695614761631785/",
+   "title": "特朗普称赞深圳城市建设",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/b031e728842b45f685782ef241a57c0c~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=n2z38jU9Et4fzkHbg8MFE8QTeYw%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7709649440877117503",
-   "url": "https://www.toutiao.com/trending/7709649440877117503/",
-   "title": "“社保断缴三个月账户清零”不实",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/35875e504f3c4c70a8a5ea08ba7b2d35~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=xOA%2FeRihLmjNCPbOJsVxd4beZC4%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7709760322059468854",
+   "url": "https://www.toutiao.com/trending/7709760322059468854/",
+   "title": "湖南株洲一仓库突发大火？不实",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/742096c78abb44bb8eeb2c1838017e9d~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=9m15CR3KQDiVIaJVulF1LbGYJMc%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710109639815495722",
-   "url": "https://www.toutiao.com/trending/7710109639815495722/",
-   "title": "李亚鹏想帮王菲母女3人和声被拒绝",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/61c3c27cc6474122a1ef8027bd3e585d~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=fate6jYF2sY0KDt34grLNo2m52M%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710447455623708715",
+   "url": "https://www.toutiao.com/trending/7710447455623708715/",
+   "title": "《辟谣箴言》系列漫画",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/17afc0878115486fa0d06cdc26a5fd99~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=kEthsehsHdp1dcX9RLIJC9mY0Ws%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710069212773974555",
-   "url": "https://www.toutiao.com/trending/7710069212773974555/",
-   "title": "“全球最大医院”原党委书记被双开",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/9cbc4b04d92a4566b4d02a2e7b26761c~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=kvlFvUBYZ68BZj1zHlNGKh0GopA%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710421076987088426",
+   "url": "https://www.toutiao.com/trending/7710421076987088426/",
+   "title": "金价下跌 现在买金镯子还是再等等",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/efbfb8ee-9bd0-4f81-9d55-26b986b216d8~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=fx4DZYvqlyQz%2Fx7s1dfMYVNvnhE%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7709810386661032457",
-   "url": "https://www.toutiao.com/trending/7709810386661032457/",
-   "title": "一家人下楼散步误入剧组",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/847338c0-3804-4d3a-bb1d-03e2194fec43~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=ypGCgranpxjju4qdmVAGWMGcKac%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7709403329285242934",
+   "url": "https://www.toutiao.com/trending/7709403329285242934/",
+   "title": "高市早苗对台湾问题躲闪作答",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/627d215c-193c-49eb-9dc8-2a16ea55ce32~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=kygHgl%2FXh8zWPLQKConpIRI6bWw%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7709715074235092521",
-   "url": "https://www.toutiao.com/trending/7709715074235092521/",
-   "title": "伊能静一眼看破所有嘉宾",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/75eed691235546b287ba12e6d6b0ea7a~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=H64Bb7JlbHmYsKLcMFtnloT3iLk%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
-  },
-  {
-   "id": "toutiao-7709655398001918491",
-   "url": "https://www.toutiao.com/trending/7709655398001918491/",
-   "title": "儿子将满18岁消失17年的父亲来求赡养",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/ea9328c4-ced8-4b7d-b72c-044257783d49~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=s8Ra6cyOPTOJNZdRZmPcTAQO20g%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
-  },
-  {
-   "id": "toutiao-7710147160632823322",
-   "url": "https://www.toutiao.com/trending/7710147160632823322/",
-   "title": "特朗普称行程太满没顾上见金正恩",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/e1586a6758b14505b30001b3b52197e1~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=7p5IQ4G8go9oneYKm3UeOzwUYPI%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
-  },
-  {
-   "id": "toutiao-7710161845718581810",
-   "url": "https://www.toutiao.com/trending/7710161845718581810/",
-   "title": "李子柒当选四川省文联副主席",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/86ab115c-55e3-439f-9327-5946476074e3~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=MIBbhpcnvGtS4e1CRstUTwDxsrI%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
-  },
-  {
-   "id": "toutiao-7710231888769777727",
-   "url": "https://www.toutiao.com/trending/7710231888769777727/",
-   "title": "西班牙本世纪已9次击败法国",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/d8af302d63e045dea0cf28f79b224185~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=f2Uo6ljME5qeCr3droepkOVb46Y%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
-  },
-  {
-   "id": "toutiao-7710142740406980106",
-   "url": "https://www.toutiao.com/trending/7710142740406980106/",
-   "title": "满分10分 特朗普为中俄美会晤打12分",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/462eecc5de2346639bb21c0ad4f71f56~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=y68cyG0PYY96LFhN95eZ0HR2feE%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
-  },
-  {
-   "id": "toutiao-7710056489101984307",
-   "url": "https://www.toutiao.com/trending/7710056489101984307/",
-   "title": "全球市场恐慌升温",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/9c04d4fc81d84af19578cd9ccd8987de~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=O3bQQ%2FO4%2FpZivD8sY%2BGTxb%2F3h%2FE%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
-  },
-  {
-   "id": "toutiao-7710088582502744626",
-   "url": "https://www.toutiao.com/trending/7710088582502744626/",
-   "title": "女子进金店要买89万黄金 店员报警",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/6ed5d1db688d4b338ed0f3e975a9f016~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=kooETqX%2FYXAR4zLUuVmOLhGg%2BA4%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
-  },
-  {
-   "id": "toutiao-7710150679368568356",
-   "url": "https://www.toutiao.com/trending/7710150679368568356/",
-   "title": "中方回应高市在深圳就台湾问题表态",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/c5ee72b1e5004dda82def25f051084e6~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=Q1w37%2Bo6iz%2Be8ukNDhutW5X4JDY%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
-  },
-  {
-   "id": "toutiao-7709358206577868827",
-   "url": "https://www.toutiao.com/trending/7709358206577868827/",
-   "title": "老人网购15吨薯条喂猪",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/ce3b59a637fd4972923bf4279b1a08d9~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=SZgMiySb0mb0m5EpYZzNQFLT4tY%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
-  },
-  {
-   "id": "toutiao-7710232705882918419",
-   "url": "https://www.toutiao.com/trending/7710232705882918419/",
-   "title": "特朗普为何打电话批评欧盟援乌",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/02665a5f61ba4d48b8d0d1f9e4ee5b17~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=83LL3dp1FU86lmDfh5ortXFK8Jk%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7708596473688818185",
+   "url": "https://www.toutiao.com/trending/7708596473688818185/",
+   "title": "主人去世20天小猫每天守墓旁",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/4bae6ada9ff64cf29370dedbe77617db~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=vY5SM4VqJWKSvg1A9PB9vnX2nRM%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
    "id": "toutiao-7709392181840216107",
    "url": "https://www.toutiao.com/trending/7709392181840216107/",
    "title": "墨西哥总统感谢中国女保镖",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/edfb2f93f06e4a67882fdd3fb954a106~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=dHgo284AXP%2Fd4gXowPlH4cvyvrU%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/edfb2f93f06e4a67882fdd3fb954a106~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=ksWsXwYYghiFP28ZNShwJHZCBEQ%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7709344190911512586",
-   "url": "https://www.toutiao.com/trending/7709344190911512586/",
-   "title": "大地出现异常地震就要来了吗",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/b8effaee454a408d9e48aa2c46bbee97~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=0CfiJA%2Bhq0AsAIgxIAz9Woyne7s%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710311264434700809",
+   "url": "https://www.toutiao.com/trending/7710311264434700809/",
+   "title": "特朗普：美自选举以来损失4万亿美元",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/243fba7a3a984b0ca2e5ac1011894f5d~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=M9WLaS0XKrF1K%2FTxFO39Tbz5YaU%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7709921012918501939",
-   "url": "https://www.toutiao.com/trending/7709921012918501939/",
-   "title": "东京万人集会抗议高市政权政策",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/0ba5e6abd6364a459595e18e888c7676~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=c3qmrdp7m1bbWubQYU0vXYpUEy4%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710413659545013786",
+   "url": "https://www.toutiao.com/trending/7710413659545013786/",
+   "title": "英伟达七周累计暴跌46%",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/mosaic-legacy/2b29000036f8405561443~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=zix1XkxmuWUKBP%2BWlkxhCjoi%2FSo%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710243921330258458",
-   "url": "https://www.toutiao.com/trending/7710243921330258458/",
-   "title": "钧正平：日方应收回涉台错误言论",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/b3497ea887f54c31879d147516e71dc1~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=DrPwiSr32wRp3pTsUZ9GnvWJSUU%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710391553490947620",
+   "url": "https://www.toutiao.com/trending/7710391553490947620/",
+   "title": "特朗普：中俄美元首会晤史无前例",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/95f5f762864341cf9293ca64834f34a9~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=ZBIHN%2F4HhYzkS54NiePGz2sD5%2Bo%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
+  },
+  {
+   "id": "toutiao-7709505115111325759",
+   "url": "https://www.toutiao.com/trending/7709505115111325759/",
+   "title": "金价为何急跌",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/90bb09d80d124a8796fb2670aff4275e~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=Bxph%2FyvJcitKyvK22Z62G9sz4dg%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
    "id": "toutiao-7709417593496436786",
    "url": "https://www.toutiao.com/trending/7709417593496436786/",
    "title": "余承东纠正“开车可以睡觉”言论",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/32e736b8d58441df9b61d988299c3382~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=O37Xxj47qjzySa4zb1iB3VMA68Q%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/32e736b8d58441df9b61d988299c3382~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=n8Xl5v7aWkWNsurXqw8Y%2F%2BV8Tu4%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7709916170874519595",
-   "url": "https://www.toutiao.com/trending/7709916170874519595/",
-   "title": "相声演员杨议将恢复演出？当地回应",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/mosaic-legacy/2b28f000370774e5fabc5~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=EuzhU0YqWsEjwu3c32%2FyL7SwkDU%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710109639815495722",
+   "url": "https://www.toutiao.com/trending/7710109639815495722/",
+   "title": "李亚鹏想帮王菲母女3人和声被拒绝",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/61c3c27cc6474122a1ef8027bd3e585d~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=q%2Bs%2Fqf1V7nDL9ulZR2OtVvkimpg%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710181297695801407",
-   "url": "https://www.toutiao.com/trending/7710181297695801407/",
-   "title": "APEC国宴大厨分享蒸鱼秘诀",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/6a4016fe744d4c6db4a73c1038ab3101~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=3wieWvFXkRnWZebA08i4CwuHg4o%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710401447673892362",
+   "url": "https://www.toutiao.com/trending/7710401447673892362/",
+   "title": "特朗普称在中国度过一段美好时光",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/8d3676991ebd448087e46f4ebc542bb5~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=8TJcIjVNO%2F6aIaB8O8FaSV0tGGw%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710188716061540915",
-   "url": "https://www.toutiao.com/trending/7710188716061540915/",
-   "title": "27岁庞众望完成博士论文答辩",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/0163534220a842068303b1d85df0a7ea~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=YP4di9dU%2FLXy6NGvkktje8rBOxg%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710394970938704393",
+   "url": "https://www.toutiao.com/trending/7710394970938704393/",
+   "title": "郭正亮嘲“青鸟”：一边哭去吧",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/e7ec70a2d7f44ce6b32f4e68f94793fa~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=Jchj57XYA8Ax02VzC5noq0FMOuQ%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7709125566045897225",
-   "url": "https://www.toutiao.com/trending/7709125566045897225/",
-   "title": "外国人在华强北买疯了",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/6dd2a719163043ac8888553f4d738b64~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=6%2BR4x9awrSzZ9niygnfAqJP4NIg%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7709716397584547894",
+   "url": "https://www.toutiao.com/trending/7709716397584547894/",
+   "title": "比亚迪闪充枪突破3.1万个",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/93b0293f706a431b80a86df05c8283c5~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=KxqHMjtl0cTYvvuLRYju%2FOa6V5o%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7708984160852901929",
-   "url": "https://www.toutiao.com/trending/7708984160852901929/",
-   "title": "王毅给深圳办会打100分",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/e3c6a819-ec71-41d8-a048-7101c796e803~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=rszUx8UJN8osoV4v1dh5QXONsvk%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710142740406980106",
+   "url": "https://www.toutiao.com/trending/7710142740406980106/",
+   "title": "满分10分 特朗普为中俄美会晤打12分",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/462eecc5de2346639bb21c0ad4f71f56~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=cOT%2FDF8kligzW5O8U4NMLjW%2BIA8%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710209643342990889",
-   "url": "https://www.toutiao.com/trending/7710209643342990889/",
-   "title": "俄罗斯为何愿低价卖气给中国",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/9dd2adb15a89404d9e7d0a12922bf483~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=iiYl3BZ8YLIXUUG1NTLWQkIPwAQ%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710269704648003126",
+   "url": "https://www.toutiao.com/trending/7710269704648003126/",
+   "title": "金价还能撑多久",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/f7b716a38fec4b3a9dc376f355a34e99~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=VGsAMrWS9AqhL0MPhcdcNeYzFvo%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7708962129541448242",
-   "url": "https://www.toutiao.com/trending/7708962129541448242/",
-   "title": "多家券商研判A股后市",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/4a00fe5785774a03b229a3ea0a9ae388~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=4lvGTT0uatTPfdDJbXObyya9%2Bho%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710133874474418186",
+   "url": "https://www.toutiao.com/trending/7710133874474418186/",
+   "title": "扎哈罗娃感谢中国",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/9267abcd90d54ccd9e887aa06e78ec3f~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=H876JkANlhulKWwn5i5wj9F%2BGT4%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710247582680747539",
-   "url": "https://www.toutiao.com/trending/7710247582680747539/",
-   "title": "APEC凭啥让全球六成GDP聚在一起",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/c1960f15b58d4bb898ec2b27c2df600d~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=X%2FI4eb8TYoUegqJ45kBl5TABa54%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710115454929355290",
+   "url": "https://www.toutiao.com/trending/7710115454929355290/",
+   "title": "干洗羽绒服是在“毁衣服”吗",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/c43d5c4944c942e98666e2b0c77afc5a~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=oau5ElCF%2BIs9TJS%2BrMNZ8i%2Bkzrw%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710008473287442954",
-   "url": "https://www.toutiao.com/trending/7710008473287442954/",
-   "title": "泽连斯基摊手回应特朗普称普京为朋友",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/05df8052c3a84aa98f7f6d4cff2e2bf3~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=%2Bz8qYoANW%2Bszn7%2Bzsyvqin2ff%2B8%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7709702513515135039",
+   "url": "https://www.toutiao.com/trending/7709702513515135039/",
+   "title": "金饰克价继续下跌 老凤祥单日跌34元",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/mosaic-legacy/2b29000036f8405561443~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=zix1XkxmuWUKBP%2BWlkxhCjoi%2FSo%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710231688206355994",
-   "url": "https://www.toutiao.com/trending/7710231688206355994/",
-   "title": "广州荔枝冰酒为何能选入晚宴菜单",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/22100d7e8f454675ade6e6b735f649d2~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=2Bdx7%2BUtY0BGI9eF26Z%2BUjLiGbs%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710174513023090707",
+   "url": "https://www.toutiao.com/trending/7710174513023090707/",
+   "title": "500元以下的羽绒服到底能不能买",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/b9048b0257e54b39b7a22c96b71c469e~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=apJghYwe7NcXMyEfNEOa9jJI2H8%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7709068424386822171",
-   "url": "https://www.toutiao.com/trending/7709068424386822171/",
-   "title": "特朗普说完全理解普京的愤怒",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/adb7d8dd51a746e9a95ee9fc57aa07f6~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=UoEcRgDUyAbBq7RLVhFRBmekoek%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710310135944626739",
+   "url": "https://www.toutiao.com/trending/7710310135944626739/",
+   "title": "特朗普：美企在海外建数据中心将被罚",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/a63f67ca60284265a553b12b62bde965~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=Z%2BjbjQ3gOsu70kzKr4HTIyYCn04%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710217487127678500",
-   "url": "https://www.toutiao.com/trending/7710217487127678500/",
-   "title": "法国会撤回部署在乌克兰的军事人员吗",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/22f4272f5d2446b195216bab7c6416dc~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=Sx9eKNFPP4%2BHRXCkOV%2B1VvJYbi4%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710282194849107483",
+   "url": "https://www.toutiao.com/trending/7710282194849107483/",
+   "title": "国内金价回落至去年4月水平",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/d6acdd75064042beb415dfc0ba579e81~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=QiwoiYQ1gncziOxfGVSJLGKw7f4%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7707875533644513842",
-   "url": "https://www.toutiao.com/trending/7707875533644513842/",
-   "title": "小说里的A市在深圳具象化了",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/e3bb2c1db4ed4bec8ad58ecd8d3169a0~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=U6OQadnpxcNJPtSk0hZQz4THNFg%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710415583694556682",
+   "url": "https://www.toutiao.com/trending/7710415583694556682/",
+   "title": "APEC礼宾用车见证汽车产业跃升",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/mosaic-legacy/2b28f000370774e5fabc5~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=SnrZ5m1nNy7Eyp1wXE8DgvN4bi8%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7709725268617593382",
-   "url": "https://www.toutiao.com/trending/7709725268617593382/",
-   "title": "马斯克：太空进入成本或降100倍",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/a34422e4998147c19eda6299f2fe81b1~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=XtErIL1%2BzHt4L71WvVacUzSkrfA%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710392889351638555",
+   "url": "https://www.toutiao.com/trending/7710392889351638555/",
+   "title": "特朗普：伊朗不想达成我能接受的协议",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/0f91802d-566f-43d4-b193-b7f6a53f7f30~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=DtZzt7Bu%2FmFO0ATj0JhqM2TKacg%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710029506241954331",
-   "url": "https://www.toutiao.com/trending/7710029506241954331/",
-   "title": "方程豹折叠方向盘引质疑",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/334cc8ff2e80469b8779ebb2add1aea9~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=WPjJK53qgzw1vDBy9PG8raeAK3A%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710243282130832937",
+   "url": "https://www.toutiao.com/trending/7710243282130832937/",
+   "title": "AI浪潮落幕了吗",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/51a114b235b74067b87a2eecca934333~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=aa6MgTAvtPpMTbkDALm6IVPzAxo%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710190511167901238",
-   "url": "https://www.toutiao.com/trending/7710190511167901238/",
-   "title": "中国相机爆火海外的原因是什么",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/dee40ca8fc244b21a671d816fb6eef25~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=3BfdIu2VJXRNQQVKn3DF4gAYdY8%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710256272192310811",
+   "url": "https://www.toutiao.com/trending/7710256272192310811/",
+   "title": "三位拉美国家元首的深圳之行",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/mosaic-legacy/2b29000036f8405561443~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=zix1XkxmuWUKBP%2BWlkxhCjoi%2FSo%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710124352368558602",
-   "url": "https://www.toutiao.com/trending/7710124352368558602/",
-   "title": "广东将发放5000万元文旅消费券",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/8dd007881a8c455b9b783603a316319e~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=y1V3D6we%2F8JHM6xcOjFH3g0qECQ%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7709398056323760666",
+   "url": "https://www.toutiao.com/trending/7709398056323760666/",
+   "title": "《两京十五日》开播",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/691c0695503944e3b57e7455febab975~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=USVZ5RhYf047d8hw4DodBI8YMBU%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710157865684795955",
-   "url": "https://www.toutiao.com/trending/7710157865684795955/",
-   "title": "俄方不接受乌成为北约准成员",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/a5abdf8bcb0c45fc96463e7686f60643~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=fPqtCfHYoq8s4CignSTihbxIf3g%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710196503448764937",
+   "url": "https://www.toutiao.com/trending/7710196503448764937/",
+   "title": "郑煤集团发生4.07亿重大损失",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/mosaic-legacy/2b29000036f8405561443~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=zix1XkxmuWUKBP%2BWlkxhCjoi%2FSo%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7710183577039670826",
-   "url": "https://www.toutiao.com/trending/7710183577039670826/",
-   "title": "欧洲领导人为何不敢和普京当面沟通",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/5127b82f93d44156a11ccf02bed75d63~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=3SSHILdW3fhxwzaIiEA3PI6O7tQ%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7709852723188875786",
+   "url": "https://www.toutiao.com/trending/7709852723188875786/",
+   "title": "深圳环卫工谈深南大道：一直都漂亮",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/0b4ecdc91f93412daba1e3bbf1d42f77~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=yiqcRFY9Jdl5UPs4gnsPvUAo0cI%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   },
   {
-   "id": "toutiao-7709898047236964362",
-   "url": "https://www.toutiao.com/trending/7709898047236964362/",
-   "title": "高市是时候收回涉台错误言论了",
-   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/8e41c672074944fab5a650aacc68a9ab~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797724800&x-signature=xyB97BdVo1u2kFp7wwVCmnAe6%2Bk%3D\" />",
-   "date_published": "Fri, 20 Nov 2026 22:35:04 GMT"
+   "id": "toutiao-7710260650387718683",
+   "url": "https://www.toutiao.com/trending/7710260650387718683/",
+   "title": "《两京十五日》好看吗",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/1237c8507c884006b5a504ce1039a8ed~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=8%2BuzhLmH4btWCyJVW4uwBUrqYJk%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
+  },
+  {
+   "id": "toutiao-7710424746604937259",
+   "url": "https://www.toutiao.com/trending/7710424746604937259/",
+   "title": "深圳的新能源汽车生态是怎么来的",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/2792524aed2d4f28812c930e7cb30484~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=ahwlvQMrdrkfVKv7FIgIEv2ifaA%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
+  },
+  {
+   "id": "toutiao-7709960248785682474",
+   "url": "https://www.toutiao.com/trending/7709960248785682474/",
+   "title": "高市早苗拍特朗普试图搭话被无视",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/d728608fcf6f41e49b83e66a8574b7d3~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=7GKOlpxV5%2F7zbSKfOa6kPeYDLvc%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
+  },
+  {
+   "id": "toutiao-7709360149525200937",
+   "url": "https://www.toutiao.com/trending/7709360149525200937/",
+   "title": "深圳街头外国友人牵着小机器人逛街",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/8d414933f0dc4e8e9e4712f238ad1ecf~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=vNe8bhdHA1eOF%2F%2BTWP32yjU3FQE%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
+  },
+  {
+   "id": "toutiao-7709944741567250995",
+   "url": "https://www.toutiao.com/trending/7709944741567250995/",
+   "title": "于和伟接受新华社专访",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/a794933b07cc4d5ba09e63716798e51b~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=kxuJdFM7aaKS7VOxoI3pYYA6gO4%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
+  },
+  {
+   "id": "toutiao-7709481684689240107",
+   "url": "https://www.toutiao.com/trending/7709481684689240107/",
+   "title": "特朗普从中国返美途中发帖",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/65a34d59-d244-43ef-a926-56b27417d8c5~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=ejm4xWn7KeAuMKQkgpCbcnpRsco%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
+  },
+  {
+   "id": "toutiao-7710450068611927578",
+   "url": "https://www.toutiao.com/trending/7710450068611927578/",
+   "title": "星芒回应被嫌贵：便宜未必是创新方向",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/ac366af1922c449a96221d1d27319459~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=ZfZmNrY2HkrzQqiLLwh6ayAZkGo%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
+  },
+  {
+   "id": "toutiao-7710313242395938367",
+   "url": "https://www.toutiao.com/trending/7710313242395938367/",
+   "title": "刘建宏谈U17国足不敌西班牙",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/9230b707447a4eb39fbe2f6b3cd63b19~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=lk691STR1k8IdeJ%2F%2F605AuQPepY%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
+  },
+  {
+   "id": "toutiao-7709655398001918491",
+   "url": "https://www.toutiao.com/trending/7709655398001918491/",
+   "title": "儿子将满18岁消失17年的父亲来求赡养",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/ea9328c4-ced8-4b7d-b72c-044257783d49~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=rV0gKFXa4y%2BbFMO3ufMQhexr40E%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
+  },
+  {
+   "id": "toutiao-7710279430655970859",
+   "url": "https://www.toutiao.com/trending/7710279430655970859/",
+   "title": "韩国两名超高分“学霸”坍塌背后",
+   "content_html": "<img src=\"https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/c53ce24992c4494c8992dd0423f864bb~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1797811200&x-signature=luFTnu4PeK1RG4yuPNYrY4MTlnU%3D\" />",
+   "date_published": "Sat, 21 Nov 2026 03:24:57 GMT"
   }
  ]
 }
