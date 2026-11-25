@@ -2,147 +2,147 @@
  "version": "https://jsonfeed.org/version/1.1",
  "title": "澎湃新闻",
  "home_page_url": "https://www.thepaper.cn/",
- "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-25 10:19:24）",
+ "description": "澎湃热榜（via DailyHotApi · 生成于 2026-11-25 20:05:37）",
  "items": [
-  {
-   "id": "thepaper-34548826",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34548826",
-   "title": "陈吉宁涉嫌严重违纪违法正接受中央纪委国家监委审查调查",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/client/focusNewsWwwBig.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
-  },
-  {
-   "id": "thepaper-34549926",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34549926",
-   "title": "上海市委常委会举行扩大会议：坚决拥护党中央对陈吉宁涉嫌严重违纪违法进行审查调查的决定",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/client/focusNewsWwwBig.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
-  },
-  {
-   "id": "thepaper-34548287",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34548287",
-   "title": "知网等平台AI检测被曝算法存疑近一周系统仍未调整：马上测持续追问，平台避而不答",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795516326920_A31yba_1795516327151.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
-  },
-  {
-   "id": "thepaper-34550330",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34550330",
-   "title": "贵州从江对损害野生鸟类资源等问题开展调查，5名犯罪嫌疑人被抓",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795532630101_iQehPm_1795532630270.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
-  },
   {
    "id": "thepaper-34539120",
    "url": "https://www.thepaper.cn/newsDetail_forward_34539120",
    "title": "大学应有的模样｜当过程不再被视为通向结果的意义之路",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795500830210_Gb7kRe_1795500830428.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
   },
   {
    "id": "thepaper-34539636",
    "url": "https://www.thepaper.cn/newsDetail_forward_34539636",
    "title": "冷门“顶流”｜深耕西夏学40余年，为历史补缺的人",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795421057727_d7PaDH_1795421057929.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
-  },
-  {
-   "id": "thepaper-34551655",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34551655",
-   "title": "亚洲数学联盟成立，丘成桐任主席",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795542543334_FsJGeY_1795542543584.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
-  },
-  {
-   "id": "thepaper-34545247",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34545247",
-   "title": "直播丨神舟二十四号载人飞船发射取得圆满成功",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795566078825_NNKDf5_1795566079040.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
-  },
-  {
-   "id": "thepaper-34550322",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34550322",
-   "title": "媒体：洗脚盆上车？车企创新别跑偏",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795532302175_MkGFHs_1795532302411.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
-  },
-  {
-   "id": "thepaper-34549933",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34549933",
-   "title": "美国FCC更新清单，光储逆变器股走强、阳光电源盘中大涨14%",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795528826906_ExRx2C_1795528827073.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
-  },
-  {
-   "id": "thepaper-34555127",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34555127",
-   "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795579253995_Z3Ef8Y_1795579254153.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
-  },
-  {
-   "id": "thepaper-34553570",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34553570",
-   "title": "美国再曝网络安全事件，CIA开源情报分析系统遭入侵有信息泄露",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795569471021_jJmsmS_1795569471120.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
-  },
-  {
-   "id": "thepaper-34547681",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34547681",
-   "title": "博主视频露出故宫同款“名画”后被封禁？故宫回应无该藏品，平台透露封禁因“视频存在未成年人性化着装”",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795510120524_FeCp8a_1795510120711.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
-  },
-  {
-   "id": "thepaper-34529993",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34529993",
-   "title": "钱一栋｜AI步步紧逼，价值判断是人类最后的护城河吗？",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795508383180_Km53jx_1795508383361.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
-  },
-  {
-   "id": "thepaper-34547283",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34547283",
-   "title": "河北定州一男子称父亲坠亡遭房主“挟尸要价”，警方未立案，施工方：死者亲属要求保留现场引发不快",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795507904948_3XX4jc_1795507905066.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
   },
   {
    "id": "thepaper-34546364",
    "url": "https://www.thepaper.cn/newsDetail_forward_34546364",
    "title": "经纬度｜“存款多了”绝不等于“不消费了”",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795502410393_zPmm6s_1795502410615.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
+  },
+  {
+   "id": "thepaper-34555127",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34555127",
+   "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795579253995_Z3Ef8Y_1795579254153.png\" />",
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
+  },
+  {
+   "id": "thepaper-34553570",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34553570",
+   "title": "美国再曝网络安全事件，CIA开源情报分析系统遭入侵有信息泄露",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795569471021_jJmsmS_1795569471120.png\" />",
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
+  },
+  {
+   "id": "thepaper-34547681",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34547681",
+   "title": "博主视频露出故宫同款“名画”后被封禁？故宫回应无该藏品，平台透露封禁因“视频存在未成年人性化着装”",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795510120524_FeCp8a_1795510120711.png\" />",
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
+  },
+  {
+   "id": "thepaper-34529993",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34529993",
+   "title": "钱一栋｜AI步步紧逼，价值判断是人类最后的护城河吗？",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795508383180_Km53jx_1795508383361.png\" />",
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
+  },
+  {
+   "id": "thepaper-34555484",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34555484",
+   "title": "陕西一囚犯被束缚48日后心梗死亡，两任监区长被控虐待一案已进入重审二审",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795582652091_xsYwwH_1795582652194.png\" />",
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
+  },
+  {
+   "id": "thepaper-34547283",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34547283",
+   "title": "河北定州一男子称父亲坠亡遭房主“挟尸要价”，警方未立案，施工方：死者亲属要求保留现场引发不快",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795507904948_3XX4jc_1795507905066.png\" />",
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
+  },
+  {
+   "id": "thepaper-34539623",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34539623",
+   "title": "AI世代｜第二层无明：机器知道，人类相信",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795420494105_PeiPRA_1795420494322.png\" />",
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
+  },
+  {
+   "id": "thepaper-34554685",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34554685",
+   "title": "“三孩非亲生”离婚案一审宣判：女方存在重大过错，被判赔22万元",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795576481361_ZEwzXY_1795576481523.png\" />",
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
   },
   {
    "id": "thepaper-34549397",
    "url": "https://www.thepaper.cn/newsDetail_forward_34549397",
    "title": "“鲤鱼打挺”失败仍获武术比赛亚军？包头市教育局：该项目三人参赛，无违规情形",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795524517240_hHJE6X_1795524517421.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
+  },
+  {
+   "id": "thepaper-34554865",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34554865",
+   "title": "福清一危废处理企业火灾引发500万索赔诉讼，起火原因认定成庭审焦点",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795577293612_ifEKQp_1795577293753.png\" />",
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
   },
   {
    "id": "thepaper-34547668",
    "url": "https://www.thepaper.cn/newsDetail_forward_34547668",
    "title": "孩子拉倒饮料柜多名食客挺身相救，家长：感谢陌生人，孩子淘气不怨饭店",
    "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795510393524_hJysQx_1795510393815.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
   },
   {
-   "id": "thepaper-34549129",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34549129",
-   "title": "一水连世界，共话城市未来",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795522821171_ScjdCY_1795522928946.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
+   "id": "thepaper-34548224",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34548224",
+   "title": "凌晨偶遇代驾小哥独自骑行，合肥车主暖心捎至市区",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795515330734_pny24t_1795515331005.png\" />",
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
   },
   {
-   "id": "thepaper-34550196",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34550196",
-   "title": "王毅同英国外交大臣米利班德通电话",
-   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795530587099_Kc6B54_1795530587308.png\" />",
-   "date_published": "Wed, 25 Nov 2026 10:19:24 GMT"
+   "id": "thepaper-34557671",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34557671",
+   "title": "上海市人大常委会党组、市政府党组、市政协党组召开会议，坚决拥护党中央决定",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/client/focusNewsWwwBig.png\" />",
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
+  },
+  {
+   "id": "thepaper-34550535",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34550535",
+   "title": "生活成本、军费开支、气候危机……这个秋天，怒火席卷欧洲多国",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795559894927_Hke6Cr_1795559895136.png\" />",
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
+  },
+  {
+   "id": "thepaper-34553471",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34553471",
+   "title": "视频丨神舟二十四号载人飞船发射取得圆满成功",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795569029128_szSHT7_1795569029249.png\" />",
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
+  },
+  {
+   "id": "thepaper-34554562",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34554562",
+   "title": "视频丨涉案金额超150亿元，一名经济犯罪嫌疑人从俄罗斯被引渡回国",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795576650318_SHkMm3_1795576650485.png\" />",
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
+  },
+  {
+   "id": "thepaper-34548215",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34548215",
+   "title": "一天狂揽254亿元！一款游戏破纪录背后的文娱IP吸金图谱",
+   "content_html": "<img src=\"https://imgpai.thepaper.cn/newpai/image/1795604309000_ZSRJ8i_1795604485724.png\" />",
+   "date_published": "Wed, 25 Nov 2026 20:05:37 GMT"
   }
  ]
 }
